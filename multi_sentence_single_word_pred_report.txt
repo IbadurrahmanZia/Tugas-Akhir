@@ -1,0 +1,7523 @@
+########################################################
+
+Sentence
+--------
+Very nicely located next to the beach . A little noise from nearby Finn ' s during daytime . Good for surfers . staff very friendly . rooms of OK standard . good massage , nice breakfast - buffet . good overall service .
+
+Prediction
+--------
+nicely, located, POS
+friendly, staff, POS
+OK, rooms, NEU
+good, massage, POS
+nice, breakfast, POS
+good, service, POS
+
+Actual
+--------
+noise, Finn, NEG
+Good, surfers, POS
+friendly, staff, POS
+OK, rooms, NEU
+good, massage, POS
+nice, breakfast, POS
+good, service, POS
+
+Only in Prediction (mispredict)
+--------
+nicely, located, POS
+
+Only in Gold (not predicted)
+--------
+Good, surfers, POS
+noise, Finn, NEG
+
+########################################################
+
+Sentence
+--------
+The room is spacious and clean . Accessible to the center and the staff is very accommodating . The food is satisfying . Superb service . The pool is clean but the time of using the pool is only at 10 pm .
+
+Prediction
+--------
+spacious, room, POS
+clean, room, POS
+satisfying, food, POS
+Superb, service, POS
+clean, pool, POS
+
+Actual
+--------
+spacious, room, POS
+clean, room, POS
+Accessible, center, POS
+satisfying, food, POS
+Superb, service, POS
+
+Only in Prediction (mispredict)
+--------
+clean, pool, POS
+
+Only in Gold (not predicted)
+--------
+Accessible, center, POS
+
+########################################################
+
+Sentence
+--------
+I stayed at the Harris for 1 evening on my way back to Australia . Service was friendly , room very clean and the bed comfortable . Just what I needed before flying home . Breakfast was plenty of fruit , pancakes and of course good coffee .
+
+Prediction
+--------
+friendly, Service, POS
+clean, room, POS
+comfortable, bed, POS
+plenty, Breakfast, POS
+plenty, fruit, POS
+good, coffee, POS
+
+Actual
+--------
+friendly, Service, POS
+clean, room, POS
+comfortable, bed, POS
+
+Only in Prediction (mispredict)
+--------
+good, coffee, POS
+plenty, Breakfast, POS
+plenty, fruit, POS
+
+########################################################
+
+Sentence
+--------
+We ' ve stayed here 11 nights . Hotel is really nice , room was lovely , we ' ve just really dissapointed when we ' ve seen bathroom which was really old and in bad condition . Swimmimg pool was amazing , we would just suggest to get more then 5 sunbeds . Breakfast was always lovely .
+
+Prediction
+--------
+nice, Hotel, POS
+lovely, room, POS
+old, bathroom, NEG
+amazing, pool, POS
+lovely, Breakfast, POS
+
+Actual
+--------
+nice, Hotel, POS
+lovely, room, POS
+dissapointed, bathroom, NEG
+old, bathroom, NEG
+lovely, Breakfast, POS
+
+Only in Prediction (mispredict)
+--------
+amazing, pool, POS
+
+Only in Gold (not predicted)
+--------
+dissapointed, bathroom, NEG
+
+########################################################
+
+Sentence
+--------
+clean but very small room . not enough space for big luggage . but the room include bath room is clean . comfy bed . very value for money . very nice for budget hotel . would recommend this to my friends and fams for sure .
+
+Prediction
+--------
+clean, room, POS
+small, room, NEG
+clean, room, POS
+comfy, bed, POS
+value, money, POS
+
+Actual
+--------
+small, room, NEG
+clean, room, POS
+clean, room, POS
+comfy, bed, POS
+comfy, bed, POS
+value, money, POS
+
+########################################################
+
+Sentence
+--------
+Dirty room ( toilet hadn ' t been cleaned ) , mosquitos in room and breakfast running out an hour early ( had to ask staff to make some more ) , much better places nearby for half the cost that are clean and friendly and have better pool etc .
+
+Prediction
+--------
+Dirty, room, NEG
+clean, cost, POS
+friendly, cost, POS
+better, pool, POS
+
+Actual
+--------
+Dirty, room, NEG
+mosquitos, room, NEG
+
+Only in Prediction (mispredict)
+--------
+clean, cost, POS
+better, pool, POS
+friendly, cost, POS
+
+Only in Gold (not predicted)
+--------
+mosquitos, room, NEG
+
+########################################################
+
+Sentence
+--------
+Tusita Hotel is an good budget hotel with value for money . Good location ( 10mins from Kuta beach ) . But breakfast is not good ; so better to book without breakfast and try other restaurants nearby .
+
+Prediction
+--------
+good, budget, POS
+Good, location, POS
+
+Actual
+--------
+value, money, POS
+Good, location, POS
+
+Only in Prediction (mispredict)
+--------
+good, budget, POS
+
+Only in Gold (not predicted)
+--------
+value, money, POS
+
+########################################################
+
+Sentence
+--------
+the rooms are unique . . . and the food is delicious . . . the room price is affordable . The staff are friendly . Recomended for the single travel like me hahaha 😂 . . . . . By the way I like the background in my room .
+
+Prediction
+--------
+unique, rooms, POS
+delicious, food, POS
+friendly, staff, POS
+
+Actual
+--------
+unique, rooms, POS
+delicious, food, POS
+friendly, staff, POS
+
+########################################################
+
+Sentence
+--------
+Stay only 1 night , location was quite good near mcd and starbuck but the Ac was leaking and need more than 30 minutes to fix it . Slow response , need more attention to serve guest .
+
+Prediction
+--------
+good, location, POS
+leaking, Ac, NEG
+Slow, response, NEG
+
+Actual
+--------
+good, location, POS
+near, mcd, POS
+near, starbuck, POS
+Slow, response, NEG
+
+Only in Prediction (mispredict)
+--------
+leaking, Ac, NEG
+
+Only in Gold (not predicted)
+--------
+near, mcd, POS
+near, starbuck, POS
+
+########################################################
+
+Sentence
+--------
+Locations is nice , near to the airport , even you can get there on foot . Kind staffs serve you with warmly welcome drinks , baggage store , gorgeous breakfast with mysterious traditional Indonesian music and of course clean rooms . Swimming pool is a little bit small .
+
+Prediction
+--------
+nice, Locations, POS
+near, airport, POS
+Kind, staffs, POS
+gorgeous, breakfast, POS
+clean, rooms, POS
+small, pool, NEG
+
+Actual
+--------
+nice, Locations, POS
+near, airport, POS
+Kind, staffs, POS
+warmly, drinks, POS
+gorgeous, breakfast, POS
+clean, rooms, POS
+
+Only in Prediction (mispredict)
+--------
+small, pool, NEG
+
+Only in Gold (not predicted)
+--------
+warmly, drinks, POS
+
+########################################################
+
+Sentence
+--------
+I booked one room pool view . . . the room is BIG , nice shower and bath tub . swimming pools are great , my kid love it very much . . . breakfast was good , staff are great and helpful . the location was a little far away from busy city . . but no problem , because the hotel can arrange transportation to Kuta and other places .
+
+Prediction
+--------
+BIG, room, POS
+nice, shower, POS
+good, breakfast, POS
+great, staff, POS
+helpful, staff, POS
+
+Actual
+--------
+BIG, room, POS
+good, breakfast, POS
+great, staff, POS
+helpful, staff, POS
+
+Only in Prediction (mispredict)
+--------
+nice, shower, POS
+
+########################################################
+
+Sentence
+--------
+Booked a superior room on the 5th floor , stayed for 3 nights at the Aston Inn , and i liked the room i was booked in . Never had a chance to try the breakfast though . Room service is seriously poor and need a significant improvement . I probably stay here again to try their new building , hopefully the service will be much better .
+
+Prediction
+--------
+liked, room, POS
+
+Actual
+--------
+liked, room, POS
+
+########################################################
+
+Sentence
+--------
+this is my first time stay at sun royal hotel . the location is moderate , close enough to small convenient store nearby to buy some snacks . overall the hotel is quite good , even though it could become very noise when a lot of rude quests play at the swimming pool at night .
+
+Prediction
+--------
+moderate, location, NEU
+good, hotel, POS
+
+Actual
+--------
+moderate, location, NEU
+nearby, snacks, POS
+good, hotel, POS
+rude, quests, NEG
+noise, hotel, NEG
+
+Only in Gold (not predicted)
+--------
+noise, hotel, NEG
+rude, quests, NEG
+nearby, snacks, POS
+
+########################################################
+
+Sentence
+--------
+This looks like an amazing hotel at first glance . A beautiful lobby and roof top pool with a bar . But the rooms are barely sufficient , the bar tender was clueless and the place just had a smell of sewage . The room we stayed in had a very dodgy balcony that faced the main road .
+
+Prediction
+--------
+amazing, hotel, POS
+beautiful, lobby, POS
+
+Actual
+--------
+amazing, hotel, POS
+beautiful, lobby, POS
+
+########################################################
+
+Sentence
+--------
+We stayed here with friends as part of a wedding and were made to feel very welcome . The lovely staff and pool area is definitely a bonus . Rooms are very basic , with the bathrooms being very outdated . Other than the rooms itself , the rest of the hotel is great ! Convenient location down a side alley in the heart of Legian .
+
+Prediction
+--------
+lovely, staff, POS
+basic, Rooms, NEU
+outdated, bathrooms, NEG
+Convenient, location, POS
+
+Actual
+--------
+lovely, staff, POS
+
+Only in Prediction (mispredict)
+--------
+Convenient, location, POS
+basic, Rooms, NEU
+outdated, bathrooms, NEG
+
+########################################################
+
+Sentence
+--------
+A nice hotel to stay in , away from the hustle and bustle of the tourist strip . Was here for 8 days and was a pleasant stay . Really good pool . Restaurant was good for dinner ( excellent Nasi Goreng istemewa ) . Only had breakfast here once , not really impressed by it . Preferred " Nasi Bungkus " on the beach . Will be back again soon .
+
+Prediction
+--------
+nice, hotel, POS
+pleasant, stay, POS
+good, pool, POS
+good, Restaurant, POS
+good, dinner, POS
+
+Actual
+--------
+nice, hotel, POS
+pleasant, stay, POS
+good, pool, POS
+good, Restaurant, POS
+good, dinner, POS
+
+########################################################
+
+Sentence
+--------
+We stayed at Melia for 5 nights on the all inclusive package , absolutely worth it . Everyone there was so amazing . Kids club is especially amazing - thank you to Sasih , Finda , Dani you were fantastic with our girls and so accommodating with the babysitting .
+
+Prediction
+--------
+amazing, Everyone, POS
+
+Actual
+--------
+stayed, package, NEU
+amazing, Everyone, POS
+
+Only in Gold (not predicted)
+--------
+stayed, package, NEU
+
+########################################################
+
+Sentence
+--------
+Very nice hotel with friendly staffs . Location is near to airport , mall , and some shopping area . Food also good . Room facility and amenities are also nice . Bathroom quite outdated and no hair dryer , you need to request to reception on hair dryer where staff will deliver it to your room .
+
+Prediction
+--------
+nice, hotel, POS
+friendly, staffs, POS
+good, Food, POS
+nice, amenities, POS
+outdated, Bathroom, NEG
+
+Actual
+--------
+friendly, staffs, POS
+near, airport, POS
+near, mall, POS
+good, Food, POS
+nice, amenities, POS
+outdated, Bathroom, NEG
+
+Only in Prediction (mispredict)
+--------
+nice, hotel, POS
+
+Only in Gold (not predicted)
+--------
+near, mall, POS
+near, airport, POS
+
+########################################################
+
+Sentence
+--------
+Booked in for day use before late flight . Hotel is old and needs attention . Reception would not change a 50k note for transport . Room was booked for 1pm check in , waited for an hour as room not ready . As a Harris hotel fan and member I was very very disappointed with the standard of property and service . Would not recommend .
+
+Prediction
+--------
+old, Hotel, NEG
+disappointed, property, NEG
+disappointed, service, NEG
+
+Actual
+--------
+old, Hotel, NEG
+
+Only in Prediction (mispredict)
+--------
+disappointed, service, NEG
+disappointed, property, NEG
+
+########################################################
+
+Sentence
+--------
+Great ambience , very beautiful setting by the beach - outdoor seating with sea view , well lit and well decorated with lots of lanterns , live music . The food and drinks were very yummy and we really enjoyed our dinner here . Our waiter Aris was very friendly and helpful , and provided very good service . This place also lets you dine till late . Would highly recommend this place .
+
+Prediction
+--------
+Great, ambience, POS
+beautiful, setting, POS
+yummy, food, POS
+yummy, drinks, POS
+enjoyed, dinner, POS
+good, service, POS
+
+Actual
+--------
+Great, ambience, POS
+beautiful, setting, POS
+beautiful, lanterns, POS
+yummy, food, POS
+yummy, drinks, POS
+friendly, waiter, POS
+good, service, POS
+
+Only in Prediction (mispredict)
+--------
+enjoyed, dinner, POS
+
+Only in Gold (not predicted)
+--------
+friendly, waiter, POS
+beautiful, lanterns, POS
+
+########################################################
+
+Sentence
+--------
+Do not stay here . Terrible dirty and outdated rooms , poor service from staff , dirty bathroom and toilet . Shower doesn ' t work properly . Spent as little time as I could in my " hotel " to avoid being miserable due to the poor facilities this hotel offers . Mosquito heaven .
+
+Prediction
+--------
+Terrible, rooms, NEG
+dirty, rooms, NEG
+outdated, rooms, NEG
+poor, service, NEG
+poor, staff, NEG
+dirty, bathroom, NEG
+dirty, toilet, NEG
+poor, facilities, NEG
+
+Actual
+--------
+outdated, rooms, NEG
+dirty, rooms, NEG
+dirty, bathroom, NEG
+dirty, toilet, NEG
+
+Only in Prediction (mispredict)
+--------
+poor, staff, NEG
+poor, service, NEG
+Terrible, rooms, NEG
+poor, facilities, NEG
+
+########################################################
+
+Sentence
+--------
+Great location , just few step of walking distance to beachwalk . friendly stuff . Great breakfast . There are pick up service from airport , but we just too late to inform and we have to take taxi to hotel from airport . But it ' s just a short distance from airport . And the bar front of hotel is a best place for chilling after long day beach activities .
+
+Prediction
+--------
+Great, location, POS
+friendly, stuff, POS
+Great, breakfast, POS
+
+Actual
+--------
+Great, location, POS
+friendly, stuff, POS
+Great, breakfast, POS
+
+########################################################
+
+Sentence
+--------
+Currently under renos , so there ' s noise But the price reflects that . . hence 3 * * * .
+
+Prediction
+--------
+
+Actual
+--------
+price, that, NEG
+
+Only in Gold (not predicted)
+--------
+price, that, NEG
+
+########################################################
+
+Sentence
+--------
+Very satisfied with the spa 🫶 🏻 Room was nice and clean , all the staffs are very friendly and approachable , the whole ambiance also relaxing . Sunset view from the pool was nice , even though the music somehow didn ’ t fit , still okay .
+
+Prediction
+--------
+satisfied, spa, POS
+nice, Room, POS
+clean, Room, POS
+friendly, staffs, POS
+approachable, staffs, POS
+relaxing, ambiance, POS
+
+Actual
+--------
+satisfied, spa, POS
+nice, Room, POS
+clean, Room, POS
+friendly, staffs, POS
+approachable, staffs, POS
+relaxing, ambiance, POS
+nice, view, POS
+
+Only in Gold (not predicted)
+--------
+nice, view, POS
+
+########################################################
+
+Sentence
+--------
+When we arrived there was no hassle . we got our hotel cards and straight up to our rooms , which were lovely and tidy . Great for what we paid . The hotel is close to shopping destinations and right across the road fro the beach . Staff are amazing and make you feel like family . they do a lot to please you .
+
+Prediction
+--------
+lovely, rooms, POS
+tidy, rooms, POS
+amazing, Staff, POS
+
+Actual
+--------
+lovely, rooms, POS
+tidy, rooms, POS
+amazing, Staff, POS
+
+########################################################
+
+Sentence
+--------
+The hotel loation is beach front ( kuta beach ) near shopping mall with beach and sea view ( beachwalk ) than we can find traditional market also , and all most the staff friendly and competence , thank you mbk komang aryawati for arrange the room for my fam and me , thank you . .
+
+Prediction
+--------
+near, beachwalk, POS
+friendly, staff, POS
+competence, staff, POS
+
+Actual
+--------
+friendly, staff, POS
+competence, staff, POS
+
+Only in Prediction (mispredict)
+--------
+near, beachwalk, POS
+
+########################################################
+
+Sentence
+--------
+It can support your both need . . business and leisure . Near to kuta center and business spot . Very close to so many restaurant . But the street always trafic jam better if you walk or use online taxi . So noisee from the street .
+
+Prediction
+--------
+
+Actual
+--------
+noisee, street, NEG
+close, restaurant, POS
+
+Only in Gold (not predicted)
+--------
+noisee, street, NEG
+close, restaurant, POS
+
+########################################################
+
+Sentence
+--------
+Fantastic place to stay ! In front of Kuta Beach , rooms are immaculate , they clean it everyday , replace towels and toiletries . Bed is comfortable , you feel like you are home ! Very happy with the staff very friendly and helpful , particularly Arsini , Rosayanti , Rossi at the front desk ! Polite and always smiling and lots if fun . We are definitely coming back ! !
+
+Prediction
+--------
+Fantastic, place, POS
+immaculate, rooms, POS
+comfortable, Bed, POS
+happy, staff, POS
+friendly, staff, POS
+helpful, staff, POS
+Polite, staff, POS
+
+Actual
+--------
+Fantastic, place, POS
+immaculate, rooms, POS
+comfortable, Bed, POS
+friendly, staff, POS
+helpful, staff, POS
+Polite, staff, POS
+
+Only in Prediction (mispredict)
+--------
+happy, staff, POS
+
+########################################################
+
+Sentence
+--------
+Wonderful stay at Level Melia . Despite one of the oldest hotel in Nusa Dua . Still very impressed by level of services and attention delivered to guest . A nice touch at Sorrento for breakfast with exclusive menu and a la carte choice . A must try .
+
+Prediction
+--------
+Wonderful, stay, POS
+impressed, services, POS
+impressed, attention, POS
+exclusive, menu, POS
+
+Actual
+--------
+Wonderful, stay, POS
+impressed, services, POS
+
+Only in Prediction (mispredict)
+--------
+impressed, attention, POS
+exclusive, menu, POS
+
+########################################################
+
+Sentence
+--------
+Excellent place to stay . . but need transportation to get around as not in the tourist district . Needs better lighting in the kitchen and some cooking equipment if you want to do anything yourself .
+
+Prediction
+--------
+Excellent, place, POS
+
+Actual
+--------
+Excellent, place, POS
+
+########################################################
+
+Sentence
+--------
+The place is cool , located in the urban area of Kuta . The staff are nice , their response is fast . Food is tasty . The room is clean and tidy when I was arrived . Great experience . Definitely will be staying here again .
+
+Prediction
+--------
+cool, place, POS
+nice, staff, POS
+fast, response, POS
+fast, Food, POS
+tasty, Food, POS
+clean, room, POS
+tidy, room, POS
+Great, experience, POS
+
+Actual
+--------
+cool, place, POS
+nice, staff, POS
+tasty, Food, POS
+clean, room, POS
+tidy, room, POS
+
+Only in Prediction (mispredict)
+--------
+Great, experience, POS
+fast, Food, POS
+fast, response, POS
+
+########################################################
+
+Sentence
+--------
+We were very impressed with this hotel . The staff were pleasant , the pool was excellent and the rooms were clean . The only minor complaint was that the cleaners knocked on our door in the morning even though we had a do not disturb sign on .
+
+Prediction
+--------
+impressed, hotel, POS
+pleasant, staff, POS
+excellent, pool, POS
+clean, rooms, POS
+
+Actual
+--------
+impressed, hotel, POS
+pleasant, staff, POS
+excellent, pool, POS
+clean, rooms, POS
+
+########################################################
+
+Sentence
+--------
+My husband and I were in Bali for our honeymoon and really enjoyed our time here . The room was large , bright and clean and not badly priced . The pool was fabulous and the breakfast was the best we were offered at any hotel we had been at .
+
+Prediction
+--------
+large, room, POS
+bright, room, POS
+clean, room, POS
+fabulous, pool, POS
+best, breakfast, POS
+
+Actual
+--------
+enjoyed, time, POS
+large, room, POS
+bright, room, POS
+clean, room, POS
+best, breakfast, POS
+fabulous, pool, POS
+
+Only in Gold (not predicted)
+--------
+enjoyed, time, POS
+
+########################################################
+
+Sentence
+--------
+I ' ve been visiting this hotel minimum twice a year . Since 15year ago . Quite area . Perfect services . Good food and the most important thing is kids friendly . They have a lots of kids activities ( every day ) In this pandemic . No worry . They have a strict health protocols . Thanks to Melia team Pak Sutarja , Wayan Dangin , Yuli .
+
+Prediction
+--------
+Quite, area, POS
+Perfect, services, POS
+Good, food, POS
+
+Actual
+--------
+visiting, hotel, NEU
+Quite, area, POS
+Perfect, services, POS
+Good, food, POS
+
+Only in Gold (not predicted)
+--------
+visiting, hotel, NEU
+
+########################################################
+
+Sentence
+--------
+Great location . Right in front of the beach though the rooms are in the basement so you won ' t be able to see it from your rooms . But location is perfect . It is in the heart of kuta . Friendly staff ! Rooms are great . Bed is comfortable . Value for money !
+
+Prediction
+--------
+Great, location, POS
+perfect, location, POS
+Friendly, staff, POS
+great, Rooms, POS
+comfortable, Bed, POS
+Value, money, POS
+
+Actual
+--------
+Great, location, POS
+perfect, location, POS
+Friendly, staff, POS
+great, Rooms, POS
+comfortable, Bed, POS
+Value, money, POS
+
+########################################################
+
+Sentence
+--------
+This is my second time choosed Fame Hotel . Always the same for helpfull and friendly staff especially Mr . Kadek Martin . . Thank you for having us , appreciated your best service to complete guest need . . . .
+
+Prediction
+--------
+helpfull, staff, POS
+friendly, staff, POS
+best, service, POS
+
+Actual
+--------
+friendly, staff, POS
+helpfull, staff, POS
+
+Only in Prediction (mispredict)
+--------
+best, service, POS
+
+########################################################
+
+Sentence
+--------
+Great location , not so expensive so i can say this hotel is value for money . But please prepare your own toothbrush and toothpaste because the hotel not provided it for you , not sure whether it applies for all the bookings because we booked the room only .
+
+Prediction
+--------
+Great, location, POS
+value, money, POS
+
+Actual
+--------
+Great, location, POS
+value, money, POS
+
+########################################################
+
+Sentence
+--------
+Had a flight cancelled so airline put me up at hotel . Staff was very friendly and accommodating . Walking distance to all the attractions of kuta but far enough away for some quiet and no madness . Rooms are clean and modern . Hot water shower is very nice and hotel has a good pool for relaxing .
+
+Prediction
+--------
+friendly, Staff, POS
+clean, Rooms, POS
+modern, Rooms, POS
+good, pool, POS
+
+Actual
+--------
+friendly, Staff, POS
+clean, Rooms, POS
+modern, Rooms, POS
+nice, shower, POS
+relaxing, pool, POS
+
+Only in Prediction (mispredict)
+--------
+good, pool, POS
+
+Only in Gold (not predicted)
+--------
+nice, shower, POS
+relaxing, pool, POS
+
+########################################################
+
+Sentence
+--------
+We stayed here for 2 nights . The staff were friendly , and the meal was good enough for budget hotel . The location is just 5 - 10 minutes from the airport , the atm and the mini market is just a walk . I like the clean bathroom but the wifi is not really fast here compared to fave kuta square .
+
+Prediction
+--------
+friendly, staff, POS
+good, meal, POS
+clean, bathroom, POS
+
+Actual
+--------
+friendly, staff, POS
+good, meal, POS
+clean, bathroom, POS
+
+########################################################
+
+Sentence
+--------
+Great hotel , nice rooms , affordable food , friendly staff . Sometimes the staff should not involve themselves with guests ' personal matters . I had an incident with a moped where the owner took the moped from where I parked it and wanted money off me . 1 hotel staff hassled me over this and delivered the violent man to my door . Not impressed about that !
+
+Prediction
+--------
+Great, hotel, POS
+nice, rooms, POS
+affordable, food, POS
+friendly, staff, POS
+
+Actual
+--------
+Great, hotel, POS
+nice, rooms, POS
+affordable, food, POS
+friendly, staff, POS
+
+########################################################
+
+Sentence
+--------
+I found the rooms to be very old fashioned and needing some personality . The bathroom needed a make over and definitely a new shower curtain . The walls need some pictures . . . the couches need some cushions . . However the breakfast was yummy and the staff lovely and helpful . Ayu and Kris were just lovely and so helpful .
+
+Prediction
+--------
+yummy, breakfast, POS
+lovely, staff, POS
+helpful, staff, POS
+lovely, Ayu, POS
+lovely, Kris, POS
+
+Actual
+--------
+yummy, breakfast, POS
+lovely, staff, POS
+lovely, Ayu, POS
+lovely, Kris, POS
+helpful, Kris, POS
+helpful, Ayu, POS
+helpful, staff, POS
+
+Only in Gold (not predicted)
+--------
+helpful, Kris, POS
+helpful, Ayu, POS
+
+########################################################
+
+Sentence
+--------
+unforgettable stay ! ! ! fantastic place & people especially the guest relation : miss NOVITA ! ! ! We cant wait to go back ! ! ! The service , the room , the food , the facilities , the location , the whole combination was GREAT !
+
+Prediction
+--------
+fantastic, place, POS
+fantastic, people, POS
+GREAT, service, POS
+GREAT, room, POS
+GREAT, food, POS
+GREAT, facilities, POS
+GREAT, location, POS
+
+Actual
+--------
+GREAT, combination, POS
+GREAT, location, POS
+GREAT, facilities, POS
+GREAT, room, POS
+GREAT, service, POS
+fantastic, place, POS
+fantastic, people, POS
+
+Only in Prediction (mispredict)
+--------
+GREAT, food, POS
+
+Only in Gold (not predicted)
+--------
+GREAT, combination, POS
+
+########################################################
+
+Sentence
+--------
+This neat and clean old style hotel is run by very friendly staff . Our room was clean , linen fresh . Aircondition worked well . The wifi seemed to go in and out around the hotel . Breakfast was very nice Balinese food and they cook omelettes too if asked . Across the road from the beach , too . Convenient to airport .
+
+Prediction
+--------
+neat, hotel, POS
+clean, hotel, POS
+friendly, staff, POS
+clean, room, POS
+fresh, linen, POS
+nice, Breakfast, POS
+
+Actual
+--------
+clean, hotel, POS
+neat, hotel, POS
+friendly, staff, POS
+clean, room, POS
+in, wifi, POS
+out, wifi, POS
+nice, Breakfast, POS
+Convenient, airport, POS
+
+Only in Prediction (mispredict)
+--------
+fresh, linen, POS
+
+Only in Gold (not predicted)
+--------
+in, wifi, POS
+Convenient, airport, POS
+out, wifi, POS
+
+########################################################
+
+Sentence
+--------
+The room is small , bathroom is small . but clean and average buffet breakfast . Room service is fast . A very convenient place to stay in Bali . Many mini mart and massage parlor and pubs within walking distance . Beach area is 7 min walking distance . Taxi is available every time needed .
+
+Prediction
+--------
+small, room, NEG
+small, bathroom, NEG
+
+Actual
+--------
+available, Taxi, POS
+convenient, place, POS
+average, breakfast, NEU
+small, room, NEG
+small, bathroom, NEG
+clean, bathroom, POS
+
+Only in Gold (not predicted)
+--------
+average, breakfast, NEU
+available, Taxi, POS
+convenient, place, POS
+clean, bathroom, POS
+
+########################################################
+
+Sentence
+--------
+Nice place to stay . Amenities were minimal but were very well maintained . The rooms were clean and the location was grt . It has a restaurent that serves continental and local food . They have roof top pool and bar and restaurent which are well maintained .
+
+Prediction
+--------
+Nice, place, POS
+minimal, Amenities, NEU
+clean, rooms, POS
+
+Actual
+--------
+Nice, place, POS
+minimal, Amenities, NEG
+clean, rooms, POS
+grt, location, POS
+continental, restaurent, POS
+
+Only in Prediction (mispredict)
+--------
+minimal, Amenities, NEU
+
+Only in Gold (not predicted)
+--------
+minimal, Amenities, NEG
+continental, restaurent, POS
+grt, location, POS
+
+########################################################
+
+Sentence
+--------
+We found our second home in Melia Bali with its very good and friendly environment for family . Especially the delicious balinese cuisine served by Chef Nyoman Putra Asmara with his assistant Mr Hendra who is always very warm friendly with his team to treat us so comfortably . Also thanks to Mr Doni is always very helpful with all the check in and information .
+
+Prediction
+--------
+good, environment, POS
+friendly, environment, POS
+
+Actual
+--------
+friendly, environment, POS
+delicious, cuisine, POS
+delicious, Chef, POS
+
+Only in Prediction (mispredict)
+--------
+good, environment, POS
+
+Only in Gold (not predicted)
+--------
+delicious, cuisine, POS
+delicious, Chef, POS
+
+########################################################
+
+Sentence
+--------
+The property lies on the beach . The room is average , but value for money . Toiletries are very minimal without tooth brush & paste . No coffee nor tea in room and the hot drinking water is only available at the lobby .
+
+Prediction
+--------
+average, room, NEU
+value, money, POS
+minimal, Toiletries, NEG
+No, coffee, NEG
+No, tea, NEG
+
+Actual
+--------
+average, room, NEU
+value, money, POS
+minimal, Toiletries, NEG
+No, coffee, NEG
+No, tea, NEG
+
+########################################################
+
+Sentence
+--------
+The rooms are modern with clean facilities . The hotelmstaff is friendly and helpful . The hotel is a 5 minute walk away from the beach . There are many options to go for food nearby . Good value for the price you pay per room .
+
+Prediction
+--------
+modern, rooms, POS
+clean, facilities, POS
+Good, value, POS
+Good, price, POS
+
+Actual
+--------
+modern, rooms, POS
+clean, facilities, POS
+friendly, hotelmstaff, POS
+helpful, hotelmstaff, POS
+
+Only in Prediction (mispredict)
+--------
+Good, price, POS
+Good, value, POS
+
+Only in Gold (not predicted)
+--------
+friendly, hotelmstaff, POS
+helpful, hotelmstaff, POS
+
+########################################################
+
+Sentence
+--------
+Good location and price , nice pool and breakfast . Rooms are okay . The only thing to watch out for , have noticed a charge on my credit card for around $ 50 few months after my stay , have emailed the hotel but no response .
+
+Prediction
+--------
+Good, location, POS
+Good, price, POS
+nice, pool, POS
+nice, breakfast, POS
+okay, Rooms, NEU
+
+Actual
+--------
+Good, location, POS
+Good, price, POS
+nice, pool, POS
+nice, breakfast, POS
+okay, Rooms, NEU
+
+########################################################
+
+Sentence
+--------
+Exceptional Guest Service and facility . Staffs went out and beyond to provide a five star stay . I enjoyed the Pilates and Yoga classes offered every morning . You should consider Melia Nusa Dua for your next vacation or quarantine in beautiful Bali Island !
+
+Prediction
+--------
+Exceptional, Service, POS
+Exceptional, facility, POS
+enjoyed, Pilates, POS
+
+Actual
+--------
+Exceptional, facility, POS
+enjoyed, Pilates, POS
+
+Only in Prediction (mispredict)
+--------
+Exceptional, Service, POS
+
+########################################################
+
+Sentence
+--------
+The staff were helpful and friendly . The rooms were neat but not particularly clean . The pool was lovely . I did spot a cockroach in the bathroom but for what it costs to stay here ( cheaaaap ) it didn ' t bother me .
+
+Prediction
+--------
+helpful, staff, POS
+friendly, staff, POS
+neat, rooms, POS
+lovely, pool, POS
+cockroach, bathroom, NEG
+
+Actual
+--------
+helpful, staff, POS
+friendly, staff, POS
+neat, rooms, POS
+lovely, pool, POS
+cheaaaap, costs, POS
+
+Only in Prediction (mispredict)
+--------
+cockroach, bathroom, NEG
+
+Only in Gold (not predicted)
+--------
+cheaaaap, costs, POS
+
+########################################################
+
+Sentence
+--------
+Stayed there for a week with family great place very very good staff and close to every thing . . . well done keep it up . . . . . I will stay here only in my next trip there . . . . see you soon . . . . and make sure you start making Indian chai in your restauRant that is only little thing missing . .
+
+Prediction
+--------
+great, place, POS
+good, staff, POS
+
+Actual
+--------
+good, staff, POS
+
+Only in Prediction (mispredict)
+--------
+great, place, POS
+
+########################################################
+
+Sentence
+--------
+Why average ? Its just like the other great hotels located in Nusa Dua . Its a family friendly hotel , with their marshmallow - BBQ in the afternoon at the beach , with their kids activities inside . One of a great hotels in Nusa Dua that provides everything inside the hotel , in my opinion , this kind of hotel is a really good for family .
+
+Prediction
+--------
+good, hotel, POS
+
+Actual
+--------
+great, hotels, POS
+
+Only in Prediction (mispredict)
+--------
+good, hotel, POS
+
+Only in Gold (not predicted)
+--------
+great, hotels, POS
+
+########################################################
+
+Sentence
+--------
+Great Hotel , I like the view , clean room , great service . But the bathroom lil bit leaked . Overall i like to stay there . I will back for sure there if i have any schedule in Singaraja . The location also strategist for any food court .
+
+Prediction
+--------
+Great, Hotel, POS
+like, view, POS
+clean, room, POS
+great, service, POS
+like, stay, POS
+strategist, location, POS
+
+Actual
+--------
+strategist, location, POS
+Great, Hotel, POS
+like, view, POS
+clean, room, POS
+great, service, POS
+like, Overall, POS
+
+Only in Prediction (mispredict)
+--------
+like, stay, POS
+
+Only in Gold (not predicted)
+--------
+like, Overall, POS
+
+########################################################
+
+Sentence
+--------
+Good hotel . 15 min walk to the beach . We had no view from the balcony but was a fair deal for the price . They could have refilled the soap and stuff in the bathroom . Beds were good and breakfast was oke . Staff was very kind !
+
+Prediction
+--------
+Good, hotel, POS
+fair, deal, POS
+good, Beds, POS
+oke, breakfast, NEU
+kind, Staff, POS
+
+Actual
+--------
+oke, breakfast, NEU
+Good, hotel, POS
+good, Beds, POS
+kind, Staff, POS
+
+Only in Prediction (mispredict)
+--------
+fair, deal, POS
+
+########################################################
+
+Sentence
+--------
+We were scheduled to stay here for 2 nights but only made it through 1 . The toilet in our room didn ' t work so we were told we had to use the one in the lobby . Sheets and towels had stains everywhere and bathroom was very dirty . The hotel staff open our door to let other guests in while we were still in bed . Not happy !
+
+Prediction
+--------
+stains, Sheets, NEG
+stains, towels, NEG
+dirty, bathroom, NEG
+
+Actual
+--------
+dirty, bathroom, NEG
+
+Only in Prediction (mispredict)
+--------
+stains, Sheets, NEG
+stains, towels, NEG
+
+########################################################
+
+Sentence
+--------
+appalling hotel where food is really bad . we had a room where we could hear every word whispered by the neighbors next door . The 6am tour in the beach to see dolphins is very disappointing and disgusting , fancy those 60 boats running after poor dolfins ! !
+
+Prediction
+--------
+appalling, hotel, NEG
+bad, food, NEG
+
+Actual
+--------
+appalling, hotel, NEU
+bad, food, NEG
+
+Only in Prediction (mispredict)
+--------
+appalling, hotel, NEG
+
+Only in Gold (not predicted)
+--------
+appalling, hotel, NEU
+
+########################################################
+
+Sentence
+--------
+The room was clean and breakfast was good too , but when it was heavy rain , the outside passage was flooded . And we had to go through that way , so it was only uncomfortable matter for me . If it is improved , I wanna use this hotel again ! !
+
+Prediction
+--------
+clean, room, POS
+good, breakfast, POS
+
+Actual
+--------
+clean, room, POS
+good, breakfast, POS
+flooded, passage, NEG
+
+Only in Gold (not predicted)
+--------
+flooded, passage, NEG
+
+########################################################
+
+Sentence
+--------
+Room feels old especially the shower . There ' s nothing really special about this hotel . It doesn ' t have any character or in other word not charming at all . Staff is great . The breakfast buffet is good . Location is far from the beach and you need transportation to go anywhere . Unless you want to walk for 45 minutes to get to the beach .
+
+Prediction
+--------
+old, Room, NEG
+old, shower, NEG
+great, Staff, POS
+good, breakfast, POS
+far, Location, NEG
+far, beach, NEG
+
+Actual
+--------
+old, Room, POS
+old, shower, NEG
+great, Staff, POS
+
+Only in Prediction (mispredict)
+--------
+far, beach, NEG
+far, Location, NEG
+good, breakfast, POS
+old, Room, NEG
+
+Only in Gold (not predicted)
+--------
+old, Room, POS
+
+########################################################
+
+Sentence
+--------
+Love and enjoy November stay with family of four . enjoy great hospitality of all staff especially chris hotel desk manager . good variety of breakfast . clean room and nice swimming pool .
+
+Prediction
+--------
+Love, stay, POS
+enjoy, stay, POS
+clean, room, POS
+
+Actual
+--------
+great, hospitality, POS
+clean, room, POS
+
+Only in Prediction (mispredict)
+--------
+Love, stay, POS
+enjoy, stay, POS
+
+Only in Gold (not predicted)
+--------
+great, hospitality, POS
+
+########################################################
+
+Sentence
+--------
+Great expieriance here . . so cheap and worth it . . those complaining of noise and room amenities etc are ridiculous . . what do you expect paying $ 50 a night ! ! ! ! ! staff friendly and helpful . . breakfast could be improved but wasnt expecting much to begin with with a room so cheap !
+
+Prediction
+--------
+Great, expieriance, POS
+friendly, staff, POS
+helpful, staff, POS
+cheap, room, POS
+
+Actual
+--------
+Great, expieriance, POS
+cheap, expieriance, POS
+worth, expieriance, POS
+friendly, staff, POS
+helpful, staff, POS
+
+Only in Prediction (mispredict)
+--------
+cheap, room, POS
+
+Only in Gold (not predicted)
+--------
+cheap, expieriance, POS
+worth, expieriance, POS
+
+########################################################
+
+Sentence
+--------
+my family and i visited this hotel last week , we were so happy have had a nice and big connected room ( my wife and 2 kid ) . nice swimming pool in front the restaurant , big lobby and so friendly staff . the place near by shopping area . there were big discount for some cloths of Billabong and volcom branch .
+
+Prediction
+--------
+nice, room, POS
+friendly, staff, POS
+
+Actual
+--------
+friendly, staff, POS
+big, lobby, POS
+
+Only in Prediction (mispredict)
+--------
+nice, room, POS
+
+Only in Gold (not predicted)
+--------
+big, lobby, POS
+
+########################################################
+
+Sentence
+--------
+We stayed at Grandma ' s hotel only for a few nights but really enjoyed it . The location is great and the staff is quite helpful . Although the rooms are very small , but quite new . The hotel was still under construction when we stayed there , but we had quite a pleasant stay . Thank you !
+
+Prediction
+--------
+great, location, POS
+helpful, staff, POS
+small, rooms, NEG
+new, rooms, POS
+
+Actual
+--------
+stayed, hotel, NEU
+great, location, POS
+helpful, staff, POS
+small, rooms, NEG
+new, rooms, POS
+
+Only in Gold (not predicted)
+--------
+stayed, hotel, NEU
+
+########################################################
+
+Sentence
+--------
+Nice place to stay close to airport . AC was very noisy couldn ' t sleep well . . . Pool is nice and rooms are spacious . All in all not too bad . Breakfast wasn ' t included . Staff super friendly . And close to airport .
+
+Prediction
+--------
+Nice, place, POS
+noisy, AC, NEG
+nice, Pool, POS
+spacious, rooms, POS
+friendly, Staff, POS
+close, airport, POS
+
+Actual
+--------
+Nice, place, POS
+noisy, AC, NEG
+nice, Pool, POS
+spacious, rooms, POS
+friendly, Staff, POS
+
+Only in Prediction (mispredict)
+--------
+close, airport, POS
+
+########################################################
+
+Sentence
+--------
+i stayed here for my business trip , this was the second time i have been here . the hotel is great , near from airport or other activity , so i can spend my spare time in kuta beach walk , and the hotel provide free shuttle . i was staying in superior room and very good value to stay , also the hotel provide free good connection wifi .
+
+Prediction
+--------
+great, hotel, POS
+
+Actual
+--------
+wifi, hotel, POS
+great, hotel, POS
+near, airport, POS
+
+Only in Gold (not predicted)
+--------
+wifi, hotel, POS
+near, airport, POS
+
+########################################################
+
+Sentence
+--------
+Stayed in 4 accommodations across Bali over 2 weeks . This one by far wins on its pool and the staff friendliness . Rooms were great with four poster bed , tv and wifi . Don ' t miss out on the kind of private beach ( basically walk straight across from the hotel entrance down the alley and there ' s a very quiet beautiful beach there compared to Legian !
+
+Prediction
+--------
+wins, pool, POS
+friendliness, staff, POS
+great, Rooms, POS
+
+Actual
+--------
+wins, pool, POS
+great, Rooms, POS
+beautiful, beach, POS
+
+Only in Prediction (mispredict)
+--------
+friendliness, staff, POS
+
+Only in Gold (not predicted)
+--------
+beautiful, beach, POS
+
+########################################################
+
+Sentence
+--------
+The room ok . got extra bolster . Breakfast not really good choise . The swimming pool ok . Easy to double six beach only 15 min walk or 2 min by taxi .
+
+Prediction
+--------
+ok, room, POS
+
+Actual
+--------
+ok, room, NEU
+extra, bolster, POS
+
+Only in Prediction (mispredict)
+--------
+ok, room, POS
+
+Only in Gold (not predicted)
+--------
+extra, bolster, POS
+ok, room, NEU
+
+########################################################
+
+Sentence
+--------
+Good place , good people , good hospitality , good service , good pool from the rooftop pool . Large room with huge balcony . The wifi a bit slow even for browsing and sometime the connection disappear .
+
+Prediction
+--------
+Good, place, POS
+good, people, POS
+good, hospitality, POS
+good, service, POS
+good, pool, POS
+Large, room, POS
+slow, wifi, POS
+
+Actual
+--------
+Good, place, POS
+good, people, POS
+good, hospitality, POS
+good, service, POS
+good, pool, POS
+huge, balcony, POS
+slow, wifi, NEG
+disappear, connection, NEG
+
+Only in Prediction (mispredict)
+--------
+slow, wifi, POS
+Large, room, POS
+
+Only in Gold (not predicted)
+--------
+disappear, connection, NEG
+slow, wifi, NEG
+huge, balcony, POS
+
+########################################################
+
+Sentence
+--------
+staff is incredibly nice and friendly . . . . . breakfast good , Airport pick up and Drop and free WiFi are Pluses for reconsidering to stay again . However , if rates keep going up . ( service still same ) . . then competition might get tough with more other options . . . . . better keep rates reasonable . . . . . . .
+
+Prediction
+--------
+nice, staff, POS
+friendly, staff, POS
+good, breakfast, POS
+Pluses, WiFi, POS
+reasonable, rates, POS
+
+Actual
+--------
+nice, staff, POS
+friendly, staff, POS
+good, breakfast, POS
+
+Only in Prediction (mispredict)
+--------
+reasonable, rates, POS
+Pluses, WiFi, POS
+
+########################################################
+
+Sentence
+--------
+We had such a lovely time at the Melia Bali in Nusa Dua . The resort is gorgeous , with beautiful gardens , pools & beach . The staff were all friendly & made our time very memorable . Dayu was so great to help us get involved in the activities provided & Agus always made us smile . We hope to come back soon !
+
+Prediction
+--------
+lovely, time, POS
+gorgeous, resort, POS
+beautiful, gardens, POS
+beautiful, pools, POS
+beautiful, beach, POS
+friendly, staff, POS
+memorable, staff, POS
+
+Actual
+--------
+gorgeous, resort, POS
+beautiful, gardens, POS
+beautiful, pools, POS
+beautiful, beach, POS
+friendly, staff, POS
+
+Only in Prediction (mispredict)
+--------
+memorable, staff, POS
+lovely, time, POS
+
+########################################################
+
+Sentence
+--------
+Rooms are comfortable and clean , the food was just exceptable , the actual premises needs a refurb , looking old . However I found the staff were excellent , very friendly and obliging We had to request for a fresh towel daily as they don ' t change it unless you ask . Towels and bedsheets were not clean .
+
+Prediction
+--------
+comfortable, Rooms, POS
+clean, Rooms, POS
+excellent, staff, POS
+friendly, staff, POS
+
+Actual
+--------
+excellent, staff, POS
+friendly, staff, POS
+obliging, staff, POS
+exceptable, food, POS
+comfortable, Rooms, POS
+clean, Rooms, POS
+
+Only in Gold (not predicted)
+--------
+exceptable, food, POS
+obliging, staff, POS
+
+########################################################
+
+Sentence
+--------
+Lots of noise especially corridor area . Cannot sleep properly and lots of toilet flies . Spring beds are in total bad shape and pillow all in bat condition . Hotel needs an upgrade . Foul smell from WC and cigarettes smell all over the room .
+
+Prediction
+--------
+smell, WC, NEG
+smell, WC, NEG
+smell, cigarettes, NEG
+
+Actual
+--------
+noise, corridor, NEG
+flies, toilet, NEG
+bat, pillow, NEG
+smell, WC, NEG
+
+Only in Prediction (mispredict)
+--------
+smell, cigarettes, NEG
+
+Only in Gold (not predicted)
+--------
+flies, toilet, NEG
+noise, corridor, NEG
+bat, pillow, NEG
+
+########################################################
+
+Sentence
+--------
+quite small for a mercure hotel . i think it is below other mercure hotel standard . not much variety on breakfast . location is far from the beach and i dont think that there is a shuttle bus . they only have 1 type of room . babycot provided is dirty .
+
+Prediction
+--------
+far, beach, NEG
+dirty, room, NEG
+dirty, babycot, NEG
+
+Actual
+--------
+small, hotel, NEG
+dirty, babycot, NEG
+
+Only in Prediction (mispredict)
+--------
+dirty, room, NEG
+far, beach, NEG
+
+Only in Gold (not predicted)
+--------
+small, hotel, NEG
+
+########################################################
+
+Sentence
+--------
+Nice hotel , super clean both the area and rooms , food for breakfast so yummy . . so much activities for kids , we love the carnival … the staff hotel , kids club so nice and polite and the staff from YHI spa very polite and the massage soo gewd ! ! Much lovee for melia nusa dua .
+
+Prediction
+--------
+Nice, hotel, POS
+clean, area, POS
+clean, rooms, POS
+yummy, food, POS
+yummy, breakfast, POS
+love, carnival, POS
+polite, staff, POS
+
+Actual
+--------
+Nice, hotel, POS
+clean, area, POS
+clean, rooms, POS
+yummy, food, POS
+much, activities, POS
+love, carnival, POS
+polite, staff, POS
+gewd, massage, POS
+
+Only in Prediction (mispredict)
+--------
+yummy, breakfast, POS
+
+Only in Gold (not predicted)
+--------
+gewd, massage, POS
+much, activities, POS
+
+########################################################
+
+Sentence
+--------
+Overall , simple and nice - a better rotation to clean the rooms would have been nice . Pool was small and customer service could be improved . Overall , good , location was good , only disappointed with the size of the pool .
+
+Prediction
+--------
+small, Pool, NEG
+good, location, POS
+disappointed, pool, NEG
+
+Actual
+--------
+small, Pool, NEG
+good, Overall, POS
+good, location, POS
+
+Only in Prediction (mispredict)
+--------
+disappointed, pool, NEG
+
+Only in Gold (not predicted)
+--------
+good, Overall, POS
+
+########################################################
+
+Sentence
+--------
+Great place , great views ! Very good service . Super clean rooms which is quite rare for Ubud during the covid times . The only minus I saw is that they give only 2 small waters per room and you have to ask again .
+
+Prediction
+--------
+Great, place, POS
+great, views, POS
+good, service, POS
+clean, rooms, POS
+
+Actual
+--------
+Great, place, POS
+great, views, POS
+good, service, POS
+clean, rooms, POS
+
+########################################################
+
+Sentence
+--------
+Great friendly staff . Great location close to markets , beach and bars . For budget accommodation it exceeded my expectations . Highly recommend and will definitely there stay again .
+
+Prediction
+--------
+friendly, staff, POS
+Great, location, POS
+close, markets, POS
+close, beach, POS
+close, bars, POS
+
+Actual
+--------
+Great, location, POS
+
+Only in Prediction (mispredict)
+--------
+close, bars, POS
+close, beach, POS
+close, markets, POS
+friendly, staff, POS
+
+########################################################
+
+Sentence
+--------
+Had the most amazing and relaxing vacation there . Travelled with my family for my husband ’ s birthday and had the time of our lives there . The resort itself is perfect and the people are the kindest and friendliest people I ’ ve ever met . I can ’ t wait to be back !
+
+Prediction
+--------
+amazing, vacation, POS
+relaxing, vacation, POS
+perfect, resort, POS
+kindest, people, POS
+friendliest, people, POS
+
+Actual
+--------
+amazing, vacation, POS
+perfect, resort, POS
+kindest, people, POS
+
+Only in Prediction (mispredict)
+--------
+relaxing, vacation, POS
+friendliest, people, POS
+
+########################################################
+
+Sentence
+--------
+Amazing stay at Melia Bali . Right on the beach with lots of actives to keep entertained . All inclusive package was excellent with great choice of food , cocktails and wine . All the staff were very friendly but David at El Patio was especially helpful and friendly . Highly recommend staying here .
+
+Prediction
+--------
+Amazing, stay, POS
+friendly, staff, POS
+
+Actual
+--------
+Amazing, stay, POS
+lots, actives, POS
+friendly, staff, POS
+
+Only in Gold (not predicted)
+--------
+lots, actives, POS
+
+########################################################
+
+Sentence
+--------
+good hotel though i asked for double bed but got two singles pushed together . . . . . . not good . the staff was very friendly and helpful and i would definitely stay there again just minuets from the beach . thank you .
+
+Prediction
+--------
+good, hotel, POS
+friendly, staff, POS
+helpful, staff, POS
+
+Actual
+--------
+good, hotel, POS
+friendly, staff, POS
+helpful, staff, POS
+
+########################################################
+
+Sentence
+--------
+Clean and cheap in central Kuta . 100 metres from the beach and restaurants and bars in abundance a short walk away . Staff very friendly and helpful . My second trip here and would stop here again . In Poppies Lane two so close to everything .
+
+Prediction
+--------
+Clean, Kuta, POS
+cheap, Kuta, POS
+central, Kuta, POS
+friendly, Staff, POS
+helpful, Staff, POS
+
+Actual
+--------
+friendly, Staff, POS
+helpful, Staff, POS
+
+Only in Prediction (mispredict)
+--------
+central, Kuta, POS
+Clean, Kuta, POS
+cheap, Kuta, POS
+
+########################################################
+
+Sentence
+--------
+beautiful small hotel overlooking to rice fields . staff is friendly and room is very spacious + clean . perfect location near of everything . during pandemic , restaurant nearby only open until 9pm .
+
+Prediction
+--------
+beautiful, hotel, POS
+friendly, staff, POS
+spacious, room, POS
+clean, room, POS
+perfect, location, POS
+
+Actual
+--------
+beautiful, hotel, POS
+friendly, staff, POS
+spacious, room, POS
+
+Only in Prediction (mispredict)
+--------
+perfect, location, POS
+clean, room, POS
+
+########################################################
+
+Sentence
+--------
+The staff were all super friendly , rooms ( stayed twice in one trip ) were clean , and the whole hotel was true to it ' s photos on the internet . Thick , dark curtains and no noise from the street . Internet connection was great . I would stay here again for sure .
+
+Prediction
+--------
+friendly, staff, POS
+clean, rooms, POS
+Thick, curtains, NEG
+dark, curtains, NEG
+
+Actual
+--------
+friendly, staff, POS
+clean, rooms, POS
+
+Only in Prediction (mispredict)
+--------
+dark, curtains, NEG
+Thick, curtains, NEG
+
+########################################################
+
+Sentence
+--------
+I can say Lake View Hotel has the best view among any other hotel in Kintamani . The view of Batur Mountain and Batur Lake is truly beautiful . The service is good and friendly . The new Danu Spa also offers a good relaxing massage . But , I think the foods quality still need to be improved . Overall , I always enjoy my stay in this hotel .
+
+Prediction
+--------
+beautiful, view, POS
+good, service, POS
+friendly, service, POS
+
+Actual
+--------
+best, View, POS
+beautiful, view, POS
+good, service, POS
+friendly, service, POS
+
+Only in Gold (not predicted)
+--------
+best, View, POS
+
+########################################################
+
+Sentence
+--------
+If you are looking for a cheaper alternative for Bali and do not plan to do much in the hotel , this is for you . The bathrooms were fair size but the room itself was pretty small . Overall it is an average hotel in Bali . The food was decent but they charge more than the local restaurants for less food .
+
+Prediction
+--------
+small, room, NEG
+average, hotel, NEU
+decent, food, NEU
+
+Actual
+--------
+small, room, NEG
+average, hotel, NEU
+decent, food, NEU
+more, charge, NEG
+
+Only in Gold (not predicted)
+--------
+more, charge, NEG
+
+########################################################
+
+Sentence
+--------
+Plus : Hotel staff are very nice , professional and very helpful . Minus : The hotel does not fulfill 5 star requirements . Quite expensive but poor maintenance of hotel amenities and facility . The hotel including breakfasts is opted for Chinese tour bus groups . Hope for the best , prepare for the worst . Cannot recommend this hotel .
+
+Prediction
+--------
+nice, staff, POS
+professional, staff, POS
+helpful, staff, POS
+poor, maintenance, NEG
+poor, amenities, NEG
+poor, facility, NEG
+
+Actual
+--------
+nice, staff, POS
+professional, staff, POS
+helpful, staff, POS
+
+Only in Prediction (mispredict)
+--------
+poor, facility, NEG
+poor, amenities, NEG
+poor, maintenance, NEG
+
+########################################################
+
+Sentence
+--------
+Seems like new hotel , because everything in rooms look new . Location is perfect , close to the airport and close to the beach also shopping centre . Book for family and we have connecting rooms . Breakfast is very good and staff is very friendly . Thank you Solaris Kuta for excellent service .
+
+Prediction
+--------
+new, hotel, POS
+perfect, Location, POS
+close, airport, POS
+close, airport, POS
+good, Breakfast, POS
+friendly, staff, POS
+
+Actual
+--------
+new, rooms, POS
+perfect, Location, POS
+close, airport, POS
+close, beach, POS
+good, Breakfast, POS
+friendly, staff, POS
+
+Only in Prediction (mispredict)
+--------
+new, hotel, POS
+
+Only in Gold (not predicted)
+--------
+new, rooms, POS
+close, beach, POS
+
+########################################################
+
+Sentence
+--------
+Everything there looks brand new , rooms , swimming pool , restaurant , etc , the location it is a little bit crazy , it is on the main road , if you need to cross the road . oooooo forget it , gonna take hours to do it safety , but they have daily free shuttle bus to KUTA center , easy to do shopping .
+
+Prediction
+--------
+crazy, location, NEG
+
+Actual
+--------
+easy, shopping, POS
+
+Only in Prediction (mispredict)
+--------
+crazy, location, NEG
+
+Only in Gold (not predicted)
+--------
+easy, shopping, POS
+
+########################################################
+
+Sentence
+--------
+For a 2 star you cant get any better , stayed there for 9 nights . The rooms are small but have every thing you need except a fridge which did not bother me . Staff are great and helpfull , location 5 min to the beach and eats in both directions .
+
+Prediction
+--------
+small, rooms, NEG
+great, Staff, POS
+helpfull, Staff, POS
+
+Actual
+--------
+small, rooms, NEG
+great, Staff, POS
+helpfull, Staff, POS
+
+########################################################
+
+Sentence
+--------
+Tusita is easy to access , and near to lippo mall kuta and souvenir seller . The staff is friendly and good in product knowledge . The room is comfort , clean , and big space . The internet is fast and easy to use .
+
+Prediction
+--------
+friendly, staff, POS
+comfort, room, POS
+clean, room, POS
+fast, internet, POS
+
+Actual
+--------
+fast, internet, POS
+comfort, room, POS
+clean, room, POS
+easy, access, POS
+friendly, staff, POS
+good, staff, POS
+
+Only in Gold (not predicted)
+--------
+easy, access, POS
+good, staff, POS
+
+########################################################
+
+Sentence
+--------
+This hotel is good value for money considering the clean and comfortable room , the big swimming pool and breakfast was included . The location is good too . We were in a different hotel the previous night , only couple hundred meters away , same price yet not as good . Rosani Hotel is one is good value for money .
+
+Prediction
+--------
+clean, room, POS
+comfortable, room, POS
+included, breakfast, POS
+good, location, POS
+
+Actual
+--------
+comfortable, room, POS
+clean, room, POS
+good, location, POS
+
+Only in Prediction (mispredict)
+--------
+included, breakfast, POS
+
+########################################################
+
+Sentence
+--------
+I stayed at Vilarsi for three nights and I got bitten badly by bed bugs . My whole arm was swollen . They wouldn ' t give me refund either . The AC didn ’ t work so it was very warm at bedtime . Do not recommend !
+
+Prediction
+--------
+swollen, arm, NEG
+
+Actual
+--------
+bugs, bed, NEG
+warm, bedtime, NEG
+
+Only in Prediction (mispredict)
+--------
+swollen, arm, NEG
+
+Only in Gold (not predicted)
+--------
+warm, bedtime, NEG
+bugs, bed, NEG
+
+########################################################
+
+Sentence
+--------
+My wife and I stayed at the Melia for 7 nights all inclusive . It is a beautiful place and in a great location . The staff are so friendly and all the staff at the level pool need to be commended for their service . Yudi and Resti really looked after us during our stay . Will define key return .
+
+Prediction
+--------
+beautiful, place, POS
+great, location, POS
+friendly, staff, POS
+
+Actual
+--------
+beautiful, place, POS
+friendly, staff, POS
+
+Only in Prediction (mispredict)
+--------
+great, location, POS
+
+########################################################
+
+Sentence
+--------
+This is the perfect hotel for staycation . Really appreciated the services , staffs , foods , rooms , everthing . Although , all the facilities haven ' t ready yet , the magistic panorama at the pool in the morning , rice field , and the jungle are beautiful .
+
+Prediction
+--------
+perfect, hotel, POS
+appreciated, services, POS
+appreciated, staffs, POS
+appreciated, foods, POS
+appreciated, rooms, POS
+
+Actual
+--------
+perfect, hotel, POS
+appreciated, services, POS
+appreciated, staffs, POS
+appreciated, foods, POS
+appreciated, rooms, POS
+beautiful, jungle, POS
+
+Only in Gold (not predicted)
+--------
+beautiful, jungle, POS
+
+########################################################
+
+Sentence
+--------
+I think this is even worse than a Budget Hotel qualifications . . I got a room on 3rd floor and surprised there was no Lift / Elevator , the shower only small drops of water and hot water not working . Breakfast also very poor only 2 - 3 choices . . so I considered this is a Motel .
+
+Prediction
+--------
+poor, Breakfast, NEG
+
+Actual
+--------
+poor, Breakfast, NEG
+
+########################################################
+
+Sentence
+--------
+had to buy my own air freshener . Foul smell coming from the toilet . Furnitures all seem worn out . No lifts . Needs major facelift seriously . My bad for trying this place . Located deep within dark corridor street .
+
+Prediction
+--------
+
+Actual
+--------
+No, lifts, NEG
+deep, Located, NEG
+
+Only in Gold (not predicted)
+--------
+No, lifts, NEG
+deep, Located, NEG
+
+########################################################
+
+Sentence
+--------
+Excellent service all around and very convenient to the airport . Shuttle leaves hourly at 15 - 20 past the hour . They organised a driver for me to visit Bali Bird Park at a reasonable rate . Breakfast was ok , both western and local options in a buffet .
+
+Prediction
+--------
+Excellent, service, POS
+convenient, airport, POS
+reasonable, rate, POS
+ok, Breakfast, NEU
+
+Actual
+--------
+service, service, POS
+reasonable, rate, NEU
+ok, Breakfast, NEU
+
+Only in Prediction (mispredict)
+--------
+reasonable, rate, POS
+convenient, airport, POS
+Excellent, service, POS
+
+Only in Gold (not predicted)
+--------
+reasonable, rate, NEU
+service, service, POS
+
+########################################################
+
+Sentence
+--------
+Lovely location . Waited for 40 minutes after checkin time as room wasn ' t ready . Booked for king bed and on arrival two single beds . Only one towel . Floor very sandy . . . bathroom big but very smelly . Smelt like urine . Aircon struggled . Breakfast was good . Rooms need a good clean and toilet needs some bleach .
+
+Prediction
+--------
+Lovely, location, POS
+sandy, Floor, NEG
+big, bathroom, POS
+smelly, bathroom, NEG
+struggled, Aircon, NEG
+struggled, Breakfast, NEG
+good, Breakfast, POS
+
+Actual
+--------
+Lovely, location, POS
+sandy, Floor, NEG
+big, bathroom, POS
+smelly, bathroom, NEG
+struggled, Aircon, NEG
+good, Breakfast, POS
+
+Only in Prediction (mispredict)
+--------
+struggled, Breakfast, NEG
+
+########################################################
+
+Sentence
+--------
+Last minute accommodation grab after flight cancelled . . . . close to airport but pretty dingy and although staff polite we were kept waiting ages at reception . Room on ground floor really smelt bad ! Was coming out of shower drain . yuk . Stains on sheets also .
+
+Prediction
+--------
+pretty, dingy, POS
+polite, staff, POS
+bad, Room, NEG
+Stains, sheets, NEG
+
+Actual
+--------
+close, airport, POS
+polite, staff, POS
+waiting, reception, NEG
+Stains, sheets, NEG
+
+Only in Prediction (mispredict)
+--------
+pretty, dingy, POS
+bad, Room, NEG
+
+Only in Gold (not predicted)
+--------
+waiting, reception, NEG
+close, airport, POS
+
+########################################################
+
+Sentence
+--------
+The staffs are friendly , the room is clean , but breakfast menu need more variations . The location is very strategic , there ' s McD , Starbucks , Dim Sum , Sushi Tei and many others restaurants nearby .
+
+Prediction
+--------
+friendly, staffs, POS
+clean, room, POS
+strategic, location, POS
+
+Actual
+--------
+clean, room, POS
+friendly, staffs, POS
+strategic, location, POS
+nearby, McD, POS
+nearby, Starbucks, POS
+nearby, restaurants, POS
+variations, breakfast, NEG
+
+Only in Gold (not predicted)
+--------
+nearby, McD, POS
+variations, breakfast, NEG
+nearby, Starbucks, POS
+nearby, restaurants, POS
+
+########################################################
+
+Sentence
+--------
+The hotel is across the street from the beach and could not get over how reasonably priced it was . Downtown Kuta is just a 10 minute walk . The hotel is well looked after and clean . Only complaint about the room that there was only one towel per occupant .
+
+Prediction
+--------
+reasonably, priced, NEU
+clean, hotel, POS
+
+Actual
+--------
+reasonably, priced, POS
+clean, hotel, POS
+
+Only in Prediction (mispredict)
+--------
+reasonably, priced, NEU
+
+Only in Gold (not predicted)
+--------
+reasonably, priced, POS
+
+########################################################
+
+Sentence
+--------
+restu is in the hub of legian and very close to all the shops and main hustle and bustle if kuta but it is a quiet lush oasis and you would never know you were in the busiest part . Rooms are a bit tired needing a revamp but it ' s clean and spacious wifi is limited to the lobby and would be better if rooms were covered too .
+
+Prediction
+--------
+clean, Rooms, POS
+spacious, Rooms, POS
+limited, wifi, NEU
+limited, lobby, NEU
+
+Actual
+--------
+tired, Rooms, NEG
+clean, Rooms, POS
+spacious, Rooms, POS
+limited, wifi, NEG
+
+Only in Prediction (mispredict)
+--------
+limited, lobby, NEU
+limited, wifi, NEU
+
+Only in Gold (not predicted)
+--------
+tired, Rooms, NEG
+limited, wifi, NEG
+
+########################################################
+
+Sentence
+--------
+The hotel is located a walk away from Legian street ( notice that walk is not the most pleasent one because there is no decent sidewalk ) . We had a family room with three single beds . The room was nice and clean but we had troubles with room key which we had to " reset " every day in the reception . Otherwise the stay was good .
+
+Prediction
+--------
+nice, room, POS
+clean, room, POS
+good, stay, POS
+
+Actual
+--------
+nice, room, POS
+clean, room, POS
+good, stay, POS
+
+########################################################
+
+Sentence
+--------
+We stayed over two nights , Overall good and budget hotel , food and room service was good , Specially , verity in breakfast for non veg lovers . Pool was good but small .
+
+Prediction
+--------
+good, hotel, POS
+budget, hotel, POS
+good, food, POS
+good, Pool, POS
+small, Pool, NEG
+
+Actual
+--------
+small, Pool, NEG
+good, Pool, POS
+verity, breakfast, POS
+good, food, POS
+budget, hotel, POS
+good, hotel, POS
+
+Only in Gold (not predicted)
+--------
+verity, breakfast, POS
+
+########################################################
+
+Sentence
+--------
+The room is nice , clean and quite . Easy to reach and if you like walking , you can walk to kuta . The food is ok , but you can also find some more cafe or small restaurant along the side of the hotel . The staff is very helpful during my stay . The price is affordable . the only problem is the phone signal .
+
+Prediction
+--------
+nice, room, POS
+clean, room, POS
+quite, room, POS
+ok, food, NEU
+helpful, staff, POS
+affordable, price, POS
+
+Actual
+--------
+nice, room, POS
+clean, room, POS
+quite, room, POS
+ok, food, NEU
+helpful, staff, POS
+affordable, price, POS
+
+########################################################
+
+Sentence
+--------
+We had a great stay here . The swim up bar was a favourite where we spent most of our time ! ! The restaurant served great meals and the staff were very friendly . The room was clean and with the curtains drawn was dark so it helped us sleep in . We will defiantly stay again .
+
+Prediction
+--------
+great, stay, POS
+great, meals, POS
+friendly, staff, POS
+clean, room, POS
+dark, curtains, NEG
+
+Actual
+--------
+great, stay, POS
+great, meals, POS
+friendly, staff, POS
+clean, room, POS
+
+Only in Prediction (mispredict)
+--------
+dark, curtains, NEG
+
+########################################################
+
+Sentence
+--------
+Really glad I chose to stay here . Decent brekky and nice manicured lawns . Aircon was great , reception staff were mostly friendly . They charge 150 , 000 per night for cot hire which isnt great but they forgot and had to remind them .
+
+Prediction
+--------
+Decent, brekky, NEU
+nice, lawns, POS
+great, Aircon, POS
+
+Actual
+--------
+Decent, brekky, NEU
+nice, lawns, POS
+great, Aircon, POS
+
+########################################################
+
+Sentence
+--------
+Been travelling in Ubud with a friend and stayed at Adiwana Bisma for a couple of days . We really enjoyed our stay since its located very central and the room was very comfortable . Furthermore the staff is very friendly / caring and the infinity - pool at the rooftop is amazing .
+
+Prediction
+--------
+comfortable, room, POS
+friendly, staff, POS
+caring, staff, POS
+
+Actual
+--------
+comfortable, room, POS
+friendly, staff, POS
+amazing, pool, POS
+
+Only in Prediction (mispredict)
+--------
+caring, staff, POS
+
+Only in Gold (not predicted)
+--------
+amazing, pool, POS
+
+########################################################
+
+Sentence
+--------
+My stay at the a . le . a hotel in Seminyak this week has been a very good experience . The rooms are clean and comfortable . The staff are very helpful . . Food and drinks are good and always available . Come and stay and meet the lovely staff and have a massage and a cocktail .
+
+Prediction
+--------
+clean, rooms, POS
+comfortable, rooms, POS
+helpful, staff, POS
+good, Food, POS
+good, drinks, POS
+available, Food, POS
+lovely, staff, POS
+
+Actual
+--------
+good, experience, POS
+comfortable, rooms, POS
+helpful, staff, POS
+good, Food, POS
+good, drinks, POS
+clean, rooms, POS
+staff, lovely, POS
+
+Only in Prediction (mispredict)
+--------
+available, Food, POS
+lovely, staff, POS
+
+Only in Gold (not predicted)
+--------
+staff, lovely, POS
+good, experience, POS
+
+########################################################
+
+Sentence
+--------
+Staffs are nice and friendly , room is clean , everything works . Pool is nice but very small . Breakfast is eddible but not delicious / tasteful .
+
+Prediction
+--------
+nice, Staffs, POS
+friendly, Staffs, POS
+clean, room, POS
+nice, Pool, POS
+small, Breakfast, NEG
+eddible, Breakfast, NEU
+
+Actual
+--------
+nice, Staffs, POS
+friendly, Staffs, POS
+clean, room, POS
+works, everything, POS
+small, Pool, NEG
+eddible, Breakfast, NEU
+
+Only in Prediction (mispredict)
+--------
+small, Breakfast, NEG
+nice, Pool, POS
+
+Only in Gold (not predicted)
+--------
+small, Pool, NEG
+works, everything, POS
+
+########################################################
+
+Sentence
+--------
+A modern and nice hotel , located in the heart of agitated Kuta . The room was nice and neat , but had a huge and insistent tabaco smell . The Room was on the ground floor , therefore ir was a little bit noisy .
+
+Prediction
+--------
+modern, hotel, POS
+nice, hotel, POS
+nice, room, POS
+neat, room, POS
+
+Actual
+--------
+nice, room, POS
+neat, room, POS
+modern, hotel, POS
+nice, hotel, POS
+
+########################################################
+
+Sentence
+--------
+It was bad experience ever had . Very slow check in service . Uncomfortable room and very small . Swimming pool was dirty and dirty beach area in front of swimming pool . Breakfast only provided nasi kuning with very small portion . Short of cutleries . No coffee or tea available .
+
+Prediction
+--------
+bad, experience, NEG
+Uncomfortable, room, NEG
+small, room, NEG
+dirty, pool, NEG
+dirty, beach, NEG
+dirty, pool, NEG
+dirty, beach, NEG
+No, coffee, NEG
+No, tea, NEG
+
+Actual
+--------
+bad, experience, NEG
+slow, service, NEG
+small, room, NEG
+dirty, beach, NEG
+small, Breakfast, NEG
+
+Only in Prediction (mispredict)
+--------
+Uncomfortable, room, NEG
+No, tea, NEG
+No, coffee, NEG
+dirty, pool, NEG
+
+Only in Gold (not predicted)
+--------
+small, Breakfast, NEG
+slow, service, NEG
+
+########################################################
+
+Sentence
+--------
+We stayed 2 nights in this hotel . The room was jungle view . Everything was just perfect . The protocol , the rooom , the service . The pool was exquisite , the staffs were friendly , and it was not dificult finding food in the neighbourhood . We rented bike for 2 days to go around . Definitely will come back .
+
+Prediction
+--------
+exquisite, service, POS
+exquisite, pool, POS
+friendly, staffs, POS
+
+Actual
+--------
+stayed, hotel, NEU
+perfect, protocol, POS
+perfect, service, POS
+exquisite, pool, POS
+friendly, staffs, POS
+rented, bike, NEU
+
+Only in Prediction (mispredict)
+--------
+exquisite, service, POS
+
+Only in Gold (not predicted)
+--------
+rented, bike, NEU
+stayed, hotel, NEU
+perfect, protocol, POS
+perfect, service, POS
+
+########################################################
+
+Sentence
+--------
+A very nice hotel in Kuta , about 200m to Kuta beach . But most of the time , the taxis doesnt know where this hotel is . It is beside Oasis hotel , which is quite well - known . Near to Legian , and Poppies lane 1 . Basically , in the middle of a tourist place .
+
+Prediction
+--------
+nice, hotel, POS
+
+Actual
+--------
+nice, hotel, POS
+
+########################################################
+
+Sentence
+--------
+This hotel is clean and has a great breakfast offering , relaxed atmosphere , out of central Kuta , but close enough to get anywhere . It was a lot quieter than some i ' ve stayed in and was well worth the price !
+
+Prediction
+--------
+clean, hotel, POS
+great, breakfast, POS
+relaxed, atmosphere, POS
+worth, price, POS
+
+Actual
+--------
+It, quieter, POS
+relaxed, atmosphere, POS
+clean, hotel, POS
+
+Only in Prediction (mispredict)
+--------
+great, breakfast, POS
+worth, price, POS
+
+Only in Gold (not predicted)
+--------
+It, quieter, POS
+
+########################################################
+
+Sentence
+--------
+We stayed at The Solaris after getting a good deal online . The room was clean , however needs some good TLC . The bed was big and comfy , the bathroom was basic and in need of some maintenance . Based on the price , and other places I have stayed for a similar price I would rate this hotel average . Not amazing , not terrible .
+
+Prediction
+--------
+good, deal, POS
+clean, room, POS
+big, bed, POS
+comfy, bed, POS
+basic, bathroom, NEU
+
+Actual
+--------
+average, hotel, NEU
+basic, bathroom, NEU
+need, maintenance, NEG
+clean, room, POS
+big, bed, POS
+comfy, bed, POS
+
+Only in Prediction (mispredict)
+--------
+good, deal, POS
+
+Only in Gold (not predicted)
+--------
+average, hotel, NEU
+need, maintenance, NEG
+
+########################################################
+
+Sentence
+--------
+Stayed here for 1 night in July . Rooms were clean and beds were set up as requested for my family on arrival . Breakfast was lovely with a wide variety and Danny on the front desk was welcoming and professional . Close to the airport too .
+
+Prediction
+--------
+clean, Rooms, POS
+lovely, Breakfast, POS
+welcoming, Danny, POS
+professional, Danny, POS
+Close, airport, POS
+
+Actual
+--------
+clean, Rooms, POS
+lovely, Breakfast, POS
+Close, airport, POS
+
+Only in Prediction (mispredict)
+--------
+professional, Danny, POS
+welcoming, Danny, POS
+
+########################################################
+
+Sentence
+--------
+10 min walk to the bounty nightclub and all the rest of the bars . Walk out of the hotel and start shopping its so close ! 5 min walk to the beach ! Rooms wer cleaned everyday and change of towels . Free wifi was a plus and room service food was pretty nice ! Overall my stay at Dekuta was amazing and will defiantly be returning ! !
+
+Prediction
+--------
+Free, wifi, POS
+
+Actual
+--------
+amazing, Dekuta, POS
+
+Only in Prediction (mispredict)
+--------
+Free, wifi, POS
+
+Only in Gold (not predicted)
+--------
+amazing, Dekuta, POS
+
+########################################################
+
+Sentence
+--------
+Stayed here for about a week - - great location , within walking distance of the small gang way ( alley ) that goes directly to Double Six Beach . There were some issues with my booking and wanting to extend , but it worked out in the end ( after a discussion with several staff members ) . The room was basic and clean - - bathroom was modern .
+
+Prediction
+--------
+great, location, POS
+basic, room, NEU
+clean, room, POS
+modern, bathroom, POS
+
+Actual
+--------
+great, location, POS
+basic, room, NEU
+clean, room, POS
+modern, bathroom, POS
+
+########################################################
+
+Sentence
+--------
+It ' s a beautiful hotel to stay at . Traditionally done . I did not want to stay at any normal hotel , rather wanted to experience something different . We had an open air bathroom , was the first time I experienced it . Was a lil a weird since we friends stayed along . A comfy stay .
+
+Prediction
+--------
+beautiful, hotel, POS
+comfy, stay, POS
+
+Actual
+--------
+beautiful, hotel, POS
+comfy, stay, POS
+
+########################################################
+
+Sentence
+--------
+I like the interior and color , this hotel clean and chic . I am not use the swimming pool but its look ok . The breakfast were fine . This hotel near by airport and close with Mall Bali Galeria , good place to shop !
+
+Prediction
+--------
+like, interior, POS
+like, color, POS
+clean, hotel, POS
+chic, hotel, POS
+fine, breakfast, NEU
+
+Actual
+--------
+like, interior, POS
+like, color, POS
+clean, hotel, POS
+chic, hotel, POS
+ok, look, POS
+fine, breakfast, POS
+good, place, POS
+good, shop, POS
+
+Only in Prediction (mispredict)
+--------
+fine, breakfast, NEU
+
+Only in Gold (not predicted)
+--------
+ok, look, POS
+good, shop, POS
+good, place, POS
+fine, breakfast, POS
+
+########################################################
+
+Sentence
+--------
+It was a great place to stay when I need help with the room Sumatra went out of he way to help and fixed the problem instantly . The staff where all amazing and very helpful . I will definitely stay there again . Bali is a very special place and I understand now why people go there .
+
+Prediction
+--------
+great, place, POS
+amazing, staff, POS
+helpful, staff, POS
+special, place, POS
+
+Actual
+--------
+great, place, POS
+helpful, staff, POS
+
+Only in Prediction (mispredict)
+--------
+amazing, staff, POS
+special, place, POS
+
+########################################################
+
+Sentence
+--------
+Stay here for 2nights with my husband . The room is ok , amenities and bathroom are ok . Only hot water didn ’ t work ( one of the most important ) . The restaurant is sooo iconic . Food and beverages are amazing !
+
+Prediction
+--------
+ok, room, NEU
+ok, amenities, NEU
+ok, bathroom, NEU
+iconic, restaurant, POS
+iconic, Food, POS
+amazing, Food, POS
+amazing, beverages, POS
+
+Actual
+--------
+ok, room, NEU
+ok, amenities, NEU
+ok, bathroom, NEU
+iconic, restaurant, POS
+amazing, Food, POS
+amazing, beverages, POS
+
+Only in Prediction (mispredict)
+--------
+iconic, Food, POS
+
+########################################################
+
+Sentence
+--------
+Modern , Clean , great location . Close to Reef Break , Lots of good little restaurants ( Warongs ) nearby Nice Buffet Breakfast , the pool is long enough to swim laps . You won ' t beat this one for value , we tried a few other Kuta Hotels that were around the same price and they were smelly dumps .
+
+Prediction
+--------
+Modern, location, POS
+Clean, location, POS
+great, location, POS
+good, restaurants, POS
+good, Warongs, POS
+long, pool, NEU
+
+Actual
+--------
+Modern, location, POS
+Clean, location, POS
+great, location, POS
+good, restaurants, POS
+Nice, Breakfast, POS
+
+Only in Prediction (mispredict)
+--------
+good, Warongs, POS
+long, pool, NEU
+
+Only in Gold (not predicted)
+--------
+Nice, Breakfast, POS
+
+########################################################
+
+Sentence
+--------
+Very convenient location close to the airport and for the low price the room was superb . Comfy beds , good facilities and a nice pool as well . Couldn ' t have asked for more - would definitely recommend if needing a place close to the airport for a night .
+
+Prediction
+--------
+convenient, location, POS
+low, price, POS
+superb, room, POS
+Comfy, beds, POS
+good, facilities, POS
+nice, pool, POS
+
+Actual
+--------
+convenient, location, POS
+low, price, POS
+superb, room, POS
+Comfy, beds, POS
+good, facilities, POS
+pool, nice, POS
+
+Only in Prediction (mispredict)
+--------
+nice, pool, POS
+
+Only in Gold (not predicted)
+--------
+pool, nice, POS
+
+########################################################
+
+Sentence
+--------
+Great friendly hotel , staff always helpful . Made lots of new friends and of course Nando ! ! We had a Scoopon deal , Breakfast good as was lunch and dinner . They have the best icecream in Legian ! ! ! Pool a tad small and no pool bar was disappointing , together with no balcony from the room .
+
+Prediction
+--------
+helpful, staff, POS
+good, Breakfast, POS
+good, lunch, POS
+good, dinner, POS
+best, icecream, POS
+small, Pool, NEG
+
+Actual
+--------
+Great, hotel, POS
+helpful, staff, POS
+good, Breakfast, POS
+best, icecream, POS
+
+Only in Prediction (mispredict)
+--------
+small, Pool, NEG
+good, dinner, POS
+good, lunch, POS
+
+Only in Gold (not predicted)
+--------
+Great, hotel, POS
+
+########################################################
+
+Sentence
+--------
+New budget Hotel with Good Location . But very NOISY inside , because construction of the hotel NOT finished yet . Dug dug dug . . . . still can be heard very loud in the bedroom . Bathroom very small , almost the same as airplane lavatory . Interesting interior design in the lobby . Staff very friendly . Close to many restaurant and very good location .
+
+Prediction
+--------
+Good, Location, POS
+small, Bathroom, NEG
+friendly, Staff, POS
+good, location, POS
+
+Actual
+--------
+Close, restaurant, POS
+friendly, Staff, POS
+Good, Location, POS
+NOISY, inside, NEG
+small, Bathroom, NEG
+
+Only in Prediction (mispredict)
+--------
+good, location, POS
+
+Only in Gold (not predicted)
+--------
+NOISY, inside, NEG
+Close, restaurant, POS
+
+########################################################
+
+Sentence
+--------
+I like that it ' s filled with trees and plants , and the workers were really nice to me . The dining hall was not very comfortable though . It ' s an open space with just a roof overlooking hte pool . I think its the chairs . there ' s something about it that makes me want to finish my breakfast quick so I could be somewhere more comfortable .
+
+Prediction
+--------
+nice, workers, POS
+
+Actual
+--------
+nice, workers, POS
+
+########################################################
+
+Sentence
+--------
+With all the great welcome and humble staffs , just feel I am at home . From checked in through checking out , everything were handled so well . Restaurant staff were doing great and helpful . Even with my specific order , they managed can deliver as expectation .
+
+Prediction
+--------
+great, welcome, POS
+humble, staffs, POS
+
+Actual
+--------
+humble, staffs, POS
+
+Only in Prediction (mispredict)
+--------
+great, welcome, POS
+
+########################################################
+
+Sentence
+--------
+A very clean n cozy hotel . . . good water shower with nice hot water . . . fast internet , good tv cable channel . . . food for the room service is delicious n reasonable price . . . Comfortable room n bed . . .
+
+Prediction
+--------
+clean, hotel, POS
+cozy, hotel, POS
+fast, internet, POS
+delicious, food, POS
+reasonable, price, POS
+Comfortable, room, POS
+Comfortable, bed, POS
+
+Actual
+--------
+cozy, hotel, POS
+clean, hotel, POS
+fast, internet, POS
+delicious, food, POS
+reasonable, price, POS
+Comfortable, room, POS
+Comfortable, bed, POS
+
+########################################################
+
+Sentence
+--------
+Somewhat dirty room , leaking toilet , power cut at 6am for more than 30 minutes ( apparently the engineer wasn ' t there to start the Genset ) and then the water ran out for a further 30 minutes ( as pump had no power . Won ' t be back . The only redeeming feature , the breakfast included excellent Black Bali coffee !
+
+Prediction
+--------
+dirty, room, NEG
+leaking, toilet, NEG
+excellent, breakfast, POS
+
+Actual
+--------
+dirty, room, NEG
+leaking, toilet, NEG
+included, breakfast, POS
+
+Only in Prediction (mispredict)
+--------
+excellent, breakfast, POS
+
+Only in Gold (not predicted)
+--------
+included, breakfast, POS
+
+########################################################
+
+Sentence
+--------
+Great location in Tuban , easy to get around . Staff very friendly and helpful . The bathrooms are a little run down and could do with an overhaul , rooms are small however our overall stay was very pleasant . Would recommend this hotel for a short stay before a flight or after a flight due to its easy proximity to the airport .
+
+Prediction
+--------
+Great, location, POS
+friendly, Staff, POS
+helpful, Staff, POS
+small, rooms, NEG
+pleasant, stay, POS
+
+Actual
+--------
+Great, location, POS
+friendly, Staff, POS
+helpful, Staff, POS
+small, rooms, NEG
+pleasant, rooms, POS
+recommend, hotel, POS
+
+Only in Prediction (mispredict)
+--------
+pleasant, stay, POS
+
+Only in Gold (not predicted)
+--------
+pleasant, rooms, POS
+recommend, hotel, POS
+
+########################################################
+
+Sentence
+--------
+Room was nice and clean although they could do with some new sheets , clean but old . Fantastic location . Pool was good , nice and cold . Food was okay for the price , room service was prompt .
+
+Prediction
+--------
+nice, Room, POS
+clean, Room, POS
+Fantastic, location, POS
+good, Pool, POS
+nice, Pool, POS
+okay, Food, NEU
+
+Actual
+--------
+nice, Room, POS
+clean, Room, POS
+okay, Food, NEU
+Fantastic, location, POS
+old, Room, NEG
+good, Pool, POS
+
+Only in Prediction (mispredict)
+--------
+nice, Pool, POS
+
+Only in Gold (not predicted)
+--------
+old, Room, NEG
+
+########################################################
+
+Sentence
+--------
+friendly staff , nice and quite when we stayed there . food was ok to eat . bed comfortable but the mattress was a little worn as springs sagged in middle of the bed . nice place to stay if you are on a budget . close to some restaurants .
+
+Prediction
+--------
+friendly, staff, POS
+nice, staff, POS
+ok, food, NEU
+comfortable, bed, POS
+worn, mattress, NEG
+nice, place, POS
+close, restaurants, POS
+
+Actual
+--------
+friendly, staff, POS
+nice, stayed, POS
+quite, stayed, POS
+ok, food, NEU
+comfortable, bed, POS
+worn, mattress, NEG
+nice, place, POS
+close, restaurants, POS
+
+Only in Prediction (mispredict)
+--------
+nice, staff, POS
+
+Only in Gold (not predicted)
+--------
+quite, stayed, POS
+nice, stayed, POS
+
+########################################################
+
+Sentence
+--------
+Friendly , very attentive staff and good ambiance on the beach but sadly average food . The mahi mahi fish we had was over cooked and small portions for the price . Had a lot better meals in the local warungs .
+
+Prediction
+--------
+Friendly, staff, POS
+attentive, staff, POS
+average, food, NEU
+
+Actual
+--------
+attentive, staff, POS
+Friendly, staff, POS
+good, ambiance, POS
+
+Only in Prediction (mispredict)
+--------
+average, food, NEU
+
+Only in Gold (not predicted)
+--------
+good, ambiance, POS
+
+########################################################
+
+Sentence
+--------
++ ) super nice location , easy to find local food around , Kuta sunset beach within distance - ) somehow , the new towel available at night everyday would like to stay here again rather than pick up hotels which is close to Kuta which access get jammed ( almost everyday ) .
+
+Prediction
+--------
+nice, location, POS
+jammed, access, NEG
+
+Actual
+--------
+nice, location, POS
+
+Only in Prediction (mispredict)
+--------
+jammed, access, NEG
+
+########################################################
+
+Sentence
+--------
+Firstly we were not picked up at the airport as prearranged , so two hours later we finally got picked up . We booked a One bedroom suite with " welcome drink each night " and breakfast . We were given a two bed suite on arrival , their mistake , which when we booked in we said we had only booked a one bedroom - no problem its a upgrade they said .
+
+Prediction
+--------
+booked, breakfast, NEU
+
+Actual
+--------
+mistake, their, NEG
+
+Only in Prediction (mispredict)
+--------
+booked, breakfast, NEU
+
+Only in Gold (not predicted)
+--------
+mistake, their, NEG
+
+########################################################
+
+Sentence
+--------
+It is a nice hotel , with a nice staff , great breakfast . But it ' s very business oriented , so don ' t expect many leasury amenities . The air conditioner was nor good enough . The gym was pretty basic . But in the end it was a very good hotel .
+
+Prediction
+--------
+nice, hotel, POS
+nice, staff, POS
+great, breakfast, POS
+basic, gym, NEU
+good, hotel, POS
+
+Actual
+--------
+nice, hotel, POS
+nice, staff, POS
+great, breakfast, POS
+
+Only in Prediction (mispredict)
+--------
+good, hotel, POS
+basic, gym, NEU
+
+########################################################
+
+Sentence
+--------
+What a great Place . The pool is small but worth swimming in . We had breakfast on our first morning . It was good . Had to use our hotel room towel for when we went to the pool . The poolside bar hadnt been operating for what looked like years . Yet the hotel caters for 54 rooms . Which makes it more intimate .
+
+Prediction
+--------
+great, Place, POS
+small, pool, NEG
+had, breakfast, NEU
+
+Actual
+--------
+great, Place, POS
+good, breakfast, POS
+worth, pool, POS
+
+Only in Prediction (mispredict)
+--------
+had, breakfast, NEU
+small, pool, NEG
+
+Only in Gold (not predicted)
+--------
+worth, pool, POS
+good, breakfast, POS
+
+########################################################
+
+Sentence
+--------
+This hotel was very central . It was about 4 stories high . Had been renovated by the looks of it . Nice decor , nice big beds . Lovely rooftop pool . Fabulous buffet breakfast in the morning , & excellent service . There was building going on next door but that is probably why we got a scoopon for $ 200 each for 5 nights . Couldnt fault it !
+
+Prediction
+--------
+central, hotel, POS
+Nice, decor, POS
+nice, beds, POS
+excellent, service, POS
+
+Actual
+--------
+central, hotel, POS
+Nice, decor, POS
+excellent, service, POS
+
+Only in Prediction (mispredict)
+--------
+nice, beds, POS
+
+########################################################
+
+Sentence
+--------
+I was amazed at the value for money . The room was small but modern and clean . Great WI Fi . walk to every thing , shopping , bars and beach . The pool was disappointing but the beach was very close . . . . with regard for value for money My stay was excellent .
+
+Prediction
+--------
+small, room, NEG
+modern, room, POS
+clean, room, POS
+
+Actual
+--------
+value, money, POS
+small, room, NEG
+modern, room, POS
+clean, room, POS
+
+Only in Gold (not predicted)
+--------
+value, money, POS
+
+########################################################
+
+Sentence
+--------
+It was a good experience of staying in favehotel kutakartika plaza . We choose this one because it ' s quite close to the beach . The staffs were helpful , the room and swimming pool was clean . The meals was average . Unfortunately , in our second day the cable TV somehow has lost its signals . Overall is okay .
+
+Prediction
+--------
+close, beach, POS
+helpful, staffs, POS
+clean, room, POS
+average, meals, NEU
+okay, Overall, NEU
+
+Actual
+--------
+okay, Overall, NEU
+clean, room, POS
+average, meals, NEU
+helpful, staffs, POS
+good, experience, POS
+close, beach, POS
+
+Only in Gold (not predicted)
+--------
+good, experience, POS
+
+########################################################
+
+Sentence
+--------
+Lovely place in great location . Walking distance to beaches and great restaurants . In house spa that is a magnificent experience with ginger tea to begin and end massage . Staff are gorgeous and SO helpful . I will stay again ! ! ! ! Pool is small but I went to the beach .
+
+Prediction
+--------
+Lovely, place, POS
+great, location, POS
+great, restaurants, POS
+gorgeous, Staff, POS
+helpful, Staff, POS
+small, Pool, NEG
+
+Actual
+--------
+Lovely, place, POS
+great, location, POS
+great, restaurants, POS
+magnificent, spa, POS
+gorgeous, Staff, POS
+helpful, Staff, POS
+small, Pool, NEG
+
+Only in Gold (not predicted)
+--------
+magnificent, spa, POS
+
+########################################################
+
+Sentence
+--------
+Solaris is a modern and nice hotel in Kuta , the staff is super friendly and they always are ready to help you . . . Pool , toilets , rooms are clean and always tidy . . . Well done Solaris ! ! Solaris is a modern and nice hotel in Kuta , the staff is super friendly and they always are ready to help you . . .
+
+Prediction
+--------
+modern, Solaris, POS
+nice, hotel, POS
+friendly, staff, POS
+clean, toilets, POS
+clean, rooms, POS
+tidy, Pool, POS
+tidy, toilets, POS
+tidy, rooms, POS
+modern, Solaris, POS
+modern, hotel, POS
+nice, hotel, POS
+friendly, staff, POS
+
+Actual
+--------
+friendly, staff, POS
+clean, Pool, POS
+tidy, Pool, POS
+clean, toilets, POS
+tidy, toilets, POS
+clean, rooms, POS
+tidy, rooms, POS
+nice, hotel, POS
+friendly, staff, POS
+help, staff, POS
+
+Only in Prediction (mispredict)
+--------
+modern, hotel, POS
+modern, Solaris, POS
+
+Only in Gold (not predicted)
+--------
+clean, Pool, POS
+help, staff, POS
+
+########################################################
+
+Sentence
+--------
+When we arrived the air conditioner was leaking and noisy . I have requested to change to a different room . The receptionist was kindly changed us to the next room . Friendly staff and comfortable room . The hotel has a Balinese touch with a combination of modern facilities in the room .
+
+Prediction
+--------
+Friendly, staff, POS
+comfortable, room, POS
+modern, facilities, POS
+
+Actual
+--------
+Friendly, staff, POS
+comfortable, room, POS
+
+Only in Prediction (mispredict)
+--------
+modern, facilities, POS
+
+########################################################
+
+Sentence
+--------
+We book for two rooms . The hotel was nice . They have great service and hospitality from all the staff especially their manager Ms . Rajani . The rooms was super clean , fresh , and comfy . The pool was nice and clean , breakfast was delicious but need bit more variative . We were really happy staying in this hotel .
+
+Prediction
+--------
+nice, hotel, POS
+great, service, POS
+great, hospitality, POS
+clean, rooms, POS
+fresh, rooms, POS
+comfy, rooms, POS
+nice, pool, POS
+clean, pool, POS
+delicious, breakfast, POS
+
+Actual
+--------
+nice, hotel, POS
+great, service, POS
+great, hospitality, POS
+service, staff, POS
+hospitality, staff, POS
+clean, rooms, POS
+fresh, rooms, POS
+comfy, rooms, POS
+nice, pool, POS
+clean, pool, POS
+delicious, breakfast, POS
+
+Only in Gold (not predicted)
+--------
+hospitality, staff, POS
+service, staff, POS
+
+########################################################
+
+Sentence
+--------
+Do not expect a great deal of flair from this place , but it will definitely serve you with small but clean and utility rooms . Decent pool and amenities and wouldn ' t expect anything more for the money we paid . Do not follow the google maps as they have a wrong pin and will take you to incorrect location .
+
+Prediction
+--------
+small, rooms, NEG
+clean, rooms, POS
+utility, rooms, POS
+Decent, pool, POS
+Decent, amenities, POS
+
+Actual
+--------
+small, rooms, NEG
+clean, rooms, POS
+Decent, amenities, POS
+Decent, pool, POS
+
+Only in Prediction (mispredict)
+--------
+utility, rooms, POS
+
+########################################################
+
+Sentence
+--------
+We stayed here because we arrived in a late fly and it ’ s located very close to the airport , 15 minutes walking , no need to take a taxi . It ’ s just that , a one day hotel isn ’ t the most comfortable to expend the days in Bali . Nice staff but the kitchen close early .
+
+Prediction
+--------
+Nice, staff, POS
+
+Actual
+--------
+Nice, staff, POS
+
+########################################################
+
+Sentence
+--------
+Stayed for 3 night , Rooms are dirty , smell not good . The pool is not clean and shaded The breakfast is really good , location is good near kuta beach and small shops such as clothes , cap , etc . Will not comeback . .
+
+Prediction
+--------
+dirty, Rooms, NEG
+good, breakfast, POS
+good, location, POS
+near, clothes, POS
+near, cap, POS
+
+Actual
+--------
+dirty, Rooms, NEG
+shaded, pool, NEG
+good, breakfast, POS
+good, location, POS
+
+Only in Prediction (mispredict)
+--------
+near, clothes, POS
+near, cap, POS
+
+Only in Gold (not predicted)
+--------
+shaded, pool, NEG
+
+########################################################
+
+Sentence
+--------
+Excellent location and service , except the price . Booked thru Agoda and during the booking it ' s hard to notice that they have this Transit offer which means you can only use the room for 7hrs and you have to pay 135 , 000 IDR equivalent to 10 USD to avail the room for overnight .
+
+Prediction
+--------
+Excellent, location, POS
+Excellent, service, POS
+
+Actual
+--------
+Excellent, location, POS
+Excellent, service, POS
+
+########################################################
+
+Sentence
+--------
+Was a quiet little hotel and well priced for a short stay . Wifi didnt work in the back rooms so had u use common area which had a lot of mosquitoes . .
+
+Prediction
+--------
+quiet, hotel, POS
+well, priced, POS
+
+Actual
+--------
+well, priced, NEG
+
+Only in Prediction (mispredict)
+--------
+well, priced, POS
+quiet, hotel, POS
+
+Only in Gold (not predicted)
+--------
+well, priced, NEG
+
+########################################################
+
+Sentence
+--------
+Great location its only 550m from airport and in the heart of busy Kuta . Staff is really friendly , helpful and always smiling . Every day was our room cleaned , the buffet breakfast was good . Be aware they do not have any spirits in bar , just beer , which you can enjoy next to the pool .
+
+Prediction
+--------
+Great, location, POS
+friendly, Staff, POS
+helpful, Staff, POS
+smiling, Staff, POS
+
+Actual
+--------
+Great, location, POS
+friendly, Staff, POS
+helpful, Staff, POS
+cleaned, room, POS
+good, breakfast, POS
+
+Only in Prediction (mispredict)
+--------
+smiling, Staff, POS
+
+Only in Gold (not predicted)
+--------
+cleaned, room, POS
+good, breakfast, POS
+
+########################################################
+
+Sentence
+--------
+Booked just one night for proximity to airport to fly out . The lobby , pool and bar areas on first floor are super neat and modern . The rooms are Ok ; clean but could use a serious update like new paint , fixtures , bedding and repairs . That said , it was completely serviceable for one night near the airport and at a great price .
+
+Prediction
+--------
+modern, pool, POS
+Ok, rooms, NEU
+clean, rooms, POS
+great, price, POS
+
+Actual
+--------
+Ok, rooms, NEU
+
+Only in Prediction (mispredict)
+--------
+great, price, POS
+clean, rooms, POS
+modern, pool, POS
+
+########################################################
+
+Sentence
+--------
+AC is not working , when we informed the housekeeping , a staff came to clean the filter and that ' s all . . . no cool air at all for three nights , the floor is sticky , shower soap was smelly and no refill of coffee on the last night stay , when we called housekeeping , no answer .
+
+Prediction
+--------
+sticky, floor, NEG
+
+Actual
+--------
+sticky, floor, POS
+
+Only in Prediction (mispredict)
+--------
+sticky, floor, NEG
+
+Only in Gold (not predicted)
+--------
+sticky, floor, POS
+
+########################################################
+
+Sentence
+--------
+not a great place and a little bit dirty . the sink didnt work the water didnt work the bathroom was dirty . there is mould all over the ceilings everwhere . on a plus side great roof top bar / pool and real handy for the airport ( hence our one night stay ) . and cheap so ya pays ya money ya takes ya choice .
+
+Prediction
+--------
+dirty, bathroom, NEG
+
+Actual
+--------
+dirty, place, NEG
+dirty, bathroom, NEG
+mould, ceilings, NEG
+great, pool, POS
+cheap, money, POS
+
+Only in Gold (not predicted)
+--------
+cheap, money, POS
+great, pool, POS
+mould, ceilings, NEG
+dirty, place, NEG
+
+########################################################
+
+Sentence
+--------
+We could enjoy many days at the beach , drinking and eating at Level place of Meliá Bali . We want to thanks Mr Artha . The best seevice we got at the hotel during our stay . . He always attended us wirh a smile and he always remembered our names and our preferences . Great job Artha . Thanks from Ana and Miguel .
+
+Prediction
+--------
+best, seevice, POS
+
+Actual
+--------
+enjoy, beach, POS
+best, seevice, POS
+
+Only in Gold (not predicted)
+--------
+enjoy, beach, POS
+
+########################################################
+
+Sentence
+--------
+The hotel and the location are very nice . The airport is very close . The staff are friendly . Thank you . Rooms furniture are old . Persons . . . Otel ve konumu çok güzel . Havalimanına çok yakın . Teşekkür ederim .
+
+Prediction
+--------
+nice, hotel, POS
+nice, location, POS
+friendly, staff, POS
+
+Actual
+--------
+nice, hotel, POS
+nice, location, POS
+close, airport, POS
+friendly, staff, POS
+
+Only in Gold (not predicted)
+--------
+close, airport, POS
+
+########################################################
+
+Sentence
+--------
+I am not a type of person loving to stay in a " crowded " place like Kuta . But , just recently stayed in this hotel for a short transit . Nice live music by the entrance . The staffs seemed to be amateur and lack of hospitality . But overall , it is a good deal for a hotel by the beach !
+
+Prediction
+--------
+amateur, staffs, NEG
+good, deal, POS
+
+Actual
+--------
+good, deal, POS
+lack, hospitality, NEG
+amateur, staffs, NEG
+
+Only in Gold (not predicted)
+--------
+lack, hospitality, NEG
+
+########################################################
+
+Sentence
+--------
+Fantastic stay here . Wifi a little dodgy in rooms but great in lobby . Buffet breakfast pretty good selection . Roof top pool . About 10 - 15 min walk to the action in Kuta . Would stay here again . Airport transfers included in package staff went over and above and remembered my name .
+
+Prediction
+--------
+Fantastic, stay, POS
+dodgy, Wifi, NEG
+
+Actual
+--------
+Fantastic, stay, POS
+dodgy, Wifi, NEG
+good, breakfast, POS
+
+Only in Gold (not predicted)
+--------
+good, breakfast, POS
+
+########################################################
+
+Sentence
+--------
+Old 3 star hotel , not even close to a 5 star hotel . In the middle of nowhere , pool and restaurant area havent had maintenance in years and looks like its not even finished . We booked 3 nights and left after the first night , we did not get a refund , they waved away the food bill .
+
+Prediction
+--------
+Old, hotel, NEG
+
+Actual
+--------
+Old, hotel, NEG
+
+########################################################
+
+Sentence
+--------
+The price per night at Suka beach is very cheap compared to what we would pay at home for the same thing yet it is Bali so we expected a better standard for what we paid . The facilities in terms of pool and dining room are really good but our room and deck were not very clean .
+
+Prediction
+--------
+cheap, price, POS
+good, facilities, POS
+good, pool, POS
+
+Actual
+--------
+good, pool, POS
+
+Only in Prediction (mispredict)
+--------
+cheap, price, POS
+good, facilities, POS
+
+########################################################
+
+Sentence
+--------
+Very good hotel with good facilities and food . The all inclusive bundle allows for unlimited food 24 / 7 and full access to all activities .
+
+Prediction
+--------
+good, hotel, POS
+good, facilities, POS
+good, food, POS
+
+Actual
+--------
+good, hotel, POS
+good, facilities, POS
+good, food, POS
+
+########################################################
+
+Sentence
+--------
+It was a great experience , staff are friendly and cooperative , the location was perfect and the hotel arranged free ride to many beautiful places around and with other places , using Grab was very affordable and simple . If I will come back to Uluwatu , I will stay in Le Grande for sure .
+
+Prediction
+--------
+great, experience, POS
+friendly, staff, POS
+cooperative, staff, POS
+perfect, location, POS
+affordable, Grab, POS
+simple, Grab, NEU
+
+Actual
+--------
+great, experience, POS
+friendly, staff, POS
+perfect, location, POS
+cooperative, staff, POS
+
+Only in Prediction (mispredict)
+--------
+affordable, Grab, POS
+simple, Grab, NEU
+
+########################################################
+
+Sentence
+--------
+For a budget hotel my expectations weren ' t high but the staff make this hotel a great place to stay . They went out of their way to assist us in any way and we ' re always friendly and helpful . We were even invited to join them in their celebration for National Day .
+
+Prediction
+--------
+great, place, POS
+friendly, staff, POS
+helpful, staff, POS
+
+Actual
+--------
+assist, staff, POS
+
+Only in Prediction (mispredict)
+--------
+friendly, staff, POS
+helpful, staff, POS
+great, place, POS
+
+Only in Gold (not predicted)
+--------
+assist, staff, POS
+
+########################################################
+
+Sentence
+--------
+Location in the heart of lovina beach . This hotel is an old hotel but condition is good . Price for dolphin tour is good . I got IDR 85 . 000 for dolphin watching and IDR 85 . 000 for snorkeling . Their staff also helpfull .
+
+Prediction
+--------
+old, hotel, NEG
+good, condition, POS
+good, Price, POS
+helpfull, staff, POS
+
+Actual
+--------
+old, hotel, NEG
+good, condition, POS
+good, Price, POS
+helpfull, staff, POS
+
+########################################################
+
+Sentence
+--------
+The shower was great and the people working there were very friendly and helpful . Next time I will likely stay in a different hotel because I need a desk and chair in my room to do my work . The breakfast was satisfactory but the servers were very friendly .
+
+Prediction
+--------
+great, shower, POS
+friendly, people, POS
+helpful, people, POS
+satisfactory, breakfast, POS
+friendly, servers, POS
+
+Actual
+--------
+great, shower, POS
+satisfactory, breakfast, POS
+friendly, servers, POS
+
+Only in Prediction (mispredict)
+--------
+friendly, people, POS
+helpful, people, POS
+
+########################################################
+
+Sentence
+--------
+Ubud is a very busy town and this hotel is at the walking distance but away from all hustle bustle . We highly recommend this place for the location as well as its nice clean rooms with gorgeous infinity pool overlooking the jungle .
+
+Prediction
+--------
+nice, rooms, POS
+clean, rooms, POS
+
+Actual
+--------
+nice, rooms, POS
+clean, rooms, POS
+gorgeous, pool, POS
+
+Only in Gold (not predicted)
+--------
+gorgeous, pool, POS
+
+########################################################
+
+Sentence
+--------
+Great location , helpful awesome staff and fantastic room and pool . Was perfect for my stay at Bali . It ' s near to Potato beach club , Butcher house , The Holy Crab , La Favela and many other attractions . Clean room and a comfy bed .
+
+Prediction
+--------
+Great, location, POS
+awesome, staff, POS
+fantastic, room, POS
+fantastic, pool, POS
+Clean, room, POS
+comfy, bed, POS
+
+Actual
+--------
+comfy, bed, POS
+Clean, room, POS
+near, attractions, POS
+perfect, stay, POS
+fantastic, pool, POS
+fantastic, room, POS
+awesome, staff, POS
+helpful, staff, POS
+Great, location, POS
+
+Only in Gold (not predicted)
+--------
+near, attractions, POS
+helpful, staff, POS
+perfect, stay, POS
+
+########################################################
+
+Sentence
+--------
+property very close with airport , entertainment ( Lippo Mall ) & Beach , enough with walking . So you can find anything you want around here . They have rooftop pool is + . BUT Breakfast was so . . so and the staff unfriendly especially in the breakfast time . They always Clustered inside the bar counter .
+
+Prediction
+--------
+unfriendly, staff, NEG
+
+Actual
+--------
+close, airport, POS
+close, Beach, POS
+so, Breakfast, NEG
+unfriendly, staff, NEG
+
+Only in Gold (not predicted)
+--------
+so, Breakfast, NEG
+close, airport, POS
+close, Beach, POS
+
+########################################################
+
+Sentence
+--------
+Arrived at this hotel looking forward to a luxury beachfront stay . Stayed 5 mins and demanded a full refund ! Tiny basement rooms with no window or bathroom . The stench of sewerage was so overpowering we left immediately . Found a beautiful hotel 5mins down the road with a sunset view from our window at a cheaper rate .
+
+Prediction
+--------
+beautiful, hotel, POS
+
+Actual
+--------
+Tiny, rooms, NEG
+no, window, NEG
+no, bathroom, NEG
+overpowering, stench, NEG
+beautiful, hotel, POS
+cheaper, hotel, POS
+
+Only in Gold (not predicted)
+--------
+no, bathroom, NEG
+cheaper, hotel, POS
+Tiny, rooms, NEG
+no, window, NEG
+overpowering, stench, NEG
+
+########################################################
+
+Sentence
+--------
+Tired rooms - hotel rooms clearly havent had renovation for long time . The room also didnt feel clean enoughNo noise isolation - could hear the road outside , and once prayer time started at around 4 .
+
+Prediction
+--------
+Tired, rooms, NEG
+
+Actual
+--------
+Tired, rooms, NEG
+
+########################################################
+
+Sentence
+--------
+packing space and food should be improve better in future . location and cleanliness recommended for budget hotel , near airport , shopping mall , and others entertainment .
+
+Prediction
+--------
+recommended, location, POS
+recommended, cleanliness, POS
+near, airport, POS
+
+Actual
+--------
+recommended, location, POS
+recommended, cleanliness, POS
+
+Only in Prediction (mispredict)
+--------
+near, airport, POS
+
+########################################################
+
+Sentence
+--------
+I would request every Indian who prefer Indian food not to choose this hotel . . they don ' t have a proper vegetarian food . . worst experience in terms of food . . otherwise the view from room was nice . . choose accordingly .
+
+Prediction
+--------
+worst, experience, NEG
+nice, view, POS
+
+Actual
+--------
+nice, view, POS
+worst, experience, NEG
+
+########################################################
+
+Sentence
+--------
+New hotel , 3stars yet need a lot improvement in room facility and also the quality of food at Rest . Hotel theme is already ' out - of the box ' , think that you need a ' guest activity ' like movie night in your pool area that would be fantastic . Keep improving , Fans !
+
+Prediction
+--------
+New, hotel, POS
+
+Actual
+--------
+New, hotel, NEU
+quality, food, NEU
+
+Only in Prediction (mispredict)
+--------
+New, hotel, POS
+
+Only in Gold (not predicted)
+--------
+New, hotel, NEU
+quality, food, NEU
+
+########################################################
+
+Sentence
+--------
+Everything was great . Thank you 😊 The staff was excellent especially Kadek Hotel was good and well arranged . The hotel is located in good area , which is near to everything , also got a great swimming pool on the roof top .
+
+Prediction
+--------
+great, Everything, POS
+excellent, staff, POS
+
+Actual
+--------
+great, Everything, POS
+excellent, staff, POS
+good, Hotel, POS
+near, everything, POS
+
+Only in Gold (not predicted)
+--------
+near, everything, POS
+good, Hotel, POS
+
+########################################################
+
+Sentence
+--------
+There were passing showers when we were here and it was so nice to snuggle into the comfy duvets and enjoy the view from the cozy rooms . We were quite surprised to find this place to be so well maintained , despite the bad reviews . Apparently now there ’ s a new management running the family business and they have definitely done a great job !
+
+Prediction
+--------
+cozy, rooms, POS
+bad, reviews, NEG
+
+Actual
+--------
+enjoy, view, POS
+cozy, rooms, POS
+
+Only in Prediction (mispredict)
+--------
+bad, reviews, NEG
+
+Only in Gold (not predicted)
+--------
+enjoy, view, POS
+
+########################################################
+
+Sentence
+--------
+Not entirely sure where this hotel gets its 5 * rating . The food is average at best , the pool area is left wanting and , while the staff are friendly , they aren ’ t always the most helpful . The only upside is the price , which should be indication enough .
+
+Prediction
+--------
+average, food, NEU
+friendly, staff, POS
+
+Actual
+--------
+average, food, NEU
+friendly, staff, POS
+
+########################################################
+
+Sentence
+--------
+hotel room was fine : ) room rate is ok . worth the price . maybe will stay here again for business trip . breakfast can be improved with more various menu . overall i enjoyed my stay . thank you : ) . . . . . .
+
+Prediction
+--------
+fine, room, POS
+ok, rate, NEU
+worth, price, POS
+
+Actual
+--------
+fine, room, NEU
+ok, room, NEU
+worth, price, POS
+various, menu, NEG
+enjoyed, stay, POS
+
+Only in Prediction (mispredict)
+--------
+ok, rate, NEU
+fine, room, POS
+
+Only in Gold (not predicted)
+--------
+various, menu, NEG
+fine, room, NEU
+ok, room, NEU
+enjoyed, stay, POS
+
+########################################################
+
+Sentence
+--------
+Overall is good . Food is good . Breakfast is good and worthy . Service is good . Airport pickup is very excellent . Shower is good . The downsides are the rooms have cigarettes smell and internet too slow .
+
+Prediction
+--------
+good, Food, POS
+good, Breakfast, POS
+worthy, Breakfast, POS
+good, Service, POS
+good, Shower, POS
+slow, internet, NEG
+
+Actual
+--------
+good, Food, POS
+good, Breakfast, POS
+good, Service, POS
+good, Shower, POS
+
+Only in Prediction (mispredict)
+--------
+slow, internet, NEG
+worthy, Breakfast, POS
+
+########################################################
+
+Sentence
+--------
+I called few hours before I arrived but the check in took too long . Room is dark on the kitchen area . Staff are accommodating and friendly . Will be nice to have more lights in the room so it won ' t look dodgy .
+
+Prediction
+--------
+dark, Room, NEG
+friendly, Staff, POS
+
+Actual
+--------
+dark, Room, NEG
+dodgy, room, NEG
+friendly, Staff, POS
+
+Only in Gold (not predicted)
+--------
+dodgy, room, NEG
+
+########################################################
+
+Sentence
+--------
+Hotel staff was very kind , helpful . Food was ok . Spot was very good because just across kuta beach and plenty of food and store near hotel . Recomended . A little too bad some facilities need repairment , overall it was a nice hotel , beautiful scene and good spot .
+
+Prediction
+--------
+kind, staff, POS
+helpful, staff, POS
+ok, Food, NEU
+nice, hotel, POS
+beautiful, scene, POS
+
+Actual
+--------
+kind, staff, POS
+helpful, staff, POS
+good, Spot, POS
+near, food, POS
+near, store, POS
+nice, hotel, POS
+beautiful, scene, POS
+ok, Food, NEU
+
+Only in Gold (not predicted)
+--------
+near, food, POS
+good, Spot, POS
+near, store, POS
+
+########################################################
+
+Sentence
+--------
+I recently stayed at this hotel in transit to Lombok . Close to the airport really friendly staff , free shuttle to and from airport and to go shopping . Breakfast mostly Asian but can get omelette a to order . Overall very happy & good price . Room was very clean & very quiet .
+
+Prediction
+--------
+Close, airport, POS
+friendly, staff, POS
+good, price, POS
+clean, Room, POS
+quiet, Room, POS
+
+Actual
+--------
+friendly, staff, POS
+Asian, Breakfast, NEU
+good, price, POS
+clean, Room, POS
+quiet, Room, POS
+
+Only in Prediction (mispredict)
+--------
+Close, airport, POS
+
+Only in Gold (not predicted)
+--------
+Asian, Breakfast, NEU
+
+########################################################
+
+Sentence
+--------
+We only stayed in solaris from 12pm - 7pm for short transit stay . Great budget hotel for the price . Staff very friendly and welcoming and nothing was too much trouble . Room did smell a little mouldy though maybe due to air - con . I think the air - con may need a service .
+
+Prediction
+--------
+friendly, Staff, POS
+welcoming, Staff, POS
+smell, Room, NEG
+mouldy, Room, NEG
+
+Actual
+--------
+Great, price, POS
+friendly, Staff, POS
+welcoming, Staff, POS
+mouldy, Room, NEG
+
+Only in Prediction (mispredict)
+--------
+smell, Room, NEG
+
+Only in Gold (not predicted)
+--------
+Great, price, POS
+
+########################################################
+
+Sentence
+--------
+Friendly staff , good breakfast , comfortable room . My room also has hairdryer . Thats very helpful for me . What else could you ask for ? Very recommended 3 stars hotel in Kuta . Sure will be come back on my next trip !
+
+Prediction
+--------
+Friendly, staff, POS
+good, breakfast, POS
+comfortable, room, POS
+has, hairdryer, NEU
+
+Actual
+--------
+Friendly, staff, POS
+good, breakfast, POS
+comfortable, room, POS
+
+Only in Prediction (mispredict)
+--------
+has, hairdryer, NEU
+
+########################################################
+
+Sentence
+--------
+For the money that I spent , it was a decent stay . Not much of facilities . But then , I don ' t use most of the facilities in a resort . So , I was happy with the stay . Kuta is a happening place . So , lots of super markets and shopping malls .
+
+Prediction
+--------
+decent, stay, POS
+happy, stay, POS
+
+Actual
+--------
+decent, stay, POS
+happy, stay, POS
+
+########################################################
+
+Sentence
+--------
+When first step to this hotel there isn ' t welcoming celebration from hotel staff . . the room a little dirty . . many dust in side of room . . . and the situation in this hotel is crowd . . so I think is not comfortable when you want to rest . . . I thought the breakfast has a little variant and the taste is so so . . .
+
+Prediction
+--------
+dirty, room, NEG
+crowd, situation, NEG
+
+Actual
+--------
+dirty, room, NEG
+dust, room, NEG
+crowd, situation, NEG
+
+Only in Gold (not predicted)
+--------
+dust, room, NEG
+
+########################################################
+
+Sentence
+--------
+Transit for 5 hours in Bali , booked this hotel from online travel agent . hopping for just another cheap hotel environment in my mind . . shocked and impressed . the room is clean . . the environment is peaceful . . free shuttle to the airport . . resting and relax before my next flight with no trouble . .
+
+Prediction
+--------
+clean, room, POS
+peaceful, environment, POS
+
+Actual
+--------
+booked, hotel, NEU
+clean, room, POS
+peaceful, environment, POS
+
+Only in Gold (not predicted)
+--------
+booked, hotel, NEU
+
+########################################################
+
+Sentence
+--------
+Stayed 3 nights with family n friends as all rooms floor is dusty and toilet stinks . Breakfast is way below average and only served maximum 2 eggs ! Lobby area is hot and full of mosquito .
+
+Prediction
+--------
+dusty, rooms, NEG
+dusty, floor, NEG
+stinks, toilet, NEG
+
+Actual
+--------
+dusty, rooms, NEG
+stinks, toilet, NEG
+hot, Lobby, NEG
+
+Only in Prediction (mispredict)
+--------
+dusty, floor, NEG
+
+Only in Gold (not predicted)
+--------
+hot, Lobby, NEG
+
+########################################################
+
+Sentence
+--------
+The hotel is clean , near shopping center , food center , and Kuta Beach . There is also drug store near hotel and some mini market . Staff of hotel is friendly . Check - in and check - out time is quick . Bed room and bath room are clean .
+
+Prediction
+--------
+clean, hotel, POS
+friendly, Staff, POS
+clean, bath, POS
+
+Actual
+--------
+clean, hotel, POS
+friendly, Staff, POS
+
+Only in Prediction (mispredict)
+--------
+clean, bath, POS
+
+########################################################
+
+Sentence
+--------
+Near mall , easy to find , good access to airport , but i found a lil bit uncleanness in my room when i got there . The breakfast should ' ve more improved and variations . The pool should provide towel or bathrobe .
+
+Prediction
+--------
+Near, mall, POS
+uncleanness, room, NEG
+
+Actual
+--------
+uncleanness, room, NEG
+Near, mall, POS
+
+########################################################
+
+Sentence
+--------
+Staff was amazing and very helpful when needed ! ! Perfect location ! ! Just needs abit of a renovation in the bathroom and wish the rooftop bar was open like advertised . Daily breakfast was nice but would be nice for abit more variety .
+
+Prediction
+--------
+amazing, Staff, POS
+helpful, Staff, POS
+Perfect, location, POS
+nice, breakfast, POS
+
+Actual
+--------
+amazing, Staff, POS
+helpful, Staff, POS
+Perfect, location, POS
+
+Only in Prediction (mispredict)
+--------
+nice, breakfast, POS
+
+########################################################
+
+Sentence
+--------
+We stayed only one night as it was too noisy ( too close from the road and no possibility to close the window correctly / fully . And the bed was not confortable . The staff of the hotel were very nice with us . Great team !
+
+Prediction
+--------
+nice, staff, POS
+Great, team, POS
+
+Actual
+--------
+noisy, night, NEG
+nice, staff, POS
+Great, team, POS
+
+Only in Gold (not predicted)
+--------
+noisy, night, NEG
+
+########################################################
+
+Sentence
+--------
+Pros : location . Beach and restaurants nearby ( hard rock cafe , McDonald ' s ) Cons : even if you book a seaview room , view is blocked by trees and signboards . Sometimes you will see Cockroaches in the bathroom .
+
+Prediction
+--------
+nearby, location, POS
+nearby, Beach, POS
+nearby, restaurants, POS
+Cockroaches, bathroom, NEG
+
+Actual
+--------
+nearby, Beach, POS
+nearby, restaurants, POS
+Cockroaches, bathroom, NEG
+
+Only in Prediction (mispredict)
+--------
+nearby, location, POS
+
+########################################################
+
+Sentence
+--------
+This is a great hotel right on the water front . Rooms are large with the usual facilities . No kettle in room but if you ask it is available . If you like partying the hotel is right opposite Finns night club possible the biggest night club in the world .
+
+Prediction
+--------
+great, hotel, POS
+large, Rooms, POS
+No, kettle, NEG
+
+Actual
+--------
+large, Rooms, POS
+great, hotel, POS
+usual, facilities, NEU
+
+Only in Prediction (mispredict)
+--------
+No, kettle, NEG
+
+Only in Gold (not predicted)
+--------
+usual, facilities, NEU
+
+########################################################
+
+Sentence
+--------
+Great hotel for a few days stay . Centrally located and just a few Minutes walk from the beach . Friendly staff . Breakfast buffet a little limited . Could do with a few more western choices . Well appointed rooms , very comfortable .
+
+Prediction
+--------
+Great, hotel, POS
+Centrally, located, POS
+Friendly, staff, POS
+comfortable, rooms, POS
+
+Actual
+--------
+Great, hotel, POS
+Centrally, located, POS
+Friendly, staff, POS
+comfortable, rooms, POS
+
+########################################################
+
+Sentence
+--------
+good value for the money I paid . Room quite ok for 4 family members to sleep in the family room . Swimming pool ok with kids swimming pool provided . Overall is ok for the money you paid .
+
+Prediction
+--------
+ok, Room, NEU
+ok, Overall, NEU
+ok, money, NEU
+
+Actual
+--------
+ok, Room, NEU
+
+Only in Prediction (mispredict)
+--------
+ok, money, NEU
+ok, Overall, NEU
+
+########################################################
+
+Sentence
+--------
+we used to stay at other hotels in kuta on our last night as the plane always leaves in the early morning , always involving a large taxi fare or to much travalling time to get to airport , we then found the harris hotel , cheap , clean , free shuttle to airport , we stay with them every time we leave or arrive .
+
+Prediction
+--------
+
+Actual
+--------
+cheap, hotel, POS
+clean, hotel, POS
+
+Only in Gold (not predicted)
+--------
+cheap, hotel, POS
+clean, hotel, POS
+
+########################################################
+
+Sentence
+--------
+This is a good hotel , in a quiet location a little away from Kuta . Very clean , good breakfast , good pool and pleasant helpful staff . A good beach , but be aware that there is coral in the sand which makes it difficult ( but not impossible ) to get in and out of the water . We will be returning .
+
+Prediction
+--------
+good, hotel, POS
+quiet, location, POS
+good, breakfast, POS
+good, pool, POS
+helpful, staff, POS
+good, beach, POS
+
+Actual
+--------
+good, hotel, POS
+good, breakfast, POS
+good, pool, POS
+
+Only in Prediction (mispredict)
+--------
+quiet, location, POS
+good, beach, POS
+helpful, staff, POS
+
+########################################################
+
+Sentence
+--------
+together with a large group of friends we stayed in the hotel unfortunately the smell was nightmare until it burned in the throat despite requests to change the accusation there was no reaction . Towels were blue and they didn ' t smell good either . Nightmarish breakfast .
+
+Prediction
+--------
+nightmare, smell, NEG
+blue, Towels, NEG
+Nightmarish, breakfast, NEG
+
+Actual
+--------
+smell, hotel, NEG
+blue, Towels, NEG
+Nightmarish, breakfast, NEG
+
+Only in Prediction (mispredict)
+--------
+nightmare, smell, NEG
+
+Only in Gold (not predicted)
+--------
+smell, hotel, NEG
+
+########################################################
+
+Sentence
+--------
+Thanks to Spazzio Bali Hotel They give a small surprise to my girlfriend birthday . A small chocolatte cake and candle light its to ammazing . maybe their receptionist looking from out passport so they know her birthday . Everything good in the room , bfast , service . Thankyou so muuuuuchhh . .
+
+Prediction
+--------
+good, Everything, POS
+bfast, service, POS
+
+Actual
+--------
+good, room, POS
+good, bfast, POS
+good, service, POS
+
+Only in Prediction (mispredict)
+--------
+good, Everything, POS
+bfast, service, POS
+
+Only in Gold (not predicted)
+--------
+good, bfast, POS
+good, service, POS
+good, room, POS
+
+########################################################
+
+Sentence
+--------
+The hotel is just nice . Nearby to airport and tourist attractions as well . Easy to get food and not so crowded .
+
+Prediction
+--------
+nice, hotel, POS
+Nearby, airport, POS
+
+Actual
+--------
+nice, hotel, POS
+Nearby, airport, POS
+Easy, food, POS
+
+Only in Gold (not predicted)
+--------
+Easy, food, POS
+
+########################################################
+
+Sentence
+--------
+I just love everything about this hotel . The location , the helpful staff , the clean and big room , the valuable price and most especially the rooftop pool is amazing ! I will surely book this hotel again when I go back to Bali .
+
+Prediction
+--------
+love, hotel, POS
+love, location, POS
+helpful, staff, POS
+clean, room, POS
+big, room, POS
+valuable, price, POS
+
+Actual
+--------
+helpful, staff, POS
+big, room, POS
+clean, room, POS
+valuable, price, POS
+
+Only in Prediction (mispredict)
+--------
+love, location, POS
+love, hotel, POS
+
+########################################################
+
+Sentence
+--------
+I Have stayed at the Alea Hotel now for the first time with my wife . spending honeymoon together . Staff were friendly . The room was wonderful with flower petal . and the hotel was quite new . Breakfast is great . and surprise for Dinner .
+
+Prediction
+--------
+friendly, Staff, POS
+wonderful, room, POS
+new, hotel, POS
+great, Breakfast, POS
+
+Actual
+--------
+friendly, Staff, POS
+wonderful, room, POS
+new, hotel, POS
+great, Breakfast, POS
+surprise, Dinner, POS
+
+Only in Gold (not predicted)
+--------
+surprise, Dinner, POS
+
+########################################################
+
+Sentence
+--------
+We spent 1 night there because it was a good value for money . Room were clean , good location , sea view . Beach is not clean in front hotel Staff reception man correct but not very friendly . Easy to park in front .
+
+Prediction
+--------
+clean, Room, POS
+good, location, POS
+
+Actual
+--------
+clean, Room, POS
+location, good, POS
+
+Only in Prediction (mispredict)
+--------
+good, location, POS
+
+Only in Gold (not predicted)
+--------
+location, good, POS
+
+########################################################
+
+Sentence
+--------
+Me and my husband stay in this hotel last month . We spend our honeymoon on there . All the staff is really helpful and we got best breakfast for us . I will coneback again to this hotel if i got trip to Bali .
+
+Prediction
+--------
+helpful, staff, POS
+best, breakfast, POS
+
+Actual
+--------
+helpful, staff, POS
+breakfast, best, POS
+
+Only in Prediction (mispredict)
+--------
+best, breakfast, POS
+
+Only in Gold (not predicted)
+--------
+breakfast, best, POS
+
+########################################################
+
+Sentence
+--------
+Nice hotel , easy to find , good breakfast , hotel is clean , nice rooms and staff are friendly and helpful . A little away from kuta centre , it wasn ' t near the beach but free shuttle bus into town from 10 AM - 06 PM .
+
+Prediction
+--------
+Nice, hotel, POS
+good, breakfast, POS
+clean, hotel, POS
+nice, rooms, POS
+friendly, staff, POS
+helpful, staff, POS
+
+Actual
+--------
+Nice, hotel, POS
+good, breakfast, POS
+clean, hotel, POS
+nice, rooms, POS
+friendly, staff, POS
+helpful, staff, POS
+
+########################################################
+
+Sentence
+--------
+We stayed 2 weeks , the staff have been more than accommodating , the rooms yes are small . However they are clean and well maintained , we have no complaints . Ani the reception manager is amazing , during our time here we have had need to have a doctor visit , and she went above and beyond ( thank you Ani ) . We would stay here again in a heartbeat .
+
+Prediction
+--------
+small, rooms, NEG
+clean, rooms, POS
+
+Actual
+--------
+small, rooms, NEG
+clean, rooms, POS
+amazing, manager, POS
+
+Only in Gold (not predicted)
+--------
+amazing, manager, POS
+
+########################################################
+
+Sentence
+--------
+This is a realitively new hotel with lift access to upper floors . Very friendly and helpful staff . Great location to the south end of Kuta . Very good prices and excellent rooms and facilities including a rooftop infinity pool with swim up bar . A buffet breakfast was included with our room , and was excellent . The hotel also has its own transport at very reasonable prices .
+
+Prediction
+--------
+new, hotel, POS
+friendly, staff, POS
+helpful, staff, POS
+Great, location, POS
+good, prices, POS
+excellent, rooms, POS
+excellent, facilities, POS
+reasonable, prices, POS
+
+Actual
+--------
+helpful, staff, POS
+friendly, staff, POS
+Great, location, POS
+rooms, excellent, POS
+facilities, excellent, POS
+prices, good, POS
+
+Only in Prediction (mispredict)
+--------
+new, hotel, POS
+excellent, facilities, POS
+good, prices, POS
+reasonable, prices, POS
+excellent, rooms, POS
+
+Only in Gold (not predicted)
+--------
+rooms, excellent, POS
+facilities, excellent, POS
+prices, good, POS
+
+########################################################
+
+Sentence
+--------
+This was my first time in Bali and I stayed here the first night . Great price . Location in Kuta was ideal . Wish I had another night but too short a time in Bali , I had to move on . Would absolutely stay here again .
+
+Prediction
+--------
+Great, price, POS
+ideal, Location, POS
+
+Actual
+--------
+Great, price, POS
+ideal, Location, POS
+
+########################################################
+
+Sentence
+--------
+Staff are always so welcoming , friendly & helpful . It is so affordable to stay at the Ibis , Legian . The accommodation is basic , but clean . The beds could be a bit softer though . The reception and lounge area is in a good position . We are members of Advantage Plus so our meals are 50 % off as well .
+
+Prediction
+--------
+welcoming, Staff, POS
+friendly, Staff, POS
+helpful, Staff, POS
+basic, accommodation, NEU
+clean, accommodation, POS
+
+Actual
+--------
+welcoming, Staff, POS
+friendly, Staff, POS
+helpful, Staff, POS
+affordable, Ibis, POS
+
+Only in Prediction (mispredict)
+--------
+basic, accommodation, NEU
+clean, accommodation, POS
+
+Only in Gold (not predicted)
+--------
+affordable, Ibis, POS
+
+########################################################
+
+Sentence
+--------
+This hotel was amazing , the level of service was out of this world with every staff member always so happy and wanting to help . The gardens was a credit to the gardeners as nothing was out of place . Great hotel highly recommend to anyone and we will be back soon .
+
+Prediction
+--------
+amazing, hotel, POS
+happy, staff, POS
+Great, hotel, POS
+
+Actual
+--------
+amazing, hotel, POS
+
+Only in Prediction (mispredict)
+--------
+happy, staff, POS
+Great, hotel, POS
+
+########################################################
+
+Sentence
+--------
+Located right near the airport with free airport shuttle . Pick up was good . As regards the rooms they desperately need a new coat of paint as it ’ s looking old . The mattress was comfortable and breakfast was good .
+
+Prediction
+--------
+old, rooms, NEG
+old, mattress, NEG
+comfortable, mattress, POS
+good, breakfast, POS
+
+Actual
+--------
+comfortable, mattress, POS
+good, breakfast, POS
+
+Only in Prediction (mispredict)
+--------
+old, rooms, NEG
+old, mattress, NEG
+
+########################################################
+
+Sentence
+--------
+Location was great . Walking distance to everything . , but this is not a resort style hotel . Has a roof pool but no shade . Rooms were clean , staff excellent . Breakfast was Ok , but the same every day . As usual it is the other noisy and thoughtless guests that spoil it for everyone .
+
+Prediction
+--------
+great, Location, POS
+clean, Rooms, POS
+excellent, staff, POS
+Ok, Breakfast, NEU
+noisy, guests, NEG
+thoughtless, guests, NEG
+
+Actual
+--------
+great, Location, POS
+clean, Rooms, POS
+excellent, staff, POS
+Ok, Breakfast, POS
+noisy, it, NEG
+
+Only in Prediction (mispredict)
+--------
+noisy, guests, NEG
+thoughtless, guests, NEG
+Ok, Breakfast, NEU
+
+Only in Gold (not predicted)
+--------
+Ok, Breakfast, POS
+noisy, it, NEG
+
+########################################################
+
+Sentence
+--------
+Postive : + Nice Location + Walking distance from airport ( 1 , 1km / less than 1 mile ) + Near Lippo Mall , Discovery Mall and Waterboom ( 400 - 1500m ) + Spa and restaurant in front of Hotel .
+
+Prediction
+--------
+Nice, Location, POS
+Near, Waterboom, POS
+
+Actual
+--------
+Nice, Location, POS
+Near, Waterboom, POS
+
+########################################################
+
+Sentence
+--------
+We had a very spacious family bungalow . Fab balcony where we watched bats fly past at night . Bathrooms a little tired but big . Pool area lovely and not busy . Great location for beach and bars . Lovely staff too .
+
+Prediction
+--------
+spacious, bungalow, POS
+tired, Bathrooms, NEG
+big, Bathrooms, POS
+lovely, Pool, POS
+Great, location, POS
+Lovely, staff, POS
+
+Actual
+--------
+tired, Bathrooms, NEG
+big, Bathrooms, POS
+lovely, Pool, POS
+Great, location, POS
+Lovely, staff, POS
+
+Only in Prediction (mispredict)
+--------
+spacious, bungalow, POS
+
+########################################################
+
+Sentence
+--------
+very good hotel located on very near to the nightlife and all main places . the service and house keeping is very good . swimmingpool is very neat and clean . foods served is also very tasty and yummy . verygood ! take a visit next time !
+
+Prediction
+--------
+good, hotel, POS
+near, nightlife, POS
+good, service, POS
+tasty, foods, POS
+yummy, foods, POS
+
+Actual
+--------
+good, hotel, POS
+good, service, POS
+tasty, foods, POS
+yummy, foods, POS
+
+Only in Prediction (mispredict)
+--------
+near, nightlife, POS
+
+########################################################
+
+Sentence
+--------
+Two lap pools . Deluxe room comfortable , serviced daily by wonderful staff . Two free water daily . In room tea & coffee supplied . The Spa too expensive , good decor . Ade the restaurant manager was very helpful , his staff are respectful towards Ade and all tourists . Buffet breakfast , freshly made eggs served any way you like .
+
+Prediction
+--------
+comfortable, room, POS
+wonderful, staff, POS
+expensive, Spa, POS
+good, decor, POS
+respectful, staff, POS
+
+Actual
+--------
+comfortable, room, POS
+wonderful, staff, POS
+good, decor, POS
+respectful, staff, POS
+like, breakfast, POS
+expensive, Spa, NEG
+
+Only in Prediction (mispredict)
+--------
+expensive, Spa, POS
+
+Only in Gold (not predicted)
+--------
+expensive, Spa, NEG
+like, breakfast, POS
+
+########################################################
+
+Sentence
+--------
+Interesting concept and design , friendly staff , has kids facilities ( play ground , swimming pool ) , strategic location ( approximately 4 KM from beach but it has shuttle bus - but we didn ' t try it ) . Minor issues : limited car parking lot ; the staff forgot to deliver hairdryer , which has ordered twice . But , overall it is a nice place to stay !
+
+Prediction
+--------
+friendly, staff, POS
+strategic, location, POS
+nice, place, POS
+
+Actual
+--------
+Interesting, concept, POS
+Interesting, design, POS
+friendly, staff, POS
+strategic, location, POS
+nice, place, POS
+
+Only in Gold (not predicted)
+--------
+Interesting, design, POS
+Interesting, concept, POS
+
+########################################################
+
+Sentence
+--------
+Went here for a holiday with friends last week and had dinner in the hotel restaurant . Food was so bad and expensive . I ordered steak which was so hard to chew and made me wanna spit out . Pictures on the menu looks deceiving . Never coming back again .
+
+Prediction
+--------
+bad, Food, NEG
+expensive, Food, NEG
+
+Actual
+--------
+hard, steak, NEG
+bad, Food, NEG
+expensive, Food, NEG
+
+Only in Gold (not predicted)
+--------
+hard, steak, NEG
+
+########################################################
+
+Sentence
+--------
+Every time to bali . . this is my first time gets the worst hotel . I have booked from the 7th of june with special request to request double bed . . the day of arrival even get twin bed . . . . I am very disappointed and ruined my mood . The price is not worth the room amenities and is too expensive for a budget hotel . . .
+
+Prediction
+--------
+worst, hotel, NEG
+expensive, price, NEG
+
+Actual
+--------
+worst, hotel, NEG
+
+Only in Prediction (mispredict)
+--------
+expensive, price, NEG
+
+########################################################
+
+Sentence
+--------
+Lovely stay with modern rooms . A quiet escape from the busy roads of Ubud . Would definitely recommend staying here . Friendly and attentive staff Amazing infinity pool over looking the jungle and sunrise with nice cocktails . Great food at Pistachio , the restaurant for breakfast . Fruit , pastries and a choice of main , coffee and juice ( 3 course breakfast ! ) .
+
+Prediction
+--------
+Lovely, stay, POS
+modern, rooms, POS
+Friendly, staff, POS
+attentive, staff, POS
+Great, food, POS
+
+Actual
+--------
+Lovely, stay, POS
+modern, rooms, POS
+attentive, staff, POS
+Amazing, pool, POS
+nice, cocktails, POS
+Great, food, POS
+
+Only in Prediction (mispredict)
+--------
+Friendly, staff, POS
+
+Only in Gold (not predicted)
+--------
+nice, cocktails, POS
+Amazing, pool, POS
+
+########################################################
+
+Sentence
+--------
+The exterior and lobby are great looking , however the rooms are in fairly bad looking shape . We only stayed here one night but the staff was friendly and helpful . The location was also great if you ' re interested in staying near the night life in Kuta as there was a band playing next door . Great price - - got what we paid for .
+
+Prediction
+--------
+great, exterior, POS
+great, lobby, POS
+friendly, staff, POS
+helpful, staff, POS
+great, location, POS
+Great, price, POS
+
+Actual
+--------
+bad, rooms, NEG
+friendly, staff, POS
+helpful, staff, POS
+great, location, POS
+Great, price, POS
+
+Only in Prediction (mispredict)
+--------
+great, lobby, POS
+great, exterior, POS
+
+Only in Gold (not predicted)
+--------
+bad, rooms, NEG
+
+########################################################
+
+Sentence
+--------
+The staff were very friendly and so helpful . Accidentally left a watch and they informed us right away . Location was very good ; close to the convenience strore and 5 minutes walk to the atm center , gift shop , and restaurants . They also have a shuttle bus for guests called kura - kura bus . Extremely good value for money . Would definitely recommend to all .
+
+Prediction
+--------
+friendly, staff, POS
+helpful, staff, POS
+good, Location, POS
+
+Actual
+--------
+friendly, staff, POS
+helpful, staff, POS
+good, Location, POS
+
+########################################################
+
+Sentence
+--------
+Have just spent two nights in a deluxe suite at Dekuta . Room was spacious ( family of 5 ) , clean and we were opposite the pool . Hotel staff were friendly and helpful . This is our third stay and we will be back .
+
+Prediction
+--------
+spacious, Room, POS
+friendly, staff, POS
+helpful, staff, POS
+
+Actual
+--------
+clean, Room, POS
+friendly, staff, POS
+helpful, staff, POS
+
+Only in Prediction (mispredict)
+--------
+spacious, Room, POS
+
+Only in Gold (not predicted)
+--------
+clean, Room, POS
+
+########################################################
+
+Sentence
+--------
+We decided to chose another hotel because the sheets were dirty and the bathroom smelly . Too expensive for what it is . Not like the pictures . The windows were broken , the room was far from being new . The personal was nice though . Try another one .
+
+Prediction
+--------
+dirty, sheets, NEG
+smelly, bathroom, NEG
+broken, windows, NEG
+broken, room, NEG
+nice, personal, POS
+
+Actual
+--------
+nice, personal, POS
+broken, windows, NEG
+smelly, bathroom, NEG
+dirty, sheets, NEG
+
+Only in Prediction (mispredict)
+--------
+broken, room, NEG
+
+########################################################
+
+Sentence
+--------
+the location is the best , near airport and just walking distance to the beach . the hotel staff is very responsive . the room is spacious and comfortable . the breakfast menu is delicious . will be back to this hotel . . .
+
+Prediction
+--------
+best, location, POS
+spacious, room, POS
+comfortable, room, POS
+delicious, breakfast, POS
+
+Actual
+--------
+delicious, breakfast, POS
+spacious, room, POS
+best, location, POS
+near, airport, POS
+responsive, staff, POS
+comfortable, room, POS
+
+Only in Gold (not predicted)
+--------
+near, airport, POS
+responsive, staff, POS
+
+########################################################
+
+Sentence
+--------
+Good for an early flight due to the location close to the airport and the free pick - up and drop off . If not for this reason , there are better located possiblities in Kuta . We cannot comment on breakfast , as we had an early flight .
+
+Prediction
+--------
+close, location, POS
+
+Actual
+--------
+close, airport, POS
+
+Only in Prediction (mispredict)
+--------
+close, location, POS
+
+Only in Gold (not predicted)
+--------
+close, airport, POS
+
+########################################################
+
+Sentence
+--------
+our room was facing the pool and the environment was quiet and peaceful enough . wifi was working all over the hotel and the rooms . very close to airport . i didnt try the pool since i had to catch up the flight the next early morning . the staff was very helpful and attentive . anyways , the hotel is cheap but good .
+
+Prediction
+--------
+quiet, environment, POS
+peaceful, environment, POS
+helpful, staff, POS
+attentive, staff, POS
+cheap, hotel, POS
+good, hotel, POS
+
+Actual
+--------
+quiet, environment, POS
+peaceful, environment, POS
+working, wifi, POS
+helpful, staff, POS
+attentive, staff, POS
+cheap, hotel, POS
+good, hotel, POS
+
+Only in Gold (not predicted)
+--------
+working, wifi, POS
+
+########################################################
+
+Sentence
+--------
+The room was better than expected , confortable enough . The hotel is Ok , well priced for a place right on the beach in a well known surfer area ; it is quite far from fun areas of Seminyak , it would take around 30 minutes by car to get there . There ' s not much action around the hotel .
+
+Prediction
+--------
+better, room, POS
+confortable, room, POS
+Ok, hotel, NEU
+well, priced, POS
+
+Actual
+--------
+better, room, POS
+confortable, room, POS
+Ok, hotel, POS
+
+Only in Prediction (mispredict)
+--------
+well, priced, POS
+Ok, hotel, NEU
+
+Only in Gold (not predicted)
+--------
+Ok, hotel, POS
+
+########################################################
+
+Sentence
+--------
+Unique Hotel with deep Balinese touch , lots of statue in front of the hotel . The restaurant is good , with variant Indonesian Cuisines . The price is quite affordable considering the hotel is located in premium areas like Legian . Recommended Hotel to visit .
+
+Prediction
+--------
+Unique, Hotel, POS
+good, restaurant, POS
+affordable, price, POS
+
+Actual
+--------
+Unique, Hotel, POS
+good, restaurant, POS
+affordable, price, POS
+Recommended, Hotel, POS
+
+Only in Gold (not predicted)
+--------
+Recommended, Hotel, POS
+
+########################################################
+
+Sentence
+--------
+Amazing service ! Desak and Gede provided exceptional service at Sorrento restaurant . We were so well looked after . They were friendly and accomodating and really took pride in making us feel welcome . We went back 3 times . The food was equally delicious !
+
+Prediction
+--------
+Amazing, service, POS
+exceptional, service, POS
+delicious, food, POS
+
+Actual
+--------
+Amazing, service, POS
+delicious, food, POS
+
+Only in Prediction (mispredict)
+--------
+exceptional, service, POS
+
+########################################################
+
+Sentence
+--------
+I thing this trip is complete with excellent service with this hotel . . just little problem to find the kiblat for praying because i cant found the sign to pray . .
+
+Prediction
+--------
+excellent, service, POS
+
+Actual
+--------
+excellent, service, POS
+
+########################################################
+
+Sentence
+--------
+Newer hotel along Bisma street . Opened in 2020 before pandemic hit . Close to downtown area but far away enough where it is peaceful . Hotel breakfast has good options and fresh fruit . Rooftop pool . Not too crowded in September Excellent service and amazing staff Cleaning service daily and turn down service nightly . Clean bathroom . Amazing tub in room Great water pressure and hot water is quick Would recommend .
+
+Prediction
+--------
+Excellent, service, POS
+amazing, staff, POS
+Clean, bathroom, POS
+Amazing, tub, POS
+
+Actual
+--------
+Newer, hotel, POS
+fresh, fruit, POS
+Excellent, service, POS
+amazing, staff, POS
+Clean, bathroom, POS
+Amazing, tub, POS
+
+Only in Gold (not predicted)
+--------
+Newer, hotel, POS
+fresh, fruit, POS
+
+########################################################
+
+Sentence
+--------
+Very nice and quiet area . The room comfortable and cozy bathroom . Breakfast and dinner I love so much , made me like Indonesian food . I rented motorcycle from the hotel and very easy going to the beach . And miss Rahayu very helpful for information about bali and solve all my questions .
+
+Prediction
+--------
+nice, area, POS
+quiet, area, POS
+comfortable, room, POS
+cozy, bathroom, POS
+love, Breakfast, POS
+love, dinner, POS
+like, food, POS
+
+Actual
+--------
+quiet, area, POS
+nice, area, POS
+comfortable, room, POS
+cozy, bathroom, POS
+love, Breakfast, POS
+love, dinner, POS
+helpful, Rahayu, POS
+
+Only in Prediction (mispredict)
+--------
+like, food, POS
+
+Only in Gold (not predicted)
+--------
+helpful, Rahayu, POS
+
+########################################################
+
+Sentence
+--------
+We had an amazing stay at le grande ! Nice location a bit outside the centre of uluwatu - easy to get around with scooters you can rent at the hotel . Very friendly and service - minded staff , beautiful atmosphere , good drinks and great breakfast !
+
+Prediction
+--------
+amazing, stay, POS
+Nice, location, POS
+friendly, staff, POS
+beautiful, atmosphere, POS
+good, drinks, POS
+great, breakfast, POS
+
+Actual
+--------
+amazing, stay, POS
+Nice, location, POS
+minded, staff, POS
+beautiful, atmosphere, POS
+good, drinks, POS
+great, breakfast, POS
+
+Only in Prediction (mispredict)
+--------
+friendly, staff, POS
+
+Only in Gold (not predicted)
+--------
+minded, staff, POS
+
+########################################################
+
+Sentence
+--------
+Really good location and price , really good pool and stuff were helpful . Only problem is the rooms could be better , some really awkward power point locations but for the price I can ' t complain much , pool is really nice too .
+
+Prediction
+--------
+good, location, POS
+good, price, POS
+good, pool, POS
+helpful, stuff, POS
+nice, pool, POS
+
+Actual
+--------
+good, location, POS
+good, price, POS
+good, pool, POS
+helpful, stuff, POS
+nice, pool, POS
+
+########################################################
+
+Sentence
+--------
+We found the hotel to be great but the surf waas very very crowded all day and the water not so clean .
+
+Prediction
+--------
+great, hotel, POS
+
+Actual
+--------
+crowded, surf, NEG
+great, hotel, POS
+
+Only in Gold (not predicted)
+--------
+crowded, surf, NEG
+
+########################################################
+
+Sentence
+--------
+Spent one night in Lovina . Hotel was nice and clean . Good pool ( didn ’ t use ) . Breakfast okay . Good restaurants near by . It was a nice place to stay close to beach - but wasn ’ t outstanding . Everywhere else the staff went above and beyond , here not so much . But still good value .
+
+Prediction
+--------
+nice, Hotel, POS
+clean, Hotel, POS
+Good, pool, POS
+okay, Breakfast, NEU
+Good, restaurants, POS
+good, value, POS
+
+Actual
+--------
+nice, Hotel, POS
+clean, Hotel, POS
+Good, pool, POS
+okay, Breakfast, POS
+Good, restaurants, POS
+near, restaurants, POS
+nice, place, POS
+close, beach, POS
+good, value, POS
+
+Only in Prediction (mispredict)
+--------
+okay, Breakfast, NEU
+
+Only in Gold (not predicted)
+--------
+okay, Breakfast, POS
+near, restaurants, POS
+close, beach, POS
+nice, place, POS
+
+########################################################
+
+Sentence
+--------
+We stayed one night due to late flight arrival . Easy access to hotel via airport shuttle . Friendly , helpful reception staff . Spacious , clean ( if basic ) room . Breakfast was OK . ATMs within short walking distance . Would use agin .
+
+Prediction
+--------
+Spacious, room, POS
+clean, room, POS
+basic, room, NEU
+OK, Breakfast, NEU
+
+Actual
+--------
+Friendly, staff, POS
+helpful, staff, POS
+Spacious, room, POS
+clean, room, POS
+OK, Breakfast, NEU
+
+Only in Prediction (mispredict)
+--------
+basic, room, NEU
+
+Only in Gold (not predicted)
+--------
+helpful, staff, POS
+Friendly, staff, POS
+
+########################################################
+
+Sentence
+--------
+We stayed here for our really short 7 hour layover in Bali . We didnt fancy staying in the airport for that long and thankfully we found this place ! they picked us up from the arrivals and shuttled us to the hotel in a matter of minutes . We used the spa massage and had in room dining and was fantastic for that really short stop over . Staff were all fantastic !
+
+Prediction
+--------
+fantastic, Staff, POS
+
+Actual
+--------
+fantastic, dining, POS
+fantastic, Staff, POS
+
+Only in Gold (not predicted)
+--------
+fantastic, dining, POS
+
+########################################################
+
+Sentence
+--------
+I was stay there for two night last month , room very nice , staff are freinldy , breakfast is good , but internet connection ( wifi ) bad connection in the room and lobby also restaurant area .
+
+Prediction
+--------
+nice, room, POS
+freinldy, staff, POS
+good, breakfast, POS
+
+Actual
+--------
+nice, room, POS
+freinldy, staff, POS
+good, breakfast, POS
+bad, connection, NEG
+
+Only in Gold (not predicted)
+--------
+bad, connection, NEG
+
+########################################################
+
+Sentence
+--------
+I really thought and expecting the stay to be a standard stay but it turns out to be a very nice , relaxing , tranquil stay . A very wonderful stay , a hidden gem for a stress relieving remedy . Their foods were also delicious , a very generous and kind staffs . Just a wonderful place to stay . Very very recommended . Kuddos Adiwana Bisma !
+
+Prediction
+--------
+nice, stay, POS
+relaxing, stay, POS
+tranquil, stay, POS
+wonderful, stay, POS
+delicious, foods, POS
+generous, staffs, POS
+kind, staffs, POS
+
+Actual
+--------
+delicious, foods, POS
+kind, staffs, POS
+
+Only in Prediction (mispredict)
+--------
+wonderful, stay, POS
+tranquil, stay, POS
+nice, stay, POS
+generous, staffs, POS
+relaxing, stay, POS
+
+########################################################
+
+Sentence
+--------
+i found this hotel by accident from internet , interested because their swimming pool pictures , and decide to booked room here . i think this hotel is great , i got a room with direct access to the swimming pool , it ' s really fun and enjoyable place . the staff is great .
+
+Prediction
+--------
+great, hotel, POS
+enjoyable, place, POS
+great, staff, POS
+
+Actual
+--------
+great, hotel, POS
+great, staff, POS
+
+Only in Prediction (mispredict)
+--------
+enjoyable, place, POS
+
+########################################################
+
+Sentence
+--------
+This would have to be the worst hotel I have stayed at in Bali . Rats around the pool , cockroaches in the breakfast area . No lighting in hall way at night time . Loud music from night clubs into the late hours . Dirty linen , mould on roof and walls of room . No bacon served at breakfast . The only good thing about this hotel was the staff .
+
+Prediction
+--------
+worst, hotel, NEG
+Rats, pool, NEG
+cockroaches, pool, NEG
+Loud, music, NEG
+Dirty, linen, NEG
+walls, room, NEG
+
+Actual
+--------
+good, staff, POS
+Rats, pool, NEG
+worst, hotel, NEG
+Loud, music, NEG
+No, lighting, NEG
+mould, roof, NEG
+mould, walls, NEG
+Dirty, linen, NEG
+
+Only in Prediction (mispredict)
+--------
+walls, room, NEG
+cockroaches, pool, NEG
+
+Only in Gold (not predicted)
+--------
+mould, roof, NEG
+mould, walls, NEG
+good, staff, POS
+No, lighting, NEG
+
+########################################################
+
+Sentence
+--------
+Price is cheap ! Location is okay , though it took me an hour to walk from here to the crowded area near seminyak square . Our room was small , however it was more than enough for two people . Everything except for the long breakfast refills were great . Recommended for travellers seeking for relaxation on a budget .
+
+Prediction
+--------
+cheap, Price, POS
+okay, Location, NEU
+small, room, NEG
+great, Everything, POS
+
+Actual
+--------
+cheap, Price, POS
+okay, Location, POS
+small, room, NEG
+great, Everything, POS
+
+Only in Prediction (mispredict)
+--------
+okay, Location, NEU
+
+Only in Gold (not predicted)
+--------
+okay, Location, POS
+
+########################################################
+
+Sentence
+--------
+It ' s an older hotel but you can only tell by the rooms . Location is fantastic , walk out and everything is happening . Kimberley spa on the street to the left is cheap and have fantastic staff who do great massages . staff are friendly and includes breakfast for the price is awesome . Loved our stay with the bali summer hotel .
+
+Prediction
+--------
+fantastic, Location, POS
+fantastic, staff, POS
+friendly, staff, POS
+awesome, breakfast, POS
+awesome, price, POS
+
+Actual
+--------
+fantastic, Location, POS
+fantastic, staff, POS
+great, massages, POS
+friendly, staff, POS
+awesome, price, POS
+
+Only in Prediction (mispredict)
+--------
+awesome, breakfast, POS
+
+Only in Gold (not predicted)
+--------
+great, massages, POS
+
+########################################################
+
+Sentence
+--------
+I have been 2 times staying in this hotel . last time was on 22 Oct 2012 but only for 1 night . In general the hotel is nice , seems still new and located quite close to the airport . But the one that I cannot forget is the minibar . The minibar is always empty . You have to ask them to replenish the minibar each time you check in .
+
+Prediction
+--------
+nice, hotel, POS
+new, hotel, POS
+empty, minibar, NEG
+
+Actual
+--------
+nice, hotel, POS
+close, airport, POS
+new, hotel, POS
+empty, minibar, NEG
+
+Only in Gold (not predicted)
+--------
+close, airport, POS
+
+########################################################
+
+Sentence
+--------
+I was staying one week in Ibis Legian City during the Christmas . It was nice to stay there . The room was clean everyday , amenities and coffee facilities are always fill . The staff are mostly friendly . Nice to relax on the roof swimming pool . The room service quite fast and the food is delicious . Very good location , easy to access everywhere .
+
+Prediction
+--------
+nice, stay, POS
+clean, room, POS
+friendly, staff, POS
+delicious, food, POS
+good, location, POS
+
+Actual
+--------
+clean, room, POS
+friendly, staff, POS
+delicious, food, POS
+good, location, POS
+
+Only in Prediction (mispredict)
+--------
+nice, stay, POS
+
+########################################################
+
+Sentence
+--------
+I liked theat the rooms very clean , the sheets were super white and the staff was helpful , cheerful and fun . Location in very good , you can get to broadwalk right through the Discovery Mall and you ' re at the beach .
+
+Prediction
+--------
+liked, rooms, POS
+clean, rooms, POS
+white, sheets, POS
+helpful, staff, POS
+cheerful, staff, POS
+fun, staff, POS
+good, Location, POS
+
+Actual
+--------
+liked, rooms, POS
+clean, rooms, POS
+white, sheets, POS
+helpful, staff, POS
+cheerful, staff, POS
+fun, staff, POS
+good, Location, POS
+
+########################################################
+
+Sentence
+--------
+Nice and close to the airport , staff were lovely , basic but nice rooms , spa was great and great value . Looks like an awesome pool with swim up bar which unfortunately I missed out on . Can ' t fault them on anything .
+
+Prediction
+--------
+lovely, staff, POS
+nice, rooms, POS
+great, spa, POS
+great, value, POS
+awesome, pool, POS
+
+Actual
+--------
+close, airport, POS
+lovely, staff, POS
+basic, rooms, NEU
+nice, rooms, POS
+great, spa, POS
+great, value, POS
+awesome, pool, POS
+
+Only in Gold (not predicted)
+--------
+close, airport, POS
+basic, rooms, NEU
+
+########################################################
+
+Sentence
+--------
+I say thank you for the Senior sales Manager and the asst front office manager for the service during I stay at this hotel . Please keep it up for the service and the taste of your food . Thank you for the hotel , I can sleep very well during my holiday at this hotel . Thank you for the Hotel Rent Car .
+
+Prediction
+--------
+well, sleep, POS
+
+Actual
+--------
+well, sleep, POS
+
+########################################################
+
+Sentence
+--------
+I think I can say it ' s the worst hotel I been to in all my trip to Bali ! The staff is unfriendly and give really bad service . . . No towel , no sheet . . We have book for 3 days but we only stay one night ! For the same price or little bit more you can have way better !
+
+Prediction
+--------
+worst, hotel, NEG
+unfriendly, staff, NEG
+bad, service, NEG
+
+Actual
+--------
+worst, hotel, NEG
+unfriendly, staff, NEG
+bad, service, NEG
+No, towel, NEG
+no, sheet, NEG
+
+Only in Gold (not predicted)
+--------
+no, sheet, NEG
+No, towel, NEG
+
+########################################################
+
+Sentence
+--------
+Stayed for 2 nights . This place is a nice place for budget hotels , the room is very clean and fresh . The location is in the heart of kuta , which you can go anywhere by walking distance . The breakfast was really good . Really enjoyed staying in this hotel . Would go back if go to Bali next time .
+
+Prediction
+--------
+nice, place, POS
+clean, room, POS
+fresh, room, POS
+good, breakfast, POS
+
+Actual
+--------
+nice, place, POS
+clean, room, POS
+fresh, room, POS
+good, breakfast, POS
+
+########################################################
+
+Sentence
+--------
+I stayed in this hotel one night only , driver pickup from airport to hotel . Room was clean and tidy . . . But the internet speed very slow . . call service was good and informative , i order food from room service , the food really tasty .
+
+Prediction
+--------
+clean, Room, POS
+tidy, Room, POS
+tasty, food, POS
+
+Actual
+--------
+clean, Room, POS
+tidy, Room, POS
+tasty, food, POS
+
+########################################################
+
+Sentence
+--------
+We ' ve stayed in one of the rooms with big bed and air conditioneer . The room looks as a new ( bathroom walls also ) , but the bathroom establishments are like made 10 years ago . The breakfast was weak ( no juice , and no selection for the meal ) . Big pool and friendly staff . Great location .
+
+Prediction
+--------
+big, bed, POS
+weak, breakfast, NEG
+no, juice, NEG
+Big, pool, POS
+friendly, staff, POS
+Great, location, POS
+
+Actual
+--------
+weak, breakfast, NEG
+no, juice, NEG
+no, selection, NEG
+big, bed, POS
+Big, pool, POS
+staff, friendly, POS
+Great, location, POS
+
+Only in Prediction (mispredict)
+--------
+friendly, staff, POS
+
+Only in Gold (not predicted)
+--------
+no, selection, NEG
+staff, friendly, POS
+
+########################################################
+
+Sentence
+--------
+Wonderful holiday will definitely be back . Thank you too the wonderful Anie who looked after us so well . Nothing was too much trouble to assist us . Gede and Perringa who looked after us pool side made sure we always had drinks and food on hand . Thank you for such a beautiful holiday we will be back . Love Julie , Matt and Pauline .
+
+Prediction
+--------
+Wonderful, holiday, POS
+
+Actual
+--------
+Wonderful, holiday, POS
+
+########################################################
+
+Sentence
+--------
+If i have that hotel or become the manager , i should listening what complain the customer . The hospitality just okay . But the cleanliness need more improvement , you should concern to bathroom floor , that never touch to cleaned up .
+
+Prediction
+--------
+okay, hospitality, POS
+
+Actual
+--------
+okay, hospitality, POS
+
+########################################################
+
+Sentence
+--------
+A very nice place in Kuta with a very good restaurant vibes . You can chill and walk to go to the beach and the place is very strategic . Need to improve the choice of food for breakfast as i found it a bit boring .
+
+Prediction
+--------
+nice, place, POS
+good, restaurant, POS
+strategic, place, POS
+
+Actual
+--------
+nice, place, POS
+good, restaurant, POS
+walk, beach, POS
+strategic, place, POS
+
+Only in Gold (not predicted)
+--------
+walk, beach, POS
+
+########################################################
+
+Sentence
+--------
+Nice hotel . . . friendly staff . . . nice breakfast . . . the pumpkin curry so delicious but not many choices of breakfast menu . . .
+
+Prediction
+--------
+Nice, hotel, POS
+friendly, staff, POS
+nice, breakfast, POS
+
+Actual
+--------
+nice, breakfast, POS
+friendly, staff, POS
+Nice, hotel, POS
+
+########################################################
+
+Sentence
+--------
+Not a very sophisticated hotel but does the job adequately without ripping your wallet ! Position is perfect beach is awesome clean Ms not busy ! Give it a shot . A three star for sure but worth it . Close to all other restaurants and coffee shops . Canggu is a cool hipster place away from tourist central .
+
+Prediction
+--------
+perfect, Position, POS
+perfect, beach, POS
+awesome, beach, POS
+clean, Position, POS
+clean, beach, POS
+
+Actual
+--------
+adequately, job, POS
+perfect, Position, POS
+awesome, beach, POS
+Close, restaurants, POS
+
+Only in Prediction (mispredict)
+--------
+perfect, beach, POS
+clean, beach, POS
+clean, Position, POS
+
+Only in Gold (not predicted)
+--------
+Close, restaurants, POS
+adequately, job, POS
+
+########################################################
+
+Sentence
+--------
+It was great stay , we enjoyed our stay there . Room was clean , staffs were friendly , food was great , nothing to complain about . Close to convenient store , many shops in the day time . I would recommend this if you want to stay in Legian but in the quiet side .
+
+Prediction
+--------
+great, stay, POS
+clean, Room, POS
+friendly, staffs, POS
+great, food, POS
+
+Actual
+--------
+great, stay, POS
+enjoyed, stay, POS
+clean, Room, POS
+friendly, staffs, POS
+great, food, POS
+nothing, complain, POS
+Close, shops, POS
+
+Only in Gold (not predicted)
+--------
+nothing, complain, POS
+Close, shops, POS
+enjoyed, stay, POS
+
+########################################################
+
+Sentence
+--------
+The hotel was good , and the location was near to the airport . Recommend for family or couple trip . You can rent a motorcycle here , just book to the receptionist and they will help you .
+
+Prediction
+--------
+good, hotel, POS
+near, airport, POS
+
+Actual
+--------
+good, hotel, POS
+near, airport, POS
+Recommend, family, POS
+
+Only in Gold (not predicted)
+--------
+Recommend, family, POS
+
+########################################################
+
+Sentence
+--------
+great menu , rooms are very new and nice , location is away from everything touristy but close to big shopping malls , had to wait along time for taxi when leaving and do not expect any assistance to the cab when it does arrive just the point of a finger which i thought let the Motel down but otherwise very nice .
+
+Prediction
+--------
+great, menu, POS
+new, rooms, POS
+nice, rooms, POS
+
+Actual
+--------
+great, menu, POS
+new, rooms, POS
+nice, rooms, POS
+
+########################################################
+
+Sentence
+--------
+I got chance to visit my friend who stayed this hotel . Food at the cafe is delicious . Cozy and unique ambiance . DIMAS is the best . He go extra miles to pleased the guest for picture taken . Love this place so much . . . . highly recommended .
+
+Prediction
+--------
+delicious, Food, POS
+Cozy, ambiance, POS
+unique, ambiance, POS
+Love, place, POS
+
+Actual
+--------
+highly, recommended, POS
+unique, ambiance, POS
+Cozy, ambiance, POS
+Love, place, POS
+delicious, Food, POS
+best, DIMAS, POS
+
+Only in Gold (not predicted)
+--------
+highly, recommended, POS
+best, DIMAS, POS
+
+########################################################
+
+Sentence
+--------
+I would choose this hotel if you wanted something quite away from busy streets and vendors ' Close to Tanah Lot on bike hire or car and not super far from Kuta for shopping if you must . The hotel is clean and room was great , breakfast a little average but ok . Graet beach views and location .
+
+Prediction
+--------
+clean, hotel, POS
+great, room, POS
+average, breakfast, NEU
+
+Actual
+--------
+clean, hotel, POS
+great, room, POS
+ok, breakfast, NEU
+Graet, location, POS
+
+Only in Prediction (mispredict)
+--------
+average, breakfast, NEU
+
+Only in Gold (not predicted)
+--------
+ok, breakfast, NEU
+Graet, location, POS
+
+########################################################
+
+Sentence
+--------
+Staff were all friendly . The room was small and had cockroach in our room . The pool was nice and I think it is the highlight of the hotel . The food is ok . We had massage and it was not too bad . Overall it is an average 3 star hotel considering the price we paid .
+
+Prediction
+--------
+friendly, Staff, POS
+small, room, NEG
+cockroach, room, NEG
+nice, pool, POS
+ok, food, NEU
+
+Actual
+--------
+friendly, Staff, POS
+nice, pool, POS
+small, room, NEU
+ok, food, NEU
+
+Only in Prediction (mispredict)
+--------
+small, room, NEG
+cockroach, room, NEG
+
+Only in Gold (not predicted)
+--------
+small, room, NEU
+
+########################################################
+
+Sentence
+--------
+This is the cheapest IHG property in Bali ! I stayed several times in this hotel for the last 2 months . Great place to transit and relax . The swimming pool is lovely . Love to use it at evening time . However , do not expect luxury breakfast with this incredibly good deal . Grab fast !
+
+Prediction
+--------
+cheapest, property, POS
+Great, place, POS
+good, deal, POS
+
+Actual
+--------
+Great, place, POS
+relax, place, POS
+lovely, pool, POS
+
+Only in Prediction (mispredict)
+--------
+cheapest, property, POS
+good, deal, POS
+
+Only in Gold (not predicted)
+--------
+relax, place, POS
+lovely, pool, POS
+
+########################################################
+
+Sentence
+--------
+Its only a short stay for me and my wife but everything went very good . The arrangement for pick up and drop off airport was very good and in time , the staff are very friendly and helpful , quick check in , very cozy room . . its just great . . . Definitely we will come back and stay in this hotel . . .
+
+Prediction
+--------
+friendly, staff, POS
+helpful, staff, POS
+cozy, room, POS
+
+Actual
+--------
+friendly, staff, POS
+helpful, staff, POS
+cozy, room, POS
+
+########################################################
+
+Sentence
+--------
+This hotel is priced well for what you get . Nice pool and well priced food , beer and snacks . Be nice if they spend a bit more on maintenance though . Showers in the bathroom are not good .
+
+Prediction
+--------
+well, priced, POS
+Nice, pool, POS
+
+Actual
+--------
+Nice, pool, POS
+
+Only in Prediction (mispredict)
+--------
+well, priced, POS
+
+########################################################
+
+Sentence
+--------
+Location so strategic and easy to find . Parking area quite big . Variety menu of breakfast . Room is clean but in the night some mosquito disturb our sleep . Price quite cheap because i bought voucher from groupon .
+
+Prediction
+--------
+strategic, Location, POS
+clean, Room, POS
+cheap, Price, POS
+
+Actual
+--------
+strategic, Location, POS
+clean, Room, POS
+mosquito, sleep, NEG
+cheap, Price, POS
+
+Only in Gold (not predicted)
+--------
+mosquito, sleep, NEG
+
+########################################################
+
+Sentence
+--------
+Upgrade cleanliness for the room please . Overall a good stay in the hotel . Very close to the airport and nice facilities . For the staff , please do not smoke when you are in service with the guest . Keep it up !
+
+Prediction
+--------
+good, stay, POS
+nice, facilities, POS
+
+Actual
+--------
+smoke, staff, NEG
+nice, facilities, POS
+close, airport, NEU
+good, hotel, POS
+
+Only in Prediction (mispredict)
+--------
+good, stay, POS
+
+Only in Gold (not predicted)
+--------
+smoke, staff, NEG
+close, airport, NEU
+good, hotel, POS
+
+########################################################
+
+Sentence
+--------
+The smell was very unpleasant every time we entered not only the hotel but room you . Breaky was very disappointing , jam was very old + I wish I didn ' t taste it . Bed was very comfortable though . Rooftop pool was great but needs maintenance + needs atmosphere .
+
+Prediction
+--------
+unpleasant, smell, NEG
+old, jam, NEG
+comfortable, Bed, POS
+
+Actual
+--------
+unpleasant, smell, NEG
+old, jam, NEG
+comfortable, Bed, POS
+great, pool, POS
+
+Only in Gold (not predicted)
+--------
+great, pool, POS
+
+########################################################
+
+Sentence
+--------
+Basic accommodation in old style Bali . Don ' t bother with breakfast , it ' s just not worth it , there are plenty of restaurants out on Melasti st . to choose from . Was very quiet , relatively clean and good sized rooms , well maintained pool , happy staff and even though down a laneway , the pavement was even and fine to walk at night .
+
+Prediction
+--------
+plenty, restaurants, POS
+clean, rooms, POS
+happy, staff, POS
+
+Actual
+--------
+clean, rooms, POS
+happy, staff, POS
+down, laneway, NEU
+even, pavement, POS
+
+Only in Prediction (mispredict)
+--------
+plenty, restaurants, POS
+
+Only in Gold (not predicted)
+--------
+even, pavement, POS
+down, laneway, NEU
+
+########################################################
+
+Sentence
+--------
+I booked last minute booking here and didn ’ t regret my choice . walking distance to the beach , and the room is small but the air conditioner was freezing ! Deby , Ratna and April at the reception were so friendly and helpful . you can keep your luggage after check out for free at the reception . definitely will come back again !
+
+Prediction
+--------
+small, room, NEG
+
+Actual
+--------
+small, room, NEG
+friendly, reception, POS
+helpful, reception, POS
+
+Only in Gold (not predicted)
+--------
+helpful, reception, POS
+friendly, reception, POS
+
+########################################################
+
+Sentence
+--------
+Quite small room but very clean . Staffs are extremely friendly and helpful . But the location is a bit far from tourists attraction . No problem to go to Kuta by cab , but the problem was on the way back to the hotel , the traffic was terrible . Overall , its a good hotel with great staffs .
+
+Prediction
+--------
+small, room, NEG
+clean, room, POS
+friendly, Staffs, POS
+helpful, Staffs, POS
+terrible, traffic, NEG
+good, hotel, POS
+great, staffs, POS
+
+Actual
+--------
+small, room, NEG
+friendly, Staffs, POS
+helpful, Staffs, NEU
+terrible, traffic, NEG
+
+Only in Prediction (mispredict)
+--------
+great, staffs, POS
+clean, room, POS
+helpful, Staffs, POS
+good, hotel, POS
+
+Only in Gold (not predicted)
+--------
+helpful, Staffs, NEU
+
+########################################################
+
+Sentence
+--------
+Front office area is nice they have nice swiming pool right after front office it makes hotel more cozy . Hotel location far away from shopping area so we need to rent a car . . . Breakfast Buffet is well . . . . . We are disappointed for the room condition it is a little bit too old and smelly . . .
+
+Prediction
+--------
+cozy, hotel, POS
+well, Breakfast, POS
+disappointed, room, NEG
+old, room, NEG
+smelly, room, NEG
+
+Actual
+--------
+cozy, hotel, POS
+
+Only in Prediction (mispredict)
+--------
+well, Breakfast, POS
+disappointed, room, NEG
+old, room, NEG
+smelly, room, NEG
+
+########################################################
+
+Sentence
+--------
+Kindly new hotel in Legian . All still new even with the towels . Beds are comfy , same design with new ibis hotels around the world . Breakfast is good . You should put egg corner in the restaurant . The lobby and rooftop are the main reason we stayed here . Easy to stop regular taxy or uber .
+
+Prediction
+--------
+new, hotel, POS
+new, towels, POS
+comfy, Beds, POS
+good, Breakfast, POS
+
+Actual
+--------
+new, hotel, POS
+same, design, NEU
+new, All, POS
+comfy, Beds, POS
+good, Breakfast, POS
+
+Only in Prediction (mispredict)
+--------
+new, towels, POS
+
+Only in Gold (not predicted)
+--------
+new, All, POS
+same, design, NEU
+
+########################################################
+
+Sentence
+--------
+Great hotel team always welcoming . Suki , Linna , Tris and Elly are fantastic , they will assist you with any requests . Located centrally . Can be noisey due to guests talking loudly in corridors . Close to convenience store .
+
+Prediction
+--------
+centrally, Located, POS
+noisey, guests, NEG
+loudly, guests, NEG
+
+Actual
+--------
+fantastic, Suki, POS
+fantastic, Linna, POS
+fantastic, Tris, POS
+fantastic, Elly, POS
+assist, Suki, POS
+assist, Linna, POS
+assist, Tris, POS
+assist, Elly, POS
+centrally, Located, POS
+noisey, guests, NEG
+
+Only in Prediction (mispredict)
+--------
+loudly, guests, NEG
+
+Only in Gold (not predicted)
+--------
+fantastic, Linna, POS
+assist, Suki, POS
+assist, Tris, POS
+assist, Elly, POS
+fantastic, Elly, POS
+fantastic, Tris, POS
+fantastic, Suki, POS
+assist, Linna, POS
+
+########################################################
+
+Sentence
+--------
+We stayed for 7 nights . . welcoming us ad soon as we came into the hotel . Always nice and friendly staff . Breakfast each morning . Not the best coffee but think it was the water . Easy walk to beach and shopping . We would stay here again for being so central and the for the great staff . Also changed our aussie $ for us .
+
+Prediction
+--------
+friendly, staff, POS
+great, staff, POS
+
+Actual
+--------
+staff, great, POS
+friendly, staff, POS
+nice, staff, POS
+
+Only in Prediction (mispredict)
+--------
+great, staff, POS
+
+Only in Gold (not predicted)
+--------
+staff, great, POS
+nice, staff, POS
+
+########################################################
+
+Sentence
+--------
+Expect at least minimum standards of cleanliness and service at Accor hotels . This definitely doesn ' t deliver . Filthy in room fridge and insects on the shelf . Very tired room and fittings well past their sell by date . Stopover spot for aircrew on budget airlines , so you have been warned .
+
+Prediction
+--------
+tired, room, NEG
+tired, fittings, NEG
+
+Actual
+--------
+Filthy, room, NEG
+
+Only in Prediction (mispredict)
+--------
+tired, fittings, NEG
+tired, room, NEG
+
+Only in Gold (not predicted)
+--------
+Filthy, room, NEG
+
+########################################################
+
+Sentence
+--------
+bali is one of the best place for vacation . as a couple we enjoyed the stay . the hotel is near the airport , few minutes walk to kuta beach , kuta market stroll in the evening . spacious lobby , swimming pool on the roof , good speed wifi , smiling reception and swift room service are the good points . rooms are spacious well decorated with good view .
+
+Prediction
+--------
+spacious, lobby, POS
+smiling, reception, POS
+spacious, rooms, POS
+good, view, POS
+
+Actual
+--------
+spacious, lobby, POS
+smiling, reception, POS
+
+Only in Prediction (mispredict)
+--------
+spacious, rooms, POS
+good, view, POS
+
+########################################################
+
+Sentence
+--------
+Hotel seemed OK at first . However we had vomit all down our wall from the previous visitors . Had to ask 3 tines for it to be cleaned . Igarettes were also left in the room . Wouldn ' t even give us a discount for the poor cleanliness . Pool needs some serious renovation .
+
+Prediction
+--------
+OK, Hotel, NEU
+
+Actual
+--------
+poor, cleanliness, NEG
+renovation, Pool, NEG
+
+Only in Prediction (mispredict)
+--------
+OK, Hotel, NEU
+
+Only in Gold (not predicted)
+--------
+renovation, Pool, NEG
+poor, cleanliness, NEG
+
+########################################################
+
+Sentence
+--------
+Had a really nice stay here . Lovely staff and really nice rooftop pool . You could rent a bicycle or scooter and it ' s close to the Discovery shopping mall - exit the back to take a shortcut to the beach .
+
+Prediction
+--------
+nice, stay, POS
+Lovely, staff, POS
+
+Actual
+--------
+Lovely, staff, POS
+nice, stay, POS
+
+########################################################
+
+Sentence
+--------
+We haft to book a room for 1 night due to flight mick up , we booked in after midnight and the staff couldn ' t be more helpful and friendly , the room is sufficient , clean and has good its close to Kuta but far enough to be a bit less hectic .
+
+Prediction
+--------
+friendly, staff, POS
+sufficient, room, POS
+clean, room, POS
+good, close, POS
+good, Kuta, POS
+close, Kuta, POS
+
+Actual
+--------
+helpful, staff, POS
+friendly, staff, POS
+sufficient, room, NEU
+clean, room, POS
+
+Only in Prediction (mispredict)
+--------
+good, close, POS
+sufficient, room, POS
+good, Kuta, POS
+close, Kuta, POS
+
+Only in Gold (not predicted)
+--------
+helpful, staff, POS
+sufficient, room, NEU
+
+########################################################
+
+Sentence
+--------
+This hotel is good price for money but you can find better in the same area . It ' s quite hard to find an hotel just with the description but when I saw the photo of the pool it seems to be nice , in fact there is about no place around and it ' s surrounded by wall , so no way to spend your afternoon in the pool .
+
+Prediction
+--------
+good, price, POS
+nice, photo, POS
+surrounded, wall, POS
+
+Actual
+--------
+good, price, POS
+nice, photo, POS
+
+Only in Prediction (mispredict)
+--------
+surrounded, wall, POS
+
+########################################################
+
+Sentence
+--------
+We stayed at the Maharani with another five friends and had the best time . Staff great friendly and entertaining . Rooms light , airy and clean . They accommodated us by putting all our rooms together side by side . Great location on poppies lane 1 and beach across the road , short walk to markets and shopping . Would recommend a stay here as when we return will be staying again .
+
+Prediction
+--------
+friendly, Staff, POS
+entertaining, Staff, POS
+light, Rooms, POS
+airy, Rooms, POS
+clean, Rooms, POS
+Great, location, POS
+
+Actual
+--------
+Great, location, POS
+light, Rooms, POS
+airy, Rooms, POS
+clean, Rooms, POS
+great, Staff, POS
+friendly, Staff, POS
+entertaining, Staff, POS
+short, walk, NEU
+
+Only in Gold (not predicted)
+--------
+short, walk, NEU
+great, Staff, POS
+
+########################################################
+
+Sentence
+--------
+Amazing staff and service . Bed very comfy . Water activities available with a on the beach location . Everything very clean , food and drinks were all great . Highly recommend the all inclusive package . A special mention to Pringga for looking after us so well by the pool and beach .
+
+Prediction
+--------
+Amazing, staff, POS
+Amazing, service, POS
+comfy, Bed, POS
+great, food, POS
+great, drinks, POS
+
+Actual
+--------
+Amazing, staff, POS
+Amazing, service, POS
+comfy, Bed, POS
+great, food, POS
+great, drinks, POS
+
+########################################################
+
+Sentence
+--------
+In this Merucre I had very few sleep . First a Indian travel group made a party on the executive floor at 1am and 3am . Two times reception told me that their security would have a look but no improvement was made . At 5am the Mosque next door gave its wake up and the night was done . The hotel itself is modern and the room was well equipped .
+
+Prediction
+--------
+modern, hotel, POS
+
+Actual
+--------
+modern, hotel, POS
+
+########################################################
+
+Sentence
+--------
+I arrived to Bali very late and wanted a place close to the airport , which this place is . Clean room and super friendly staff . Would definitely recommend for late arriving arrival or early departure . .
+
+Prediction
+--------
+Clean, room, POS
+friendly, staff, POS
+
+Actual
+--------
+Clean, room, POS
+friendly, staff, POS
+
+########################################################
+
+Sentence
+--------
+Great and helpful staffs . It was raining when I arrived there . The security kindly asked me to go straight to check in counter and offered himself to park my motorcycle . The room was clean and nice . The room service was also great .
+
+Prediction
+--------
+Great, staffs, POS
+helpful, staffs, POS
+clean, room, POS
+nice, room, POS
+
+Actual
+--------
+helpful, staffs, POS
+Great, staffs, POS
+clean, room, POS
+nice, room, POS
+
+########################################################
+
+Sentence
+--------
+I have visited Bali many times and this was my first stay at Fourteen Roses and what a pleasant surprise it ' s in a great location . This is a great budget hotel with wonderful staff nothing was ever a problem . I will be returning to this hotel again this year amid can ' t wait .
+
+Prediction
+--------
+great, location, POS
+wonderful, staff, POS
+
+Actual
+--------
+pleasant, surprise, POS
+great, location, POS
+wonderful, staff, POS
+
+Only in Gold (not predicted)
+--------
+pleasant, surprise, POS
+
+########################################################
+
+Sentence
+--------
+we just stayed here only for one night , just to watch the dolphin show on the next day . with the price and what we get , it is worth for money to stay here . The room setting a little bit old fashion . The pool is small but just nice . They don ' t have buffet breakfast , only a la carte .
+
+Prediction
+--------
+small, pool, NEG
+nice, pool, POS
+
+Actual
+--------
+small, pool, NEG
+nice, pool, POS
+
+########################################################
+
+Sentence
+--------
+Very good experience . . . loved the view , loved the room , spacious and clean . . I would love to spend all day in the bathtub 😊 . . loved the food , very pretty and delicious . . loved everything in here . . highly recommended . . too bad I didn ’ t have enough time for spa experience . .
+
+Prediction
+--------
+good, experience, POS
+loved, view, POS
+spacious, room, POS
+clean, room, POS
+loved, food, POS
+pretty, food, POS
+delicious, food, POS
+loved, everything, POS
+
+Actual
+--------
+Very, experience, POS
+loved, view, POS
+loved, room, POS
+spacious, room, POS
+clean, room, POS
+loved, food, POS
+delicious, food, POS
+
+Only in Prediction (mispredict)
+--------
+pretty, food, POS
+loved, everything, POS
+good, experience, POS
+
+Only in Gold (not predicted)
+--------
+Very, experience, POS
+loved, room, POS
+
+########################################################
+
+Sentence
+--------
+Rooms look very tired , cleaning is not good enough . When i ask sparkling water in restaurant they brought me the water in a used fanta bottle . I haven ' t enjoyed my stay there .
+
+Prediction
+--------
+tired, Rooms, NEG
+
+Actual
+--------
+tired, Rooms, NEG
+
+########################################################
+
+Sentence
+--------
+Its a good hotel for its price . It ' s centrally located in Kuta Beach . Malls and shops are of walking distance . You can opt for a longer walk or ride the taxi for 5 - 10 minutes if you want to go to the beach . Rooms are okay and they also have an infinity pool on the rooftop .
+
+Prediction
+--------
+good, hotel, POS
+okay, Rooms, NEU
+
+Actual
+--------
+good, hotel, POS
+okay, Rooms, NEU
+
+########################################################
+
+Sentence
+--------
+I Love all the free activities that melia hotel provide ! From paddleboard , canoe , squash , archery , bike , tennis , badminton , fitness . Oh and they provide everything , sunblock , aloe vera , equil mineral water and also turtle floaties . They upgraded our room to lagoon pool , which is pool just outside your room !
+
+Prediction
+--------
+Love, activities, POS
+free, activities, POS
+provide, everything, POS
+provide, sunblock, POS
+
+Actual
+--------
+Love, activities, POS
+Love, paddleboard, POS
+Love, canoe, POS
+Love, squash, POS
+Love, bike, POS
+provide, sunblock, POS
+
+Only in Prediction (mispredict)
+--------
+free, activities, POS
+provide, everything, POS
+
+Only in Gold (not predicted)
+--------
+Love, squash, POS
+Love, paddleboard, POS
+Love, bike, POS
+Love, canoe, POS
+
+########################################################
+
+Sentence
+--------
+My partner and I booked this hotel for 4 nights and it was exactly as advertised . Amazing service , very clean and comfortable rooms , wonderful rooftop pool with good food .
+
+Prediction
+--------
+Amazing, service, POS
+clean, rooms, POS
+comfortable, rooms, POS
+good, food, POS
+
+Actual
+--------
+booked, hotel, NEU
+Amazing, service, POS
+clean, rooms, POS
+comfortable, rooms, POS
+wonderful, pool, POS
+good, food, POS
+
+Only in Gold (not predicted)
+--------
+booked, hotel, NEU
+wonderful, pool, POS
+
+########################################################
+
+Sentence
+--------
+Older style hotel has new section at back two pools and staff very friendly would stay again .
+
+Prediction
+--------
+friendly, staff, POS
+
+Actual
+--------
+Older, style, NEU
+friendly, staff, POS
+
+Only in Gold (not predicted)
+--------
+Older, style, NEU
+
+########################################################
+
+Sentence
+--------
+very good location close to everything , clean room , cosy place , very friendly staff , the only thing is that the breakfast does not have a variety , suitable for budget travelers , I loved that place . . .
+
+Prediction
+--------
+good, location, POS
+clean, room, POS
+cosy, place, POS
+friendly, staff, POS
+loved, place, POS
+
+Actual
+--------
+close, everything, POS
+clean, room, POS
+cosy, place, POS
+friendly, staff, POS
+loved, place, POS
+
+Only in Prediction (mispredict)
+--------
+good, location, POS
+
+Only in Gold (not predicted)
+--------
+close, everything, POS
+
+########################################################
+
+Sentence
+--------
+Great location . Hotel is very dated . The room ( 101 ) was small and had a very weird window to nowhere . The shower and toilet had a weird setup also . The whole ensuite floor was wet . The rooftop bar had really good views and there were 2 pools . Very nice . The bar downstairs had a nice breeze . Ordered a few snacks which were ok .
+
+Prediction
+--------
+Great, location, POS
+dated, Hotel, NEG
+small, room, NEG
+
+Actual
+--------
+Great, location, POS
+small, room, NEG
+ok, snacks, NEU
+
+Only in Prediction (mispredict)
+--------
+dated, Hotel, NEG
+
+Only in Gold (not predicted)
+--------
+ok, snacks, NEU
+
+########################################################
+
+Sentence
+--------
+this hotel have a nice concept , clean and also great room . I have book without breakfast , but when I know rate for breakfast , I think too expensive for standard mercure hotel in Indonesia . Location is not too good , if you like walking around hotel is not recommended .
+
+Prediction
+--------
+nice, concept, POS
+clean, concept, POS
+great, room, POS
+
+Actual
+--------
+clean, hotel, POS
+great, room, POS
+
+Only in Prediction (mispredict)
+--------
+nice, concept, POS
+clean, concept, POS
+
+Only in Gold (not predicted)
+--------
+clean, hotel, POS
+
+########################################################
+
+Sentence
+--------
+Maintenance is not good , the showerdeain was clogged , i reported twice but nothing happen , , i annoyied with that kind of the conditions . Hope they can improve with the overall maintenance of the hotel .
+
+Prediction
+--------
+clogged, showerdeain, NEG
+
+Actual
+--------
+clogged, showerdeain, NEG
+
+########################################################
+
+Sentence
+--------
+A nice and cheap place to stay in ! Close to seminyak beach . Main shopping road is not too far away . Room is small but sufficient if all ure after is a place to sleep in . Toilet , tv and airconditioner works well . Note that no breakfast is included .
+
+Prediction
+--------
+nice, place, POS
+cheap, place, POS
+small, Room, NEG
+sufficient, Room, POS
+
+Actual
+--------
+nice, place, POS
+cheap, place, POS
+small, Room, NEG
+sufficient, Room, NEU
+breakfast, no, NEG
+
+Only in Prediction (mispredict)
+--------
+sufficient, Room, POS
+
+Only in Gold (not predicted)
+--------
+sufficient, Room, NEU
+breakfast, no, NEG
+
+total predictions: 1117
+total gold: 1135
+correctly predicted: 834
+mispredicted: 283
+not predicted: 301
+{
+  "path_pred": "pred.txt",
+  "path_gold": "aste/data/triplet_data/multi_sentence_single_word/test.txt",
+  "precision": 0.7466427931960609,
+  "recall": 0.7348017621145374,
+  "score": 0.7406749555950267
+}
