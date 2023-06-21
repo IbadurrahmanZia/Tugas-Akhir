@@ -1,0 +1,49 @@
+2023-06-18 15:04:11,841 - INFO - allennlp.training.trainer - Epoch 3/29
+2023-06-18 15:04:11,843 - INFO - allennlp.training.trainer - Worker 0 memory usage: 4.2G
+2023-06-18 15:04:11,845 - INFO - allennlp.training.trainer - GPU 0 memory usage: 1.8G
+2023-06-18 15:04:11,849 - INFO - allennlp.training.trainer - Training
+  0%|          | 0/1471 [00:00<?, ?it/s]
+2023-06-18 15:07:36,374 - INFO - allennlp.training.trainer - Validating
+  0%|          | 0/315 [00:00<?, ?it/s]
+2023-06-18 15:07:50,296 - INFO - allennlp.training.tensorboard_writer -                               Training |  Validation
+2023-06-18 15:07:50,297 - INFO - allennlp.training.tensorboard_writer - MEAN__relation_f1         |     0.607  |     0.555
+2023-06-18 15:07:50,301 - INFO - allennlp.training.tensorboard_writer - MEAN__relation_precision  |     0.738  |     0.721
+2023-06-18 15:07:50,304 - INFO - allennlp.training.tensorboard_writer - MEAN__relation_recall     |     0.515  |     0.452
+2023-06-18 15:07:50,308 - INFO - allennlp.training.tensorboard_writer - _MEAN__ner_f1             |     0.822  |     0.714
+2023-06-18 15:07:50,312 - INFO - allennlp.training.tensorboard_writer - _MEAN__ner_precision      |     0.857  |     0.729
+2023-06-18 15:07:50,314 - INFO - allennlp.training.tensorboard_writer - _MEAN__ner_recall         |     0.789  |     0.698
+2023-06-18 15:07:50,319 - INFO - allennlp.training.tensorboard_writer - _None__ner_f1             |     0.822  |     0.714
+2023-06-18 15:07:50,321 - INFO - allennlp.training.tensorboard_writer - _None__ner_precision      |     0.857  |     0.729
+2023-06-18 15:07:50,325 - INFO - allennlp.training.tensorboard_writer - _None__ner_recall         |     0.789  |     0.698
+2023-06-18 15:07:50,329 - INFO - allennlp.training.tensorboard_writer - _None__relation_f1        |     0.607  |     0.555
+2023-06-18 15:07:50,331 - INFO - allennlp.training.tensorboard_writer - _None__relation_precision |     0.738  |     0.721
+2023-06-18 15:07:50,334 - INFO - allennlp.training.tensorboard_writer - _None__relation_recall    |     0.515  |     0.452
+2023-06-18 15:07:50,338 - INFO - allennlp.training.tensorboard_writer - gpu_0_memory_MB           |  1873.922  |       N/A
+2023-06-18 15:07:50,341 - INFO - allennlp.training.tensorboard_writer - loss                      |    21.023  |    35.380
+2023-06-18 15:07:50,344 - INFO - allennlp.training.tensorboard_writer - worker_0_memory_MB        |  4344.938  |       N/A
+2023-06-18 15:07:52,169 - INFO - allennlp.training.trainer - Epoch duration: 0:03:40.327201
+2023-06-18 15:07:52,170 - INFO - allennlp.training.trainer - Estimated training time remaining: 1:42:35
+2023-06-18 15:07:52,171 - INFO - allennlp.training.trainer - Epoch 4/29
+2023-06-18 15:07:52,173 - INFO - allennlp.training.trainer - Worker 0 memory usage: 4.2G
+2023-06-18 15:07:52,175 - INFO - allennlp.training.trainer - GPU 0 memory usage: 1.8G
+2023-06-18 15:07:52,179 - INFO - allennlp.training.trainer - Training
+  0%|          | 0/1471 [00:00<?, ?it/s]
+2023-06-18 15:11:17,694 - INFO - allennlp.training.trainer - Validating
+  0%|          | 0/315 [00:00<?, ?it/s]
+2023-06-18 15:11:30,070 - INFO - allennlp.training.tensorboard_writer -                               Training |  Validation
+2023-06-18 15:11:30,072 - INFO - allennlp.training.tensorboard_writer - MEAN__relation_f1         |     0.689  |     0.577
+2023-06-18 15:11:30,076 - INFO - allennlp.training.tensorboard_writer - MEAN__relation_precision  |     0.770  |     0.666
+2023-06-18 15:11:30,079 - INFO - allennlp.training.tensorboard_writer - MEAN__relation_recall     |     0.624  |     0.509
+2023-06-18 15:11:30,082 - INFO - allennlp.training.tensorboard_writer - _MEAN__ner_f1             |     0.874  |     0.714
+2023-06-18 15:11:30,086 - INFO - allennlp.training.tensorboard_writer - _MEAN__ner_precision      |     0.896  |     0.662
+2023-06-18 15:11:30,089 - INFO - allennlp.training.tensorboard_writer - _MEAN__ner_recall         |     0.853  |     0.775
+2023-06-18 15:11:30,092 - INFO - allennlp.training.tensorboard_writer - _None__ner_f1             |     0.874  |     0.714
+2023-06-18 15:11:30,095 - INFO - allennlp.training.tensorboard_writer - _None__ner_precision      |     0.896  |     0.662
+2023-06-18 15:11:30,097 - INFO - allennlp.training.tensorboard_writer - _None__ner_recall         |     0.853  |     0.775
+2023-06-18 15:11:30,101 - INFO - allennlp.training.tensorboard_writer - _None__relation_f1        |     0.689  |     0.577
+2023-06-18 15:11:30,104 - INFO - allennlp.training.tensorboard_writer - _None__relation_precision |     0.770  |     0.666
+2023-06-18 15:11:30,107 - INFO - allennlp.training.tensorboard_writer - _None__relation_recall    |     0.624  |     0.509
+2023-06-18 15:11:30,113 - INFO - allennlp.training.tensorboard_writer - gpu_0_memory_MB           |  1873.922  |       N/A
+2023-06-18 15:11:30,117 - INFO - allennlp.training.tensorboard_writer - loss                      |    17.068  |    34.846
+2023-06-18 15:11:30,120 - INFO - allennlp.training.tensorboard_writer - worker_0_memory_MB        |  4345.102  |       N/A
+2023-06-18 15:11:31,912 - INFO - allennlp.training.checkpointer - Best validation performance so far.
