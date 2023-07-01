@@ -1,0 +1,1038 @@
+comment_id,target,opinion,sentiment,confidence
+886175366,room,large,POS,0.9985
+886175366,room,clean,POS,0.9957
+886175366,aircon,good,POS,0.9767
+886175366,bathroom,huge,POS,0.8399
+886175366,balcony,big,POS,0.9701
+886175366,balcony,bright,POS,0.6993
+886175366,balcony,airy,POS,0.5325
+751602005,rooms,outdated,NEG,0.9636
+751602005,location,outdated,NEG,0.6718
+751602005,location,don ’ t seem very clean,NEG,0.8076
+751602005,rooms,minimal,POS,0.9615
+751602005,Breakfast,minimal,POS,0.9943
+751602005,pool,minimal,POS,0.6704
+736659114,Room,clean,POS,0.9993
+736659114,Breakfast,clean,POS,0.503
+736659114,Room,well maintained,POS,0.9103
+736659114,room,cleaned,POS,0.9948
+736659114,air con,Great,POS,0.6832
+736659114,Staff,smiling,POS,0.7079
+736659114,cafe,fantastic,POS,0.9967
+4393020,pool,clean,POS,0.9981
+4393020,bakery,fabulous,POS,0.9844
+4393020,supermarket,fabulous,POS,0.6855
+5438719,menu,loved,POS,0.6065
+5438719,hotel,good,POS,0.6907
+5438719,staff,friendly,POS,0.9639
+5438719,staff,helpful,POS,0.7598
+5438719,Pool,great,POS,0.9514
+5438719,Everyone,eager to help,POS,0.5562
+5438719,Staff,friendly,POS,0.9984
+105053946,kids,enjoyed,POS,0.5708
+105053946,pool,enjoyed,POS,0.4865
+105053946,pool,enjoyed,POS,0.5736
+340119793,hotel room,should be 4 stars,POS,0.4761
+340119793,restaurants,should be 4 stars,POS,0.3845
+340119793,hotel room,great value,POS,0.58
+340119793,restaurant,great value,POS,0.4679
+340119793,supermarket,great value,POS,0.5692
+340119793,cinema,great value,POS,0.605
+340119793,restaurants,great value,POS,0.6805
+340119793,room,great,POS,0.8158
+340119793,rooms,cleaned,POS,0.7531
+340119793,rooms,very well,POS,0.4966
+340119793,hotel room,short walk,POS,0.6594
+340119793,restaurant,short walk,POS,0.4717
+340119793,supermarket,short walk,POS,0.5434
+340119793,cinema,short walk,POS,0.5671
+340119793,restaurants,short walk,POS,0.8751
+340119793,hotel room,fine,POS,0.4112
+124637732,Hotel,pretty good,POS,0.4445
+124637732,everyone,friendly,POS,0.5224
+124637732,travel person,really good,POS,0.6535
+121724578,stay,adequate,POS,0.997
+121724578,room,cool,POS,0.8522
+117884167,budget hotel,Best,POS,0.9871
+117884167,staff,fantastic,POS,0.9952
+117884167,management,fantastic,POS,0.9807
+685101496,rim pool,Doesn ’ t make much sense,NEG,0.5166
+685101496,gym,Doesn ’ t make much sense,NEG,0.793
+685101496,restaurant,Doesn ’ t make much sense,NEG,0.6618
+295558103,hotel,worst,NEG,0.8568
+295558103,rooms,worst,NEG,0.4827
+295558103,Staff,not rude,NEG,0.465
+295558103,rooms,old,NEG,0.8576
+295558103,rooms,depressing,NEG,0.7882
+227816563,pool,Nice,POS,0.9823
+227816563,rooms,clean,POS,0.6104
+227816563,tiles,broken,NEG,0.797
+209982822,cupboard space,convenient,POS,0.5198
+209982822,rooms,small fridge,NEG,0.526
+209982822,cupboard space,varied,POS,0.8093
+107068313,room,filthy,NEG,0.9991
+107068313,room,okay,NEU,0.4193
+467159630,rooms,neat,POS,0.9957
+467159630,rooms,clean,POS,0.8926
+467159630,bathrooms,big,POS,0.9254
+467159630,bathrooms,clean,POS,0.8336
+304503322,location,Excellent,POS,0.9957
+304503322,Room,not cleaned,NEG,0.9531
+304503322,Breakfast,poor,NEG,0.5364
+207804376,staff,not changed,NEG,0.4361
+207804376,staff,friendly,POS,0.6457
+207804376,bathrooms,updated,POS,0.9943
+142685672,upgrade,need of a good,NEG,0.5215
+142685672,Pool,lovely,POS,0.9994
+130559223,air con,mouldy,NEG,0.7691
+130559223,air con,worked well,POS,0.5943
+130559223,sheets,clean,POS,0.9164
+130559223,staff,clean,POS,0.9596
+116001939,hotel,beautiful,POS,0.9648
+116001939,gardens,amazing,POS,0.7042
+116001939,pool,great,POS,0.9461
+116001939,beds,Comfy,POS,0.6323
+116001939,beds,enough,POS,0.476
+116001939,shower,good,POS,0.7076
+116001939,walls,thin,NEG,0.3718
+116001939,Staff,friendly,POS,0.9982
+116001939,Staff,helpful,POS,0.9985
+92852386,staff,fantastic,POS,0.9996
+92852386,staff,happy,POS,0.518
+92852386,staff,friendly,POS,0.9977
+92852386,rooms,friendly,POS,0.7878
+92852386,staff,helpful,POS,0.9955
+92852386,rooms,helpful,POS,0.9865
+92852386,rooms,cleaned,POS,0.9971
+92852386,room,basic,NEU,0.9008
+92852386,pool,nice,POS,0.8855
+92852386,breakfast,decent,POS,0.4157
+92852386,staff,definetly,POS,0.523
+74857121,hotel,run down,NEG,0.9994
+29162261,rooms,Booked,POS,0.509
+29162261,pizza,Booked,POS,0.3029
+29162261,rooms,pleased,POS,0.8704
+29162261,pizza,pleased,POS,0.9571
+29162261,rooms,basic,NEU,0.9994
+29162261,pool,lovely,POS,0.739
+493882930,place,horrible,NEG,0.9969
+493882930,Room,changes,NEG,0.6103
+493882930,bathroom,Dirty,NEG,0.5554
+493882930,Pool,rubbish,NEG,0.4201
+493882930,car park,noisy,NEG,0.6506
+493882930,rooms,Poorly lit,NEG,0.9674
+493882930,place,rats,NEG,0.9779
+492638943,staff,friendly,POS,0.7488
+492638943,this place,recommend,POS,0.8689
+457745719,everything,love,POS,0.9993
+457745719,hotel,love everything,POS,0.5061
+457745719,food,Easy to find,POS,0.688
+457745719,room,big,POS,0.9682
+324315173,room,clean,POS,0.547
+324315173,pool,clean,POS,0.6387
+324315173,room,comfortable,POS,0.9634
+324315173,location,comfortable,POS,0.917
+324315173,room,tidy,POS,0.9175
+324315173,location,tidy,POS,0.8439
+324315173,breakfasts,enjoyed,POS,0.9823
+324315173,pool,enjoyed,POS,0.9737
+324315173,location,excellent,POS,0.9942
+323343135,It,fine,POS,0.5706
+323343135,hotel,fine,POS,0.9831
+323343135,hotel,clean,POS,0.5025
+323343135,hotel,good,POS,0.9241
+323343135,staff,great,POS,0.8944
+323343135,hotel,central,POS,0.5101
+323343135,gardens,well maintained,POS,0.5001
+323343135,rooms,well maintained,POS,0.6172
+298999201,Rooms,clean,POS,0.9998
+298999201,grounds,neat,POS,0.9961
+298999201,staff,friendly,POS,0.7835
+298999201,food,good,POS,0.566
+298999201,price,good,POS,0.9613
+298999201,location,good,POS,0.9935
+298999201,location,not too noisy,POS,0.5473
+250458639,Rooms,spacious,POS,0.9016
+250458639,Bar drink prices,reasonable,POS,0.8302
+250458639,drink prices,reasonable,POS,0.8987
+250458639,Breakfast,reasonable,POS,0.6139
+247485586,Rooms,comfortable,POS,0.7565
+247485586,staff,friendly,POS,0.7942
+247485586,food,Great,POS,0.8509
+247485586,price,great,POS,0.9387
+237192799,doors,not sealed,NEG,0.7457
+237192799,floor,filthy,NEG,0.5912
+237192799,floor,sandy,NEG,0.9249
+237192799,bathroom,smell terrible,NEG,0.9955
+214747320,hotel,cheap,POS,0.6055
+214747320,staff,noisy,NEG,0.8792
+214747320,pool,small,NEG,0.56
+214747320,breakfast,limited,NEG,0.5811
+214747320,staff,no variety,NEG,0.6608
+214747320,staff,great,POS,0.9024
+214747320,staff,helpfull,POS,0.8838
+207448181,hotel,amazing,POS,0.9973
+207448181,Location,great,POS,0.511
+207448181,wifi,Free,POS,0.5455
+207448181,Breakfast,Awesome,POS,0.501
+201968109,hotel,clean,POS,0.9976
+201968109,hotel,cheap,POS,0.9985
+201968109,Room,big,POS,0.9909
+201968109,room,big,POS,0.974
+201968109,Reception area,nightmare,NEG,0.9585
+186211023,staff,smiling,POS,0.7927
+184207132,rooms,large,POS,0.9979
+184207132,rooms,clean,POS,0.9948
+184207132,rooms,spacious,POS,0.9763
+184207132,beds,comfy,POS,0.9925
+184207132,Hotel,central,POS,0.4879
+184207132,restaurant,not great,NEG,0.5709
+184207132,service,fantastic,POS,0.6319
+184207132,staff,warm,POS,0.8279
+184207132,staff,helpful,POS,0.7195
+176944786,security guard,friendly,POS,0.5653
+176944786,It,clean,POS,0.5162
+176944786,air con,clean,POS,0.5631
+176944786,room,cleaned,POS,0.4941
+176944786,wifi,free,POS,0.6577
+171419976,resorts,impressive,POS,0.8081
+171419976,Staff,friendly,POS,0.5179
+171419976,rooms,basic,NEU,0.9697
+171419976,bed,comfortable,POS,0.7502
+171419976,budget,great,POS,0.5305
+171419976,place,luxury,POS,0.5398
+171419976,value,great,POS,0.78
+150752275,PRICE,REASONABLE,POS,0.9935
+150752275,staff,attentive,POS,0.7906
+150752275,staff,kind,POS,0.9936
+150752275,rooms,dated,NEG,0.7442
+130403625,place,old,NEG,0.725
+130403625,rooms,clean,POS,0.9974
+130403625,bathroom,clean,POS,0.9383
+130403625,grounds,lovely,POS,0.5569
+130403625,staff,polite,POS,0.9378
+130403625,staff,not over friendly,NEG,0.483
+596478186,pool,big,POS,0.992
+596478186,rooms,large,POS,0.956
+596478186,room,missing tiles,NEG,0.9234
+581303283,balcony,garden view,POS,0.8162
+581303283,rooms,clean,POS,0.8909
+581303283,pool,nice,POS,0.6373
+549405211,breakfast,no lights,NEG,0.7864
+549405211,breakfast,no lights,NEG,0.7311
+549405211,hotel,basic,NEU,0.4798
+549405211,hotel,dirty,NEG,0.9715
+549405211,hotel,loud,NEG,0.9186
+549405211,air,loud,NEG,0.7281
+549405211,breakfast,loud,NEG,0.5573
+549405211,breakfast,average,NEU,0.9994
+544278109,Quality of premises,bad,NEG,0.7978
+544278109,Staffs,friendly,POS,0.9518
+544278109,Staffs,not knowledgeable,NEG,0.4132
+544278109,Bedding,hard,NEG,0.4744
+544278109,Breakfast,isn ’ t recommended,NEG,0.8167
+544278109,massage place,good,POS,0.8709
+544278109,massage place,cheap,POS,0.9865
+531121159,staff,unfriendly,NEG,0.9321
+531121159,rooms,dirty,NEG,0.9613
+531121159,shower,cold,NEG,0.5674
+531121159,fridge,cold,NEG,0.4162
+531121159,fridge,did not work,NEG,0.7084
+530082607,pool,large,POS,0.4184
+530082607,pool,broken,NEG,0.8919
+530082607,tiles,sharp,NEG,0.5364
+530082607,ph levels,well off,NEG,0.4878
+530082607,bathrooms,poorly equipped,NEG,0.8868
+530082607,Breakfast,not great,NEG,0.4694
+493740830,Breakfast,terrible,NEG,0.6765
+493740830,staff,lovely,POS,0.649
+493740830,Bathroom,unprofessional,NEG,0.7895
+493740830,Bathroom,clogged,NEG,0.9962
+475201985,Rooms,average,NEU,0.9864
+475201985,staff,nice,POS,0.6864
+475201985,pool bar,ok,POS,0.3323
+475201985,staff,freindly,POS,0.756
+450591603,breakfast,not that great,NEG,0.3239
+450591603,location,great,POS,0.9098
+440771094,beds,clean,POS,0.9927
+440771094,beds,quiet,POS,0.6403
+440771094,surfers,Lots,POS,0.525
+440771094,price,great,POS,0.9908
+434515617,location,loved,POS,0.9526
+434515617,floors,loved,POS,0.7033
+434515617,pool,lovely,POS,0.7755
+434515617,floors,spotless,POS,0.9971
+434515617,bathroom,nice,POS,0.8322
+430439032,pool,nice,POS,0.9889
+426871952,located,conveniently,POS,0.4806
+426871952,pool,big,POS,0.7152
+426871952,Bed,beautiful,POS,0.5635
+338089033,Room,not ready,NEG,0.9593
+338089033,Room,holey,NEG,0.4853
+338089033,office staff,holey,NEG,0.7972
+338089033,pool,broken,NEG,0.5023
+338089033,office staff,not very helpful,NEG,0.7036
+315473991,pool,good value,POS,0.7093
+315473991,main section,good value,POS,0.5446
+315473991,kids pool,good value,POS,0.5876
+315473991,pool,good value,POS,0.678
+315473991,rooms,basic,NEU,0.3379
+315473991,pool,large,POS,0.6193
+303035548,location,great,POS,0.9943
+303035548,beach,short walk,POS,0.5065
+303035548,Rooms,clean,POS,0.923
+260967838,rooms,simple,POS,0.8601
+260967838,Beds,fine,POS,0.8991
+260967838,Beds,clean,POS,0.9123
+260967838,Pool,clean,POS,0.853
+260967838,Location,helpful,POS,0.5522
+260967838,mini markets,walking distance,POS,0.612
+241044724,Rooms,ok,NEU,0.7073
+241044724,aircon,great,POS,0.7408
+241044724,pool,great,POS,0.9846
+241044724,pool,big,POS,0.5154
+241044724,Location,not the best,NEG,0.6474
+240468031,Room,spacious,POS,0.9754
+240468031,wifi,excellent,POS,0.6778
+240468031,beds,excellent,POS,0.7554
+240468031,Staff,excellent,POS,0.9339
+233047764,Rooms,basic,NEU,0.832
+233047764,Rooms,spacious,POS,0.9017
+233047764,room,cleaned,POS,0.9858
+225589608,location,perfect,POS,0.9972
+225589608,pool,relaxing,POS,0.9972
+216138052,hotel,cheap,POS,0.9985
+216138052,hotel,basic,NEU,0.9699
+216138052,rooms,large,POS,0.9149
+216138052,Breakfast,large,POS,0.5385
+216138052,rooms,comfortable,POS,0.702
+216138052,Breakfast,comfortable,POS,0.778
+216138052,Breakfast,dated,NEG,0.8575
+216138052,Breakfast,basic,NEU,0.7512
+215449835,shopping,Walking distance,POS,0.6908
+215449835,Rooms,Walking distance,POS,0.4967
+215449835,Rooms,clean,POS,0.9987
+208646889,showers drain,awful,NEG,0.8561
+208646889,bed,awful,NEG,0.5323
+208646889,mattress,awful,NEG,0.632
+208646889,bed,didn ' t drain,NEG,0.8316
+206729556,this,rustic,POS,0.7447
+206729556,Pool,small,NEG,0.4888
+198975217,Rooms,clean,POS,0.9948
+198975217,ac,worked,POS,0.4737
+198975217,balcony,nice,POS,0.5301
+198975217,gardens,maintained,POS,0.4224
+189571380,money,Value,POS,0.9899
+189571380,AC,good,POS,0.9596
+189571380,bed,large,POS,0.9894
+189571380,bed,Large,POS,0.7151
+189571380,room,spacious,POS,0.9509
+189571380,staff,Friendly,POS,0.8477
+189571380,swimming pool,Large,POS,0.7557
+189571380,garden,Large,POS,0.6949
+189571380,location,Good,POS,0.8764
+186794465,Staff,friendly,POS,0.9998
+186794465,staff,friendly,POS,0.8504
+186794465,room,outdated,NEG,0.5216
+186596097,hotel,Simple,NEU,0.7799
+186596097,hotel,not that organised,NEG,0.3575
+186596097,location,good,POS,0.9857
+186596097,rooms,basic,NEU,0.9763
+183336044,hotel,love,POS,0.5168
+183336044,hotel,not expensive,POS,0.5251
+183336044,hotel,not expensive,POS,0.422
+183336044,atmosphere,nice,POS,0.9229
+183336044,gardens,beautiful,POS,0.9784
+182172474,hotel,Nice,POS,0.6664
+182172474,little garden,nice,POS,0.8505
+182172474,wifi,free,POS,0.9864
+182172474,size swimming pool,good,POS,0.7656
+182172474,swimming pool,good,POS,0.6289
+182172474,Location,near,POS,0.5548
+182172474,airport,near,POS,0.6041
+181442748,price,outstanding,POS,0.9991
+181442748,price,tired,NEG,0.9635
+181442748,price,dated,NEG,0.941
+181442748,price,clean,POS,0.474
+181442748,pool,large,POS,0.9959
+181442748,pool,clean,POS,0.9073
+181442748,food,reasonably,POS,0.4839
+181442748,priced,reasonably,POS,0.9878
+172992949,beach,Short walk,POS,0.8493
+172992949,SuperMarket,Great,POS,0.9882
+172992949,Discovery plaza,Short walk,POS,0.86
+172992949,Kuta square,Short walk,POS,0.7504
+166454674,lady in reception,pleasant,POS,0.8755
+166454674,lady in reception,welcoming,POS,0.5871
+166454674,hotel,short walk,POS,0.4979
+166454674,hotel,lovely,POS,0.5139
+166454674,swimming pool,lovely,POS,0.7811
+166454674,Bakung Beach,recommend,POS,0.6435
+165137046,pool,close,POS,0.4369
+165137046,bathroom,clean,POS,0.9168
+165137046,bathroom,neat,POS,0.946
+165137046,bathroom,tidy,POS,0.5944
+158568348,stay,fabulous,POS,0.9968
+158568348,location,best,POS,0.9967
+158568348,location,close,POS,0.538
+158568348,beach,close,POS,0.5618
+158568348,Restaurant,Great,POS,0.9509
+158568348,meals,fantastic,POS,0.5834
+158568348,priced,fantastic,POS,0.8703
+158568348,facilities,good,POS,0.9751
+158568348,linen,clean,POS,0.9877
+158568348,staff,attentive,POS,0.9431
+146055449,staff,pleasant,POS,0.9994
+146055449,air con,lovely,POS,0.4592
+146055449,con,lovely,POS,0.5877
+129275190,motel,more rundown,NEG,0.4299
+129275190,motel,rundown,NEG,0.7062
+129275190,swimming pool,broken,NEG,0.4274
+128029559,room,disgusted,NEG,0.9997
+128029559,breakfast,disgusted,NEG,0.8612
+128029559,plate,disgusted,NEG,0.9286
+128029559,towels,disgusted,NEG,0.9935
+128029559,towels,smelly,NEG,0.7449
+128029559,room,Bed bugs,NEG,0.5881
+128029559,plate,Bed bugs,NEG,0.9021
+128029559,towels,Bed bugs,NEG,0.7791
+128029559,room,gray,NEG,0.8549
+128029559,plate,gray,NEG,0.7209
+128029559,towels,gray,NEG,0.9974
+128029559,room,holes,NEG,0.9997
+128029559,towels,holes,NEG,0.9994
+127344013,room,dirty,NEG,0.9914
+127344013,hotel,clean,POS,0.9989
+127344013,health insurance,Good,POS,0.9924
+118840411,grounds,lovely,POS,0.7785
+118840411,Staff,not friendly,NEG,0.5884
+118485329,room,dirty,NEG,0.9974
+118485329,room,old,NEG,0.9989
+118485329,door,big hole,NEG,0.6352
+118485329,bathroom,big dead bugs,NEG,0.9712
+118485329,bathroom,dead bugs,NEG,0.9977
+118485329,bathroom,cockroaches,NEG,0.9775
+118485329,hotel,do not recommend,NEG,0.7391
+69159607,room,worst,NEG,0.9981
+69159607,staff,rude,NEG,0.9987
+69159607,staff,unfriendly,NEG,0.9979
+54976396,streets,not safe at night,NEG,0.9257
+50018524,air con,Good,POS,0.9762
+50018524,rooms,clean,POS,0.9567
+50018524,staff,friendly,POS,0.9828
+50018524,staff,Simple,POS,0.4457
+50018524,swimming pool,spacious,POS,0.8971
+50018524,Location,quiet,POS,0.9346
+43514855,room,clean,POS,0.9022
+43514855,aircon,worked fine,POS,0.4594
+43514855,bathroom,clean,POS,0.8575
+43514855,staff,impecable,POS,0.7548
+43514855,resturant meals,cheap,POS,0.7852
+43514855,location,love,POS,0.9617
+43514855,located,small,NEG,0.3763
+693014668,location,good,POS,0.5693
+693014668,rooms,clean,POS,0.5394
+693014668,rooms,quiet,POS,0.5585
+693014668,Rooms,noisy,NEG,0.5328
+666128702,Location,great,POS,1.0
+666128702,pool,chipped,NEG,0.967
+666128702,pool,broken tiles,NEG,0.9631
+624327518,rooms,basic,NEU,0.9991
+624327518,bathrooms,basic,NEU,0.9465
+624327518,Staff,wonderful,POS,0.817
+624327518,Breakfast,good,POS,0.9785
+624327518,price,good,POS,0.9739
+624327518,location,good,POS,0.9832
+621524189,location,great,POS,0.9002
+621524189,room,old tired,NEG,0.4149
+621524189,room,tired,NEG,0.5158
+621524189,pool,nasty rash,POS,0.4363
+581289845,Staff,fantastic,POS,0.9984
+581289845,Breakfast,great,POS,0.9943
+581289845,Pool bar,nice,POS,0.9999
+562200271,room,nice,POS,0.9926
+562200271,pool,nice,POS,0.7152
+544628325,staff,nice,POS,0.9999
+544628325,breakfast,same,NEU,0.8702
+540355254,Bathroom Well,no shower curtain,NEG,0.4939
+527131040,hotel,not a bad,POS,0.3426
+527131040,Bathrooms,needs some work,NEG,0.4401
+527131040,Bathrooms,run down,NEG,0.9456
+527131040,Bathrooms,weird setup,NEG,0.5506
+527131040,rooms,weird setup,NEG,0.4511
+527131040,rooms,cleaned,POS,0.53
+527131040,staff,Great,POS,0.9996
+527131040,location,Great,POS,0.9693
+527131040,staff,helpful,POS,0.999
+527131040,location,helpful,POS,0.9885
+527131040,staff,friendly,POS,0.9992
+527131040,location,friendly,POS,0.9984
+527131040,staff,Great,POS,0.6762
+527131040,location,Great,POS,0.9974
+527131040,Shopping,Great,POS,0.8168
+527131040,Breakfast,basic,NEU,0.998
+525038854,staff,lovely,POS,0.9937
+525038854,gardens,lovely,POS,0.6135
+525038854,ware,lovely,POS,0.4814
+525038854,bathroom,mangy,NEG,0.5424
+525038854,bathroom,need,NEG,0.4992
+510343720,staff,Great welcome,POS,0.9617
+510343720,staff,rude,NEG,0.9635
+510343720,staff,stolen,NEG,0.4861
+510343720,staff,stolen,NEG,0.6955
+509702276,it,basic,NEU,0.9597
+509702276,it,clean,POS,0.9914
+509702276,rooms,okay,NEU,0.3747
+509702276,Pool,clean,POS,0.9241
+509702276,Breakfast buffet,not expensive,POS,0.4884
+509326663,pool,Nice,POS,0.9991
+509326663,toilets,ugly,NEG,0.5377
+509326663,Breakfast,not impressive,NEG,0.4288
+495611148,beach,very cose,POS,0.4017
+495611148,service,not professional,NEG,0.7755
+495611148,service,minimal,NEG,0.3985
+487800339,room,small,NEG,0.7811
+487800339,aircon,didnt work,NEG,0.6943
+487800339,bed,squeaky,NEG,0.8206
+487800339,Bed,didnt work,NEG,0.4949
+487800339,aircon,didnt work,NEG,0.7137
+484045580,rooms,small,NEG,0.5635
+469745566,hotel,NOT a luxury,NEG,0.6101
+469745566,position,great,POS,0.7966
+469745566,pool,great,POS,0.9694
+469737928,hotel,cheap,POS,0.9965
+469737928,bathroom,moldy,NEG,0.7506
+469737928,pool,needs maintenance,NEG,0.9725
+469737928,hotel,cheap,POS,0.5754
+468427364,staff,nice,POS,0.9986
+468427364,swimming pool,amazing,POS,0.9841
+468427364,room,smelling bad,NEG,0.8539
+468427364,bathroom,not the best one,POS,0.3185
+449463370,breakfast,not that great,NEG,0.9278
+449463370,Rooms,clean,POS,0.9632
+440242532,hotel,worst,NEG,0.9974
+440242532,pool,worst,NEG,0.6631
+436490995,remote,didn ' t function well,NEG,0.4796
+436490995,location,great,POS,0.5331
+421666154,size pool,Decent,NEU,0.8854
+421666154,staff,nice,POS,0.9997
+421666154,Room,clean,POS,0.9917
+400245105,Breakfast,minimum,NEG,0.5224
+399009358,fridge,air conditioned,POS,0.3521
+399009358,fridge,cold,NEG,0.3469
+399009358,staff,friendly,POS,0.9166
+399009358,staff,spacious,POS,0.8005
+378887527,place,needs a little tender love,NEG,0.698
+378887527,rooms,big,POS,0.9181
+378887527,bed,comfortable,POS,0.9767
+378887527,furniture,outdated,NEG,0.7069
+378887527,breakfast,good,POS,0.4779
+359207316,breakfast,Nice,POS,0.9854
+359207316,swimming pool,relaxing,POS,0.5522
+359207316,Rooms,simple,POS,0.4136
+359207316,airco,good,POS,0.5234
+356693973,Linen,tired,NEG,0.9947
+356693973,Linen,grubby,NEG,0.9676
+356693973,Shower,wet,NEG,0.6051
+356693973,toilet,keep lid,NEG,0.8013
+356693973,toilet,keep lid down,NEG,0.8778
+356693973,toilet,poor,NEG,0.6052
+356693973,Breakfast,poor,NEG,0.7893
+356693973,Staff,didn ' t seem very helpful,NEG,0.8857
+326172495,hotel,classic Bali,POS,0.422
+326172495,location,great,POS,0.9882
+326172495,staff,friendly,POS,0.9287
+326172495,rooms,large,POS,0.6581
+326172495,Linen,old,NEG,0.3783
+326172495,towels,small,NEG,0.4682
+326172495,breakfast,small,NEG,0.4686
+318779413,Breakfast,enjoyed,POS,0.9927
+318779413,Breakfast,limited in choice,NEG,0.6753
+318779413,Pool,over chlorinated,NEG,0.7745
+310898974,staff,ignored us,POS,0.9484
+310898974,room,great,POS,0.9999
+310898974,staff,great,POS,0.997
+310898974,breakfast,great,POS,1.0
+305795132,price,fair,POS,0.998
+305795132,stay,fair,POS,0.9659
+305795132,grounds,beautiful,POS,0.9959
+305795132,swimming pool,nice,POS,0.9672
+305795132,atmosphere,relaxed,POS,0.997
+305795132,atmosphere,peaceful,POS,0.8237
+305795132,place,Great,POS,0.9961
+298476491,room,Nice,POS,0.8398
+298476491,room,clean,POS,0.9991
+298476491,room,friendly,POS,0.6234
+298476491,staff,friendly,POS,0.9994
+298476491,WiFi,ok,NEU,0.9993
+298476491,pool,great,POS,0.5021
+294579489,rooms,Clean,POS,0.9995
+294579489,rooms,comfortable,POS,1.0
+294579489,staff,friendliness,POS,0.8544
+294579489,staff,fantastic,POS,0.9985
+278503593,room,budget,POS,0.7134
+278503593,room,deluxe,POS,0.9711
+278503593,Swimming pool,available,POS,0.941
+278503593,room,standard,NEU,0.5424
+278503593,service,excellent,POS,0.7359
+278503593,staff,polite,POS,0.9897
+277990684,Rooms,large,POS,0.7159
+277990684,Breakfast,comfy,POS,0.4765
+277990684,range,limited,NEG,0.5219
+274323166,bathroom,well used,POS,0.4795
+274323166,staff,friendly,POS,0.9678
+274323166,staff,helpful,POS,0.8578
+268192369,cutlery,dirty,NEG,0.9861
+264350300,Staff,friendly,POS,1.0
+264350300,pool,nice,POS,0.9993
+264350300,location,liked,POS,0.9839
+264350300,beds,comfy,POS,0.9974
+251045762,hotel,old,NEG,0.9813
+251045762,room,small,NEG,0.8101
+251045762,Bathroom,small,NEG,0.6561
+251045762,room,dirty,NEG,0.6661
+251045762,Bathroom,dirty,NEG,0.8083
+251045762,Bathroom,smelled,NEG,0.5182
+251045762,breakfast,no good,NEG,0.5034
+251045762,Staff,pleasant,POS,0.6274
+251045762,location,Excellent,POS,0.8088
+228938603,aspect,didn ' t like,NEG,0.7233
+228938603,rooms,unclean,NEG,0.9795
+228938603,staff,good,POS,0.5592
+228938603,Pool,good,POS,0.7448
+222500356,hotel,good value for money,POS,0.9871
+222500356,Rooms,clean,POS,0.9926
+222500356,Rooms,air conditioned,POS,0.8221
+222500356,Staff,air conditioned,POS,0.69
+222500356,Staff,friendly,POS,0.9992
+222500356,Staff,not intrusive,NEG,0.7577
+222500356,value,Good,POS,0.9444
+211469461,facilities,old,NEG,0.9469
+211469461,facilities,many mosquitos,NEG,0.6936
+211469461,staff,many mosquitos,NEG,0.5945
+211469461,staff,nice,POS,0.985
+211469461,price,cheap,POS,0.9391
+205598735,Breakfast,good,POS,0.8484
+205598735,Breakfast,basics,NEU,0.98
+201973091,pool,no,NEG,0.8191
+201973091,desk,rude,NEG,0.9956
+201973091,bathroom,rude,NEG,0.991
+201973091,doors,thin,NEG,0.9944
+201973091,walls,thin,NEG,0.7709
+201973091,desk,expensive,NEG,0.8752
+201973091,walls,expensive,NEG,0.5911
+201973091,pool,terrible,NEG,0.9113
+201973091,bathroom,terrible,NEG,0.9999
+201973091,desk,dissapointment,NEG,0.9361
+183584869,Bed,old,NEG,0.7047
+183584869,sheets,small,NEG,0.6364
+183584869,blankets,old,NEG,0.8958
+183584869,blankets,scratchy,NEG,0.8155
+183584869,Bathroom,scratchy,NEG,0.7922
+183584869,Bathroom,dirty,NEG,0.8628
+183584869,gardens,lovely,POS,0.9525
+183135102,breakfast,perfect,POS,0.9984
+183135102,photos,reasonable,POS,0.2927
+183135102,walls,paper thin,NEG,0.5064
+181321664,room,comfort,POS,0.9627
+181321664,breakfast,delicious,POS,0.8343
+179872006,room,spacious,POS,0.9928
+179872006,room,basic,NEU,0.6105
+179872006,breakfast,basic,NEU,0.6753
+179872006,staff,friendly,POS,0.8626
+178230231,bathroom,clean,POS,0.7316
+178230231,activities,Lots,POS,0.9898
+176982732,room,basic,NEU,1.0
+176982732,room,average,NEU,0.9999
+176982732,linen,gross,NEG,0.6177
+176982732,staff,nice,POS,0.9972
+166118244,bar,excellent,POS,0.7424
+166118244,restaurant,excellent,POS,0.9773
+166118244,pool,excellent,POS,0.999
+166118244,location,downfall,NEG,0.6428
+165654112,hotel,fantastic,POS,0.9848
+165654112,value,great,POS,0.9958
+165654112,staff,friendly,POS,0.9769
+165654112,pool,well kept,POS,0.9656
+165654112,rooms,not renovated,NEG,0.7736
+165654112,rooms,clean,POS,0.762
+161845077,wifi,free,POS,0.9992
+151541801,breakfast,good,POS,0.597
+151541801,linens,not that clean,NEG,0.9869
+151541801,staffs,nice,POS,0.5023
+151347492,room,good,POS,0.9988
+151347492,room,clean,POS,0.9926
+151347492,linen,not upto any standeds,NEG,0.6799
+151347492,linen,not upto any standeds,NEG,0.7943
+136254996,staff,nice,POS,0.6623
+136254996,location,nice,POS,0.7399
+136254996,staff,nice,POS,0.5209
+136254996,staff,suitable,POS,0.5593
+136254996,staff,suitable,POS,0.4848
+136254996,location,Loved,POS,0.526
+136254996,restaurant,Loved,POS,0.6024
+136254996,staff,Loved,POS,0.6604
+136254996,bathrooms,need an update,NEG,0.3699
+136254996,pool,nice,POS,0.6081
+136254996,staff,helpful,POS,0.8899
+136254996,Front Desk,helpful,POS,0.7958
+136254996,restaurant,helpful,POS,0.9955
+136254996,staff,helpful,POS,0.9954
+136254996,staff,Great value,POS,0.8881
+136254996,Front Desk,Great value,POS,0.524
+136254996,restaurant,Great value,POS,0.9639
+136254996,staff,Great value,POS,0.9819
+136254996,staff,very pleasant,POS,0.9497
+136254996,restaurant,very pleasant,POS,0.7329
+136254996,staff,very pleasant,POS,0.907
+124128519,hotel,worst,NEG,0.8395
+124128519,room,old,NEG,0.4902
+84019555,bedrooms,standard,NEU,0.9809
+84019555,aircon,didnt work,NEG,0.614
+53615613,location,love,POS,0.6802
+53615613,hotel,walking distance,POS,0.5843
+53615613,room,old,NEG,0.4805
+53615613,room,smelled,NEG,0.7694
+35996426,shower,wasnt working,NEG,0.9618
+35996426,aircon,wasnt working,NEG,0.705
+35996426,pool bar,damp smell,NEG,0.5928
+35996426,room,damp smell,NEG,0.5248
+30701612,place,smelly,NEG,0.8963
+30701612,shower,smelly,NEG,0.8574
+712505599,grounds,clean,POS,0.4057
+712505599,bathroom,smelt,NEG,0.7239
+712505599,it,smelt,NEG,0.7642
+712505599,bathroom,big tick,NEG,0.5371
+712505599,pool,big tick,NEG,0.5977
+712505599,grounds,lovely,POS,0.9986
+712505599,pool,attractive,POS,0.9918
+706151171,price,fantastic,POS,1.0
+706151171,location,fantastic,POS,1.0
+684471197,hotel,Cheapish,POS,0.8911
+684471197,pool,Nice,POS,0.7018
+684471197,hotel,old,NEG,0.4034
+684471197,sheets,dirty,NEG,0.4403
+684471197,sheets,smelly,NEG,0.5234
+684471197,air con,hideous,NEG,0.4968
+684471197,lid,broken,NEG,0.7862
+684471197,pillow,mould,NEG,0.5708
+684471197,price,mould,NEG,0.7643
+684471197,toilet,mould,NEG,0.5472
+684471197,Balcony,mould,NEG,0.4782
+684471197,Balcony,nice,POS,0.8458
+684471197,hotel,nice,POS,0.6443
+673476860,breakfast,fine,NEU,0.39
+673476860,fridge,did not work,NEG,0.8982
+673476860,bathroom,did not work,NEG,0.5542
+673476860,bed,comfy,POS,0.9767
+673476860,linen,clean,POS,0.6425
+673476860,bathroom,didn ' t have any mould,NEG,0.9688
+673476860,breakfast,average,NEU,0.991
+673476860,breakfast,warm,POS,0.3707
+673476860,gardens,little variety,NEG,0.361
+673476860,pool,lovely,POS,0.9845
+669958751,hotel,Wonderful,POS,0.9779
+669958751,hotel,close to the shopping mall,POS,0.3977
+669958751,restaurants,cozy,POS,0.7219
+669958751,hotel,not expensive,POS,0.9559
+669958751,room,beautiful,POS,0.9636
+669958751,staff,friendly,POS,0.9953
+669958751,staff,helpful,POS,0.963
+669648489,place,crap,NEG,0.9089
+669648489,Food,disgusting,NEG,0.8143
+669648489,service,disgusting,NEG,0.6045
+669648489,service,No,NEG,0.7945
+669648489,Beds,not comfy,NEG,0.7276
+669648489,staff,not comfy,NEG,0.4835
+669648489,staff,need a good,NEG,0.3833
+635037169,rooms,Reasonable,POS,0.976
+635037169,terrace,nice,POS,0.9989
+635037169,people,friendly,POS,0.9905
+635037169,bed,good,POS,0.9704
+635037169,Breakfast,basic,NEU,0.5666
+635037169,airport,near,POS,0.6249
+633372594,bathroom,awful,NEG,0.7026
+633372594,Pool bar,not very well cleaned,NEG,0.8939
+621611049,hotel,Cheap,POS,0.9955
+621611049,hotel,cheerful,POS,0.9979
+621611049,location,Great,POS,0.9515
+621611049,Breakfast,ok,NEU,0.4185
+592847041,prices,affordable,POS,0.9677
+592847041,rooms,basic,NEG,0.3101
+592847041,pool,good,POS,0.9861
+592847041,location,Prime,POS,0.9618
+586897331,hotel,good,POS,0.9999
+586897331,Staff,nice,POS,0.9999
+586897331,room,confortable,POS,1.0
+586897331,room,clean,POS,0.8789
+565250884,hotel,filtiest,POS,0.5477
+565250884,hotel,Fungus,NEG,0.5905
+565250884,hotel,mold,NEG,0.8029
+565250884,manager,friendly,POS,0.9962
+513902760,shower,bad pressure,NEG,0.4781
+513902760,rooms,little degraded,NEG,0.3737
+510846660,room,terrible,NEG,0.9989
+510846660,bath room,terrible,NEG,0.9779
+510846660,bath room,no,NEG,0.495
+510846660,water,no,NEG,0.9314
+510846660,bath room,slow,NEG,0.942
+510846660,bath room,smell,NEG,0.9042
+510846660,food,bad,NEG,0.9386
+506099272,ambience,good,POS,0.9975
+506099272,pool,great,POS,0.9981
+506099272,Beach,few minutes walking distance,POS,0.6481
+467123462,location,love,POS,0.9981
+467123462,Food,ok,NEU,0.9964
+467123462,air conditioning,leaking,NEG,0.9824
+467123462,wifi,poor,NEG,0.9156
+458419269,shower,no separate,NEG,0.6275
+458419269,shower,no separate,NEG,0.4919
+458419269,shower,one,NEG,0.6476
+458419269,bathroom,wet,NEG,0.9133
+458419269,beds,wet,NEG,0.6017
+458419269,beds,Rockhard,POS,0.3966
+458419269,breakfast,Sad,NEG,0.4258
+440243057,hotels,worst,NEG,0.9999
+440243057,cleanliness,Poor,NEG,0.9999
+440243057,staff,poor,NEG,0.9986
+440243057,location,poor,NEG,0.9944
+423382034,price,basic,NEU,0.5143
+423382034,price,basic,NEU,0.9987
+423382034,position,great,POS,0.9851
+416051387,rooms,smell,NEG,0.9925
+415518511,staff,helpful,POS,0.972
+415518511,breakfast,helpful,POS,0.9005
+415518511,breakfast,reasonable,POS,0.444
+412963629,linen,clean,POS,0.6096
+412963629,bed,comfy,POS,0.9602
+412963629,atmosphere,dull,NEG,0.9138
+412963629,swim up bar,dull,NEG,0.9475
+412963629,swim up bar,not operational,NEG,0.8531
+412608777,staff,friendly,POS,0.9986
+412608777,staff,helpful,POS,0.9968
+412510548,pool,nice,POS,0.9955
+412510548,staff,nice,POS,0.9964
+412510548,rooms,meeting the expectations,POS,0.7274
+410826776,staff,amazing,POS,0.999
+410826776,spas,great,POS,0.5408
+409917693,bathroom,mouldy,NEG,0.8981
+409917693,room,no internet,NEG,0.6467
+405943768,rooms,Spacious,POS,0.997
+405943768,rooms,friendly,POS,0.971
+405943768,staff,nice,POS,0.941
+405943768,pool,nice,POS,0.9997
+400645716,place,sucked,NEG,0.7235
+400645716,room,terrible,NEG,0.8118
+400645716,staff,non existant,POS,0.3577
+400645716,pool bar,not staffed,NEG,0.5123
+400645716,staff,friendly,POS,0.9702
+382843184,people,friendly,POS,0.8998
+382843184,room,helpful,POS,0.9055
+382843184,room,large,POS,0.9712
+382843184,room,clean,POS,0.9724
+382843184,bathroom,clean,POS,0.576
+375447047,price,reasonable,POS,0.9985
+375447047,hotel,old style,NEG,0.2951
+375447047,hygiene,unsatisfied,POS,0.402
+375447047,Room ' s amenities,poor,NEG,0.725
+375447047,room,big,POS,0.5585
+375447047,price,good,POS,0.7234
+375447047,staffs,unhelpful,NEG,0.7582
+373582848,rooms,large,POS,0.9909
+373582848,air,cold,NEG,0.4587
+373582848,Staff,friendly,POS,0.9466
+373582848,Staff,quiet,POS,0.4794
+372218158,rooms,dirty,NEG,1.0
+372218158,rooms,dirt,NEG,0.9999
+372218158,toilet,dirt,NEG,0.5453
+371652288,rooms,large,POS,0.9037
+371652288,tiles,broken,NEG,0.5638
+365890115,pool,sunny,POS,0.4798
+365890115,pool,need to clean,NEG,0.7007
+365890115,pool,dirty,NEG,0.493
+365890115,Rooms,dirty,NEG,0.7831
+365890115,Rooms,lovely,POS,0.9492
+365890115,Rooms,clean,POS,0.9486
+364504579,room,large,POS,0.9709
+364504579,pool,beautiful,POS,0.9986
+361731324,staff,rude,POS,0.7413
+336333562,Breakfast,clean,POS,0.4446
+336333562,staff,great,POS,0.9603
+336333562,location,great,POS,0.7042
+336333562,Breakfast,average,NEU,0.9117
+336333562,Pool,great,POS,0.6144
+336333562,gardens,great,POS,0.628
+336333562,gardens,nice,POS,0.9704
+336333562,staff,great,POS,0.5173
+334514834,hotel,Good,POS,0.9964
+334514834,buffet,nice,POS,0.6001
+334514834,breakfast,nice,POS,0.5227
+334514834,bed,good,POS,0.8893
+334514834,clean,Reasonable,POS,0.6048
+304902620,hotel,clean,POS,0.9998
+304902620,park,nice,POS,0.9997
+304902620,pool,great,POS,0.9758
+304902620,pool,near,POS,0.6205
+304902620,airport,near,POS,0.6177
+297686579,Pool,not so good,NEG,0.8928
+297686579,Food,below standard,NEG,0.5165
+297686579,Staff,slow,NEG,0.6372
+297686579,room,clean,POS,0.7925
+295880012,staff,friendly,POS,0.9987
+295880012,atmosphere,relaxing,POS,0.5332
+293166032,hotel,exceed all expectations,POS,0.9886
+293166032,staffs,friendly,POS,0.9546
+293166032,staffs,spacious,POS,0.7214
+293166032,bathroom,clean,POS,0.8946
+293166032,Lippo Mall,near,POS,0.5784
+274932870,hotel,disappointment,NEG,0.6701
+274932870,hotel,No phone service,NEG,0.6831
+274932870,Wifi,no,NEG,0.9948
+274932870,service,ok,NEU,0.9945
+274932870,Breakfast,average,NEU,0.9651
+274932870,pool,ok,NEU,0.7825
+274923658,location,Perfect,POS,0.9997
+274923658,price,Good,POS,0.9999
+274923658,facilities,Good,POS,0.9998
+269825412,bed,comfortable,POS,0.9045
+269825412,Pool,too deep,NEG,0.7741
+269825412,Breakfast,over chlorinated,NEG,0.9179
+269825412,meals,over chlorinated,NEG,0.6977
+269825412,cocktails,over chlorinated,NEG,0.5271
+269825412,meals,reasonably,POS,0.3423
+269825412,cocktails,reasonably,POS,0.6372
+269825412,priced,reasonably,POS,0.4033
+269825412,shopping centre,large,POS,0.8359
+266732643,wifi,free,POS,0.9453
+258190268,hotel,cheap,POS,0.9988
+258190268,hotel,nice,POS,0.9987
+258190268,hotel,tidy,POS,0.9955
+258190268,location,good,POS,0.6407
+258190268,hair dryer,no,NEG,0.5869
+258190268,building,no tooth brush,NEG,0.652
+258190268,building,not bad,POS,0.4138
+257576654,stay,loved,POS,0.9763
+257576654,Wifi,reasonable,POS,0.9893
+257576654,kitchen,awesome,POS,0.8819
+241168338,hotel,cheap,POS,0.9993
+239873433,hotel,quite ok,NEU,0.9997
+239873433,room,clean,POS,0.7849
+239873433,room,spacious,POS,0.8603
+239873433,doors,could also be improved,NEG,0.853
+239873433,water pressure,could also be improved,NEG,0.9174
+239453375,pool,nice,POS,0.9024
+239453375,pool,nice,POS,0.5074
+239453375,place,quiet,POS,0.6136
+239453375,people,mixed,POS,0.5031
+239453375,breakfast,good,POS,0.928
+239453375,people,easy,POS,0.7261
+239453375,Kuta center,easy,POS,0.6922
+238581625,breakfast,simple,NEU,0.9846
+238581625,bed,good,POS,0.485
+238581625,breakfast,good,POS,0.9466
+237035056,hotel,typical,POS,0.4458
+237035056,gardens,typical,POS,0.3907
+237035056,pool,typical,POS,0.3965
+237035056,rooms,large,POS,0.8841
+237035056,pool,large,POS,0.5765
+237035056,breakfast,reasonable furnishings,POS,0.3845
+237035056,breakfast,comfortable,POS,0.5901
+237035056,gardens,comfortable,POS,0.5801
+237035056,pool,comfortable,POS,0.6889
+237035056,Restaurants,reasonable walking distance,POS,0.5571
+237035056,Restaurants,walking distance,POS,0.6278
+237035056,rooms,charming local term,POS,0.5765
+237035056,beach,charming local term,POS,0.7039
+237035056,beach,short stroll,POS,0.6519
+237035056,hotel,pleasant,POS,0.6952
+237035056,gardens,pleasant,POS,0.9759
+237035056,pool,pleasant,POS,0.9798
+235337008,bathroom,dirty,NEG,0.662
+235337008,staff,lovely,POS,0.8856
+230512202,Money,well spent,POS,0.8154
+230512202,rooms,cleaned,POS,0.9988
+230512202,bed,not very clean,NEG,0.7556
+230512202,bed,wasn ' t very soft,NEG,0.7759
+230495019,staff,excellent,POS,0.9973
+230495019,location,great,POS,0.9155
+230495019,hotel,friendly,POS,0.8507
+230495019,staff,friendly,POS,0.8962
+230495019,price,cheap,POS,0.5948
+229131301,hotel,simple,POS,0.9738
+229131301,staff,friendly,POS,0.9909
+229131301,staff,clean,POS,0.7786
+229131301,rooms,tidy,POS,0.6484
+228548847,value,Great,POS,0.9999
+228548847,pool area,Nice,POS,0.9999
+200182150,rooms,clean,POS,0.8362
+200182150,pool,clean,POS,0.8682
+200182150,pool,under construction,NEG,1.0
+200182150,rooms,under construction,NEG,0.6497
+200182150,pool,no safes,NEG,0.7978
+200182150,rooms,no safes,NEG,0.5479
+196928042,hotel,terrible,NEG,0.7596
+196928042,bathroom,terrible,NEG,0.5156
+196928042,sink,clogged,NEG,0.5546
+196928042,room,no room available,NEG,0.5488
+191697636,hotel,old,NEG,0.4789
+191697636,hotel,old style,NEG,0.5259
+191697636,breakfast,shocking,POS,0.4752
+191697636,hotel,not central,NEG,0.4437
+190934414,room,fine,NEU,0.3827
+190934414,room,lacked natural light,NEG,0.523
+190934414,staff,lacked natural light,NEG,0.5314
+190934414,staff,friendly,POS,0.997
+190934414,staff,welcoming,POS,0.971
+190934414,rest of the room,okay,NEG,0.2876
+190934414,terrace,dated,NEG,0.8114
+190934414,terrace,nice,POS,0.6894
+190934414,pool,refreshing,POS,0.9986
+180038621,staff,friendly,POS,0.9947
+180038621,staff,poor English,NEG,0.9388
+180038621,lobby,great first impression,POS,0.5179
+180038621,hotel exterior,dated,NEG,0.4747
+180038621,pool,clean,POS,0.6503
+180038621,sheets,small tears,NEG,0.6858
+180038621,staff,cleaner,POS,0.6112
+180038621,staff,fresher linen,POS,0.3413
+176442126,Rooms,basic,NEU,0.7369
+176442126,Rooms,clean,POS,0.9967
+176442126,Linens,clean,POS,0.9745
+176442126,fridge,clean,POS,0.9998
+176442126,Staff,clean,POS,0.9764
+176442126,Linens,friendly,POS,0.6434
+176442126,fridge,friendly,POS,0.9628
+176442126,Staff,friendly,POS,0.9998
+176442126,fridge,helpful,POS,0.9624
+176442126,Staff,helpful,POS,0.9747
+176442126,breakfast,helpful,POS,0.6405
+176442126,breakfast,Continental,POS,0.8421
+176442126,breakfast,adequate,POS,0.7872
+176442126,pool tiles,broken,NEG,0.99
+164990291,see,happy,POS,0.5106
+164990291,service,gret,POS,0.9618
+149541511,shopping,enjoy,POS,0.8394
+149541511,location,enjoy,POS,0.5645
+138376431,hotel,Look,POS,0.4013
+138376431,hotel,cheap,POS,0.9855
+138376431,phone,didn ' t work,NEG,0.8427
+138376431,shower,awful,NEG,0.8879
+138376431,Pool,nice,POS,0.5704
+138376431,gardens,nice,POS,0.7509
+138376431,beds,comfortable,POS,0.5864
+138376431,room,comfortable,POS,0.8779
+138376431,room,nice,POS,0.8905
+138376431,bathroom,nice,POS,0.8628
+138376431,staff,able,POS,0.5577
+138376431,staff,friendly,POS,0.7049
+129278205,hotel,old,NEG,1.0
+129278205,hotel,dirty,NEG,1.0
+127394269,room,old,NEG,0.9949
+127394269,bathroom,older,NEG,0.8737
+127394269,room,older,NEG,0.8474
+127394269,location,not good,NEG,0.6228
+127394269,room,expensive,NEG,0.5393
+117058975,Towels,grey,NEG,0.9993
+117058975,sheets,grey,NEG,0.9992
+117058975,room account,No,NEG,0.7715
+117058975,rooms airconditioner,leaked,NEG,0.895
