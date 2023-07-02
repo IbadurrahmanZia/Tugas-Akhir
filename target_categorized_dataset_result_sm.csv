@@ -1,0 +1,2104 @@
+comment_id,target,opinion,sentiment,confidence,category,top_category_score
+886175366,which,poor,NEG,0.9997,,
+886175366,pay,whinge,NEG,0.5003,price,0.78
+886175366,breakfast,substantial,POS,1.0,food,0.77
+886175366,room,large,POS,1.0,facility,0.86
+886175366,room,clean,POS,0.9998,facility,0.86
+886175366,air conditioner,has goods,POS,0.9998,facility,0.67
+886175366,bathroom,huge,POS,1.0,facility,0.80
+886175366,wait,issue,NEG,0.5794,experience,0.77
+886175366,balcony,big,POS,1.0,facility,0.92
+886175366,balcony,bright,POS,0.9999,facility,0.92
+886175366,balcony,air,POS,0.9997,facility,0.92
+751602005,room,outdated,NEG,1.0,facility,0.86
+751602005,room,don ’ t see every clean,NEG,1.0,facility,0.86
+751602005,hand soap,no amenities,NEG,0.9217,service,0.88
+751602005,bath towels,no amenities,NEG,0.8209,facility,0.67
+751602005,air conditioner,dripped,NEG,0.9999,facility,0.67
+751602005,staff,not friendly,NEG,1.0,service,1.00
+751602005,staff,didn ’ t help,NEG,0.9994,service,1.00
+751602005,breakfast,minimal,NEG,0.812,food,0.77
+751602005,breakfast,not every goods,NEG,1.0,food,0.77
+751602005,location,plus side,POS,0.9998,environment,1.00
+751602005,pool,plus side,POS,0.9996,facility,1.00
+751602005,resort,nicer,POS,0.9843,facility,0.88
+736659114,stay,hesitant,POS,0.555,experience,1.00
+736659114,room 306,stayed,NEU,1.0,facility,0.86
+736659114,room,clean,POS,1.0,facility,0.86
+736659114,room,well maintained,POS,1.0,facility,0.86
+736659114,room,cleaners,POS,1.0,facility,0.86
+736659114,air con,great,POS,1.0,facility,0.83
+736659114,staff,amazing,POS,1.0,service,1.00
+736659114,staff,smiling,POS,1.0,service,1.00
+736659114,money,highly recommend,POS,0.9861,price,0.88
+736659114,rate,great,POS,1.0,price,0.82
+736659114,lippo mall,close,POS,0.683,environment,1.00
+736659114,lippo mall,price,NEG,0.9951,environment,1.00
+736659114,restaurant,great,POS,1.0,food,1.00
+736659114,restaurant,near,POS,1.0,food,1.00
+736659114,cafe,fantastic,POS,1.0,food,0.94
+736659114,pork ribs,best,POS,0.9999,food,0.92
+736659114,breakfast,included,POS,0.4311,food,0.77
+736659114,price,included,POS,0.3867,price,1.00
+736659114,breakfast,basic,NEU,0.834,food,0.77
+736659114,price,basic,NEU,0.7364,price,1.00
+4393020,location,happy,POS,1.0,environment,1.00
+4393020,pool,clean,POS,1.0,facility,1.00
+4393020,beach,walking distance,POS,0.9999,environment,0.67
+4393020,kuta,10 mine walk,POS,0.4931,,
+4393020,bakery,fabulous,POS,0.7658,environment,0.86
+4393020,supermarket,fabulous,POS,0.862,environment,0.82
+5438719,beach cottages,loved,POS,1.0,facility,0.88
+5438719,budget hotel,goods,POS,1.0,price,1.00
+5438719,flight,long,NEG,0.9937,environment,0.80
+5438719,staff,friendly,POS,1.0,service,1.00
+5438719,staff,helpful,POS,0.9998,service,1.00
+5438719,guest,enjoyed,POS,1.0,environment,0.71
+5438719,pool,great,POS,1.0,facility,1.00
+5438719,staff,no rudeness,POS,0.9341,service,1.00
+5438719,everyone,eager tom help,POS,1.0,,
+5438719,hotel,safety,POS,1.0,facility,0.93
+5438719,hotel,quiet,POS,1.0,facility,0.93
+5438719,shop,along the road,POS,0.9427,experience,1.00
+5438719,staff,friendly,POS,1.0,service,1.00
+5438719,across,light,POS,0.9973,experience,0.50
+105053946,room,dining,POS,0.9582,facility,0.86
+105053946,room,basic,NEU,0.6788,facility,0.86
+105053946,room,old,NEG,0.4865,facility,0.86
+105053946,pool,enjoyed,POS,0.9998,facility,1.00
+105053946,lounger,enjoyed,POS,1.0,facility,0.80
+105053946,air cons,great,POS,0.9991,facility,0.83
+105053946,waterbom park,10 mins walk,POS,0.822,facility,0.86
+105053946,discovery plaza,10 mins walk,POS,0.6493,environment,1.00
+340119793,double room,great,POS,0.5689,facility,0.86
+340119793,room,great,POS,0.7317,facility,0.86
+340119793,double room,spacious,POS,0.5546,facility,0.86
+340119793,room,cleaners,POS,1.0,facility,0.86
+340119793,location,goods,POS,0.9999,environment,1.00
+340119793,location,quiet down a side road,POS,0.9988,environment,1.00
+340119793,lippo mall,next,POS,0.8119,environment,1.00
+340119793,cinema,next,POS,0.509,facility,0.88
+340119793,restaurant,next,POS,0.5635,food,1.00
+340119793,beach,short walk,POS,0.7536,environment,0.67
+340119793,price,free,POS,0.9856,price,1.00
+124637732,place,goods,POS,1.0,environment,1.00
+124637732,bed,clean,POS,0.9996,facility,0.89
+124637732,room,cool,POS,0.9999,facility,0.86
+124637732,pool area,great,POS,0.9974,facility,1.00
+124637732,water in the pool,clean,POS,0.9129,facility,0.92
+124637732,pool bar,does not open,NEG,0.9944,facility,1.00
+124637732,restaurant,light,POS,0.9998,food,1.00
+124637732,garden,amazing,POS,1.0,environment,0.75
+124637732,hotel,safety,POS,1.0,facility,0.93
+124637732,everyone,friendly,POS,1.0,,
+124637732,budget travel,really goods,POS,0.5012,price,1.00
+124637732,budget travel person,really goods,POS,0.8832,price,1.00
+121724578,bakung beach cottages,stayed,POS,0.5527,facility,0.88
+121724578,stay,adequate,POS,0.9999,experience,1.00
+121724578,place,works,NEG,1.0,environment,1.00
+121724578,place,horrible,NEG,1.0,environment,1.00
+117884167,budget hotel,best,POS,0.9997,price,1.00
+117884167,staff,fantastic,POS,1.0,service,1.00
+117884167,management,fantastic,POS,0.9996,service,1.00
+117884167,hotel,needs an upgrade,NEG,1.0,facility,0.93
+685101496,rim pool,great,POS,0.852,facility,1.00
+685101496,gym,great,POS,0.9648,facility,0.86
+685101496,restaurant,great,POS,0.7354,food,1.00
+685101496,gym,great view,POS,0.5563,facility,0.86
+685101496,restaurant,great view,POS,0.5594,food,1.00
+685101496,room,comfy,POS,1.0,facility,0.86
+685101496,bakung,does well,POS,0.3457,,
+295558103,hotel,works,NEG,1.0,facility,0.93
+295558103,room,dirty,NEG,0.9989,facility,0.86
+295558103,fridge,filthy,NEG,0.5951,facility,0.53
+295558103,sheet,threadbare,NEG,0.9951,facility,0.83
+295558103,towel,threadbare,NEG,0.9965,facility,0.71
+295558103,sheet,dirty colour,NEG,1.0,facility,0.83
+295558103,towel,dirty colour,NEG,1.0,facility,0.71
+295558103,staff,not rude,POS,0.9273,service,1.00
+295558103,staff,no help,NEG,0.9999,service,1.00
+295558103,room,old,NEG,0.9999,facility,0.86
+295558103,room,depressing,NEG,0.9992,facility,0.86
+295558103,breakfast,passable,POS,1.0,food,0.77
+227816563,place,clearly con the way up,POS,0.9999,environment,1.00
+227816563,improvement,lots,POS,1.0,service,0.90
+227816563,price,gem,POS,0.7576,price,1.00
+227816563,place,gem,POS,0.9602,environment,1.00
+227816563,pool,ice,POS,0.9997,facility,1.00
+227816563,room,clean,POS,0.997,facility,0.86
+227816563,garden,lovely,POS,0.9959,environment,0.75
+227816563,water pressure,little light,NEG,1.0,facility,0.92
+227816563,pool,broken tiles,NEG,1.0,facility,1.00
+227816563,breakfast,bit lean,NEG,0.9991,food,0.77
+227816563,cat,mangy,NEG,0.9664,environment,0.71
+227816563,cat floating,mangy,NEG,0.659,experience,0.74
+209982822,beach hotel,comfortable,POS,0.9997,facility,0.93
+209982822,beach hotel,affordable,POS,0.9989,facility,0.93
+209982822,this,convenient,POS,0.999,,
+209982822,shopping malls,close,POS,0.9998,environment,1.00
+209982822,lippomall,light next door,POS,0.6428,,
+209982822,discovery mall,light next door,POS,0.7716,environment,1.00
+209982822,discovery mall,15 mine walk,POS,0.9149,environment,1.00
+209982822,cupboard space,varied,POS,0.9998,environment,0.89
+209982822,terrace,has,NEU,1.0,facility,0.86
+107068313,room,filthy,NEG,1.0,facility,0.86
+107068313,room,smell of moth walls,NEG,0.8775,facility,0.86
+107068313,bathroom,didn ' t want tom use,NEG,0.697,facility,0.80
+107068313,hotel,terrible,NEG,0.5182,facility,0.93
+107068313,rack rates,cheaper,POS,0.6072,food,0.86
+107068313,place,needs tom lift its game,NEG,1.0,environment,1.00
+467159630,reception,refreshing smile,POS,0.5042,service,1.00
+467159630,room,eat,POS,0.9997,facility,0.86
+467159630,room,clean,POS,0.9993,facility,0.86
+467159630,bathroom,big,POS,0.9936,facility,0.80
+467159630,bathroom,clean,POS,0.9834,facility,0.80
+467159630,pool,large,POS,0.8436,facility,1.00
+467159630,main street,end of the lane,POS,0.5714,environment,0.71
+467159630,stall sellers,lovely,POS,0.9854,environment,0.82
+304503322,location,excellent,POS,0.9999,environment,1.00
+304503322,room,hand,POS,0.2746,facility,0.86
+304503322,room,back into the mall,NEG,0.4526,facility,0.86
+304503322,motorbike,back into the mall,NEG,0.4632,facility,0.60
+304503322,room,not cleaners,NEG,1.0,facility,0.86
+304503322,breakfast,poor,NEG,1.0,food,0.77
+304503322,pool bar,not open,NEG,0.9992,facility,1.00
+304503322,staff,issue,NEG,0.9998,service,1.00
+217696913,property,used,NEG,0.2769,facility,0.93
+217696913,life,easy,POS,0.8333,experience,0.92
+217696913,booking online,easy,POS,0.9903,service,0.89
+217696913,booking online,affordable,POS,0.9959,service,0.89
+217696913,sit,loved,POS,0.9978,experience,0.50
+217696913,lippo mall,new,POS,0.9889,environment,1.00
+217696913,lippo mall,next door,POS,0.9609,environment,1.00
+207804376,location,great,POS,1.0,environment,1.00
+207804376,staff,friendly,POS,0.9239,service,1.00
+207804376,bathroom,updated,POS,0.9779,facility,0.80
+207804376,bakung beach hotel,not the hilton,NEG,0.8296,facility,0.93
+207804376,beach hotel,not the hilton,NEG,0.4669,facility,0.93
+207804376,pool,clean,POS,0.5266,facility,1.00
+207070237,experience,great,POS,1.0,experience,1.00
+207070237,hotel,reaching for the stairs,POS,1.0,facility,0.93
+207070237,room,dingy,NEG,0.9682,facility,0.86
+207070237,breakfast menu,laughable,POS,0.6295,food,0.83
+207070237,hotel,undergone significant building renovations,NEG,0.9647,facility,0.93
+207070237,hotel,building renovations,NEG,0.8237,facility,0.93
+207070237,transport,close tom the airport,POS,0.3672,facility,0.80
+207070237,engineering skills,quaint,POS,0.9998,experience,0.80
+207070237,engineering skills,smile,POS,0.9194,experience,0.80
+142685672,upgrade,need of a goods,NEG,0.9996,service,0.86
+142685672,room,tiling floor tom ceiling,NEG,0.4624,facility,0.86
+142685672,product,lovely,POS,0.5222,facility,0.88
+142685672,hotel,recommend,POS,0.9939,facility,0.93
+142685672,manager,friendliness,POS,0.9839,environment,0.71
+142685672,staff,friendliness,POS,0.8482,service,1.00
+142685672,pool,lovely,POS,0.9999,facility,1.00
+142685672,garden,pretty,POS,0.5357,environment,0.75
+130559223,air con,little mouldy,NEG,0.5042,facility,0.83
+130559223,air con,worked well,POS,0.5024,facility,0.83
+130559223,sheet,clean,POS,0.9974,facility,0.83
+130559223,staff,friendly,POS,1.0,service,1.00
+130559223,room,recommend,POS,0.508,facility,0.86
+116001939,hotel,beautiful,POS,1.0,facility,0.93
+116001939,garden,amazing,POS,1.0,environment,0.75
+116001939,pool,great,POS,1.0,facility,1.00
+116001939,room,basic,NEU,1.0,facility,0.86
+116001939,bed,comfy,POS,0.9998,facility,0.89
+116001939,air con,goods,POS,0.9912,facility,0.83
+116001939,shower,goods,POS,0.9999,facility,1.00
+116001939,bathroom,small,NEG,0.9983,facility,0.80
+116001939,wall,things,NEG,1.0,facility,0.86
+116001939,staff,friendly,POS,1.0,service,1.00
+116001939,staff,helpful,POS,0.9999,service,1.00
+92852386,stay,enjoyed,POS,0.9895,experience,1.00
+92852386,staff,fantastic,POS,0.9996,service,1.00
+92852386,happy,friendly,POS,0.9471,experience,0.50
+92852386,staff,helpful,POS,0.6676,service,1.00
+92852386,room,cleaners,POS,0.9729,facility,0.86
+92852386,room,basic,NEU,0.5171,facility,0.86
+92852386,balcony,ice,POS,0.5007,facility,0.92
+92852386,pool,ice,POS,0.9993,facility,1.00
+92852386,breakfast,pritty,NEG,0.9369,food,0.77
+92852386,breakfast,basic,NEU,0.9871,food,0.77
+92852386,staff,definetly,POS,0.5779,service,1.00
+74857121,hotel,run down,NEG,1.0,facility,0.93
+74857121,hotel,cheap,POS,0.9867,facility,0.93
+74857121,situate,ideally,POS,1.0,environment,1.00
+74857121,tuban beach,five minutes walk,POS,0.5621,environment,0.67
+74857121,bathroom,clean,POS,0.9976,facility,0.80
+74857121,drain,grouting,NEG,0.7324,environment,0.71
+74857121,bathroom,grouting,NEG,0.9472,facility,0.80
+74857121,drain,rates,NEG,0.6468,environment,0.71
+74857121,bathroom,rates,NEG,0.9982,facility,0.80
+74857121,bakung ' s beach,air sharp,POS,0.999,,
+74857121,entertainmentt,free,POS,1.0,,
+74857121,pool,goods size,POS,0.9996,facility,1.00
+74857121,food,excellent,POS,0.9977,food,1.00
+29162261,room,pleased,POS,1.0,facility,0.86
+29162261,room,basic,NEU,1.0,facility,0.86
+29162261,pool,lovely,POS,1.0,facility,1.00
+29162261,breakfast,basic,NEU,1.0,food,0.77
+29162261,honey pancake,goods,POS,1.0,food,0.77
+29162261,food,goods,POS,1.0,food,1.00
+29162261,trip,only about 10 mins,POS,0.3978,experience,0.92
+493882930,place,horrible,NEG,1.0,environment,1.00
+493882930,room,poor condition,NEG,0.9999,facility,0.86
+493882930,room changes,poor condition,NEG,0.9999,facility,0.86
+493882930,bathroom,dirty,NEG,1.0,facility,0.80
+493882930,hot water,pool operating,NEG,1.0,environment,0.71
+493882930,breakfast,rubbish,NEG,0.9998,food,0.77
+493882930,pool,over chlorine,NEG,0.985,facility,1.00
+493882930,pool,chlorine,NEG,0.9962,facility,1.00
+493882930,pool,ice,POS,1.0,facility,1.00
+493882930,mall,beside,POS,0.9985,environment,1.00
+493882930,car park,noisy,NEG,0.9999,environment,0.75
+493882930,room,pool lit,NEG,1.0,facility,0.86
+493882930,room,basic,NEU,1.0,facility,0.86
+493882930,ceiling,rates,NEG,1.0,facility,0.67
+493882930,ceiling,squirrels,NEG,1.0,facility,0.67
+493882930,stay,will put a dark cloud,POS,0.4921,experience,1.00
+492638943,this place,negative reviews,NEG,1.0,environment,1.00
+492638943,kuta beach,close proximity,POS,0.617,environment,0.67
+492638943,place,pleased,POS,1.0,environment,1.00
+492638943,air condition,leaked,NEG,0.9999,environment,0.91
+492638943,bathroom,clogged,NEG,0.999,facility,0.80
+492638943,staff members,friendly,POS,0.9993,service,0.95
+492638943,breakfast,decent,NEU,0.9999,food,0.77
+492638943,place,recommend,POS,1.0,environment,1.00
+457745719,hotel,love everything,POS,1.0,facility,0.93
+457745719,beach,5 minutes walk,POS,0.9987,environment,0.67
+457745719,beach,minutes walk,POS,1.0,environment,0.67
+457745719,food,easy tom find,POS,1.0,food,1.00
+457745719,airport,near,POS,1.0,environment,1.00
+457745719,lippo mall,next tom,POS,0.7194,environment,1.00
+457745719,room,big,POS,1.0,facility,0.86
+457745719,room,already renovated,POS,0.9999,facility,0.86
+324315173,time,fabulous,POS,1.0,experience,0.92
+324315173,view,westerly,POS,0.9823,environment,1.00
+324315173,room,clean,POS,0.9997,facility,0.86
+324315173,room,comfortable,POS,0.9994,facility,0.86
+324315173,room,tidy,POS,0.9993,facility,0.86
+324315173,balcony,goods size,POS,0.8928,facility,0.92
+324315173,balcony,decent,POS,0.473,facility,0.92
+324315173,air conditioner,worked perfectly,POS,0.682,facility,0.67
+324315173,shower water,low,NEG,0.7213,facility,1.00
+324315173,shower water pressure,low,NEG,1.0,facility,1.00
+324315173,staff,lovely,POS,0.9997,service,1.00
+324315173,staff,happy,POS,0.9338,service,1.00
+324315173,staff,welcoming,POS,0.9961,service,1.00
+324315173,breakfast,enjoyed,POS,1.0,food,0.77
+324315173,pool,enjoyed,POS,1.0,facility,1.00
+324315173,location,excellent,POS,1.0,environment,1.00
+323343135,sit,fine,POS,0.975,experience,0.50
+323343135,hotel,fine,POS,0.9825,facility,0.93
+323343135,sit,clean,POS,0.9961,experience,0.50
+323343135,hotel,clean,POS,0.6312,facility,0.93
+323343135,sit,tidy,POS,0.9894,experience,0.50
+323343135,hotel,goods,POS,1.0,facility,0.93
+323343135,staff,great,POS,1.0,service,1.00
+323343135,staff,pleasant,POS,0.9537,service,1.00
+323343135,people,pleasant,POS,0.6599,service,0.55
+323343135,food,goods,POS,0.9999,food,1.00
+323343135,shop,central,POS,0.9821,experience,1.00
+323343135,restaurant,central,POS,0.9996,food,1.00
+323343135,swim up bar,well maintained,POS,0.5117,experience,0.78
+323343135,garden,well maintained,POS,0.999,environment,0.75
+323343135,room,well maintained,POS,0.9998,facility,0.86
+298999201,room,clean,POS,0.9997,facility,0.86
+298999201,ground,eat,POS,0.9976,environment,0.95
+298999201,ground,tidy,POS,0.8529,environment,0.95
+298999201,staff,friendly,POS,0.9778,service,1.00
+298999201,price,goods,POS,0.9984,price,1.00
+298999201,location,goods,POS,1.0,environment,1.00
+298999201,location,not too noisy,POS,1.0,environment,1.00
+298999201,money,worth,POS,1.0,price,0.88
+250458639,value for money,excellent,POS,0.9913,price,0.92
+250458639,location,great,POS,0.9983,environment,1.00
+250458639,room,spacious,POS,1.0,facility,0.86
+250458639,bed,hard,NEG,0.9987,facility,0.89
+250458639,bed,comfy,POS,0.9992,facility,0.89
+250458639,pillow,extra,POS,0.98,facility,0.71
+250458639,air conditioner,worked well,NEU,1.0,facility,0.67
+250458639,bed bugs,no,NEG,0.9999,environment,0.74
+250458639,bathroom –,smell from the drain,NEG,0.9959,facility,0.80
+250458639,towel,old,NEG,1.0,facility,0.71
+250458639,towel,clean,POS,0.9833,facility,0.71
+250458639,pool,quite deep,NEG,0.9999,facility,1.00
+250458639,pool –,quite deep,NEG,0.7712,facility,1.00
+250458639,pool,not over chlorine,NEG,1.0,facility,1.00
+250458639,pool bar,closed,NEG,1.0,facility,1.00
+250458639,bar drink prices,reasonable,POS,0.9913,food,1.00
+250458639,staff,fantastic,POS,1.0,service,1.00
+247485586,room,comfortable,POS,0.9992,facility,0.86
+247485586,pool,excellent,POS,0.9998,facility,1.00
+247485586,staff,friendly,POS,1.0,service,1.00
+247485586,tuban beach,minutes walk,POS,0.5359,environment,0.67
+247485586,food,great,POS,1.0,food,1.00
+247485586,price,great,POS,1.0,price,1.00
+247485586,lippo mall,next door,POS,0.9795,environment,1.00
+237192799,room,acceptable,POS,0.9987,facility,0.86
+237192799,door,not sealed,NEG,1.0,facility,0.92
+237192799,door,have big gaps,NEG,0.9801,facility,0.92
+237192799,door,big gaps,NEG,0.9989,facility,0.92
+237192799,floor,filthy,NEG,0.9972,facility,0.92
+237192799,floor,sandy,NEG,0.9978,facility,0.92
+237192799,grout,gross,NEG,0.9977,facility,0.67
+237192799,wardrobe,smell terrible,NEG,0.9996,facility,0.94
+237192799,wardrobe,don ' t close,NEG,0.9346,facility,0.94
+237192799,light,appalling,NEG,0.9994,environment,0.83
+237192799,room,in ' t dark,NEG,1.0,facility,0.86
+214747320,hotel,cheap,POS,0.9978,facility,0.93
+214747320,location,goods,POS,0.794,environment,1.00
+214747320,room,reasonable,POS,0.9962,facility,0.86
+214747320,room,noisy,NEG,0.8633,facility,0.86
+214747320,room,well fitted out,POS,0.9995,facility,0.86
+214747320,room,clean,POS,0.999,facility,0.86
+214747320,pool,small,NEG,1.0,facility,1.00
+214747320,breakfast,limited,NEG,1.0,food,0.77
+214747320,egg,no variety,NEG,0.6409,food,0.83
+214747320,staff,great,POS,1.0,service,1.00
+214747320,staff,helpfull,POS,1.0,service,1.00
+207448181,hotel,amazing,POS,1.0,facility,0.93
+207448181,price,amazing,POS,0.9993,price,1.00
+207448181,that,doesnt get much better,NEG,0.9991,,
+207448181,main kuta drag,closer,POS,0.9477,facility,0.71
+207448181,kuta drag,closer,POS,0.8601,facility,0.71
+207448181,location,great,POS,1.0,environment,1.00
+207448181,scooter,5 mins,POS,0.7807,facility,0.71
+207448181,kuta,5 mins,POS,0.5173,,
+207448181,shop,great,POS,0.9997,experience,1.00
+207448181,massage nails,great,POS,0.9993,environment,0.86
+207448181,pool,fantastic,POS,1.0,facility,1.00
+207448181,room,clean,POS,1.0,facility,0.86
+207448181,room,modern,POS,0.9955,facility,0.86
+207448181,wifi,free,POS,0.9983,facility,0.63
+207448181,breakfast,ok,NEU,1.0,food,0.77
+201968109,hotel,ice clean,POS,0.9739,facility,0.93
+201968109,hotel,clean,POS,0.9628,facility,0.93
+201968109,hotel,cheap,POS,1.0,facility,0.93
+201968109,room,big,POS,0.9741,facility,0.86
+201968109,room,big room,POS,0.8521,facility,0.86
+201968109,shower,comfortable,POS,0.4213,facility,1.00
+201968109,shower,hot,POS,0.5104,facility,1.00
+201968109,reception area,nightmare,NEG,0.6467,service,1.00
+186211023,review,disagree,NEG,0.5527,experience,0.80
+186211023,locate,well,POS,1.0,environment,1.00
+186211023,staff,smiling,POS,1.0,service,1.00
+186211023,staff,friendly,POS,0.9999,service,1.00
+186211023,staff,willing tom help,POS,1.0,service,1.00
+186211023,room,have recently been renovated,NEG,0.9603,facility,0.86
+184207132,deal,cheap,POS,1.0,experience,0.77
+184207132,room,large,POS,0.9989,facility,0.86
+184207132,room,clean,POS,0.9977,facility,0.86
+184207132,room,spacious,POS,0.9971,facility,0.86
+184207132,bed,comfy,POS,0.9989,facility,0.89
+184207132,hotel,every central,POS,0.8899,facility,0.93
+184207132,restaurant,not great,NEG,0.998,food,1.00
+184207132,pool,not enough sun loungers,NEG,0.9994,facility,1.00
+184207132,service,fantastic,POS,1.0,service,1.00
+184207132,staff,warm,POS,1.0,service,1.00
+184207132,staff,welcoming,POS,0.9994,service,1.00
+184207132,staff,helpful,POS,0.9998,service,1.00
+176944786,security guard,friendly,POS,1.0,environment,0.67
+176944786,porter,ice,POS,0.8677,service,0.95
+176944786,security,ice,POS,0.9783,service,1.00
+176944786,deluxe double room,ok,POS,0.6344,facility,0.86
+176944786,sit,clean,POS,1.0,experience,0.50
+176944786,room,cleaners,POS,1.0,facility,0.86
+176944786,wifi,free,POS,0.9998,facility,0.63
+176944786,wifi,goods,POS,0.9945,facility,0.63
+176944786,tv,annoying,NEG,0.9426,facility,0.67
+176944786,same restaurant,rate,POS,0.3167,food,1.00
+171419976,resort,impressive,POS,1.0,facility,0.88
+171419976,locate,fortunately,POS,0.9949,environment,1.00
+171419976,locate,short walk,POS,0.5895,environment,1.00
+171419976,staff,friendly,POS,0.9999,service,1.00
+171419976,room,basic,NEU,0.9999,facility,0.86
+171419976,bed,comfortable,POS,0.9993,facility,0.89
+171419976,air con,comfortable,POS,0.985,facility,0.83
+171419976,pool,ice,POS,1.0,facility,1.00
+171419976,budget,great,POS,1.0,price,1.00
+171419976,place,luxury,POS,0.9996,environment,1.00
+171419976,value,great,POS,0.9943,price,0.92
+171419976,money,great,POS,0.722,price,0.88
+171419976,surf spot,great,POS,1.0,facility,0.88
+150752275,party,stayed,NEU,0.6637,environment,0.80
+150752275,room,efficiently,POS,0.4535,facility,0.86
+150752275,price,reasonable,POS,1.0,price,1.00
+150752275,staff,attentive,POS,1.0,service,1.00
+150752275,staff,kind,POS,1.0,service,1.00
+150752275,room,comfortable,POS,0.9988,facility,0.86
+150752275,room,dated,NEG,0.9967,facility,0.86
+150752275,atmosphere,un,NEG,0.9995,environment,1.00
+150752275,atmosphere,pretentious,POS,1.0,environment,1.00
+150752275,mixture,old,NEG,0.761,food,0.83
+148688286,hotel,fully booked,POS,1.0,facility,0.93
+148688286,say,ok,POS,0.2903,environment,0.57
+148688286,room,no courtesy,NEG,0.9968,facility,0.86
+148688286,explain,no courtesy,NEG,0.6902,service,0.67
+130403625,place,old,NEG,0.9032,environment,1.00
+130403625,place,cheap,POS,0.9982,environment,1.00
+130403625,place,matched its dollar value,POS,0.6589,environment,1.00
+130403625,room,clean,POS,0.9998,facility,0.86
+130403625,bathroom,clean,POS,0.9981,facility,0.80
+130403625,towel,clean,POS,0.9998,facility,0.71
+130403625,towel,grey,NEG,0.9999,facility,0.71
+130403625,light switches,filthy,NEG,0.9969,environment,0.83
+130403625,these,hadn ' t been cleaners,NEG,0.9521,,
+130403625,pool,lovely,POS,0.9998,facility,1.00
+130403625,ground,lovely,POS,0.9999,environment,0.95
+130403625,staff,polite,POS,0.9999,service,1.00
+130403625,staff,not over friendly,NEG,0.9926,service,1.00
+130403625,this,recommend,POS,0.9899,,
+130403625,coffee,no,NEG,0.5837,food,0.83
+596478186,sit,spacious,POS,0.6041,experience,0.50
+596478186,pool,big,POS,0.9192,facility,1.00
+596478186,room,large,POS,0.9796,facility,0.86
+596478186,room,so close,POS,0.683,facility,0.86
+596478186,everything,so close,POS,0.7984,,
+596478186,shopping malls,so close,POS,0.7742,environment,1.00
+596478186,room,close,POS,0.5906,facility,0.86
+596478186,everything,close,POS,0.624,,
+596478186,shopping malls,close,POS,0.8917,environment,1.00
+596478186,stay,goods,POS,0.8611,experience,1.00
+596478186,stay,little tired,NEG,0.9888,experience,1.00
+596478186,pool,missing tiles,NEG,0.9998,facility,1.00
+596478186,room,not really,NEG,0.9637,facility,0.86
+596478186,room,not really as described,NEG,0.995,facility,0.86
+596478186,superior room,deluxe,POS,0.4437,facility,0.86
+581303283,balcony,garden view,POS,0.9976,facility,0.92
+581303283,room,clean,POS,0.9998,facility,0.86
+581303283,room,simple,NEU,0.9726,facility,0.86
+581303283,drain,doesn ` t works,NEG,0.9387,environment,0.71
+581303283,bathroom,doesn ` t works,NEG,1.0,facility,0.80
+581303283,water,can bed building hot,NEG,1.0,facility,0.92
+581303283,water,building hot,NEG,1.0,facility,0.92
+581303283,main road,close,POS,0.9834,environment,0.80
+581303283,lippo mall,close,POS,0.977,environment,1.00
+581303283,restaurant,close,POS,0.803,food,1.00
+581303283,pool,ice,POS,1.0,facility,1.00
+581303283,garden,beautiful,POS,0.9998,environment,0.75
+549405211,hotel,bad,NEG,1.0,facility,0.93
+549405211,service,shocking,NEG,0.9789,service,1.00
+549405211,service,not every heplful,NEG,0.9998,service,1.00
+549405211,pathway,dangerous,NEG,0.9999,environment,0.80
+549405211,pathway,not levels eat mall,NEG,0.998,environment,0.80
+549405211,slippery,we,NEG,0.9982,experience,0.50
+549405211,room,basic,NEU,1.0,facility,0.86
+549405211,bed,hard,NEG,1.0,facility,0.89
+549405211,bathroom,basic,NEU,1.0,facility,0.80
+549405211,bathroom,dirty,NEG,1.0,facility,0.80
+549405211,air,loud,NEG,1.0,facility,0.83
+549405211,breakfast,coverage,NEU,1.0,food,0.77
+544278109,premise,bad,NEG,1.0,service,0.53
+544278109,staff,friendly,POS,0.9964,service,1.00
+544278109,staff,not knowledgeable,NEG,0.9984,service,1.00
+544278109,bed,hard,NEG,1.0,facility,0.89
+544278109,towel,clean,POS,1.0,facility,0.71
+544278109,breakfast,in ’ t recommended,NEG,1.0,food,0.77
+544278109,massage place,goods,POS,0.9998,environment,1.00
+544278109,massage place,cheap,POS,1.0,environment,1.00
+531121159,room,booked,NEU,1.0,facility,0.86
+531121159,staff,unfriendly,NEG,1.0,service,1.00
+531121159,extra bed,got,POS,0.7596,facility,0.89
+531121159,room,dirty,NEG,1.0,facility,0.86
+531121159,bathroom,cockrouches,NEG,1.0,facility,0.80
+531121159,shower,cold,NEG,1.0,facility,1.00
+531121159,fridge,did not works,NEG,1.0,facility,0.53
+531121159,pool,ice,POS,1.0,facility,1.00
+531121159,place,every going back,NEG,0.9265,environment,1.00
+531121159,place,no one,NEG,0.9223,environment,1.00
+530082607,bed,extra,POS,0.9999,facility,0.89
+530082607,the pool,broken,NEG,0.9465,facility,1.00
+530082607,ph levels,well of,NEG,0.774,,
+530082607,room,spacious,POS,0.9393,facility,0.86
+530082607,room,pool equipped,NEG,0.9975,facility,0.86
+530082607,bathroom,poor start,NEG,0.9999,facility,0.80
+530082607,air cons,worked quite well,NEU,0.9866,facility,0.83
+530082607,tom cats,aroma,NEG,0.891,environment,0.82
+530082607,room,aroma,NEG,0.637,facility,0.86
+530082607,tom cats,could not bed removed,NEG,0.5856,environment,0.82
+530082607,breakfast,adequate,POS,0.9999,food,0.77
+530082607,breakfast,not great,NEG,1.0,food,0.77
+530082607,feature,works,NEG,1.0,facility,0.88
+530082607,bed bug,shocking,NEG,0.8067,environment,0.74
+530082607,holiday,quite spot,NEG,0.8571,experience,1.00
+530082607,hotel,low price,NEG,0.6259,facility,0.93
+530082607,issue,inexcusable,POS,0.9998,experience,0.86
+493740830,breakfast,terrible,NEG,1.0,food,0.77
+493740830,staff,lovely,POS,1.0,service,1.00
+493740830,this,unprofessional,NEG,0.9984,,
+493740830,bathroom,clogged,NEG,1.0,facility,0.80
+493740830,this,would bed fixed,NEG,0.4636,,
+493740830,this,clogging,NEG,0.9545,,
+487192308,sit,great,POS,1.0,experience,0.50
+487192308,sit,enjoyed,POS,1.0,experience,0.50
+487192308,pay,given,POS,0.9769,price,0.78
+487192308,people,best,POS,0.9999,service,0.55
+487192308,hotel,best,POS,0.9995,facility,0.93
+487192308,come back,always,POS,0.5005,experience,0.33
+487192308,critic,get a life,POS,0.9999,environment,0.71
+475201985,room,coverage,NEU,0.9909,facility,0.86
+475201985,staff,ice,POS,0.7089,service,1.00
+475201985,staff,green,POS,0.4581,service,1.00
+475201985,fine pool bar,ok,POS,0.3293,facility,1.00
+475201985,pool bar,ok,POS,0.3259,facility,1.00
+475201985,staff,freindly,POS,0.6352,service,1.00
+450591603,kuta beach,walking distance,POS,0.8336,environment,0.67
+450591603,breakfast,not that great,NEG,1.0,food,0.77
+450591603,property,old,NEG,1.0,facility,0.93
+450591603,value for money,goods,POS,0.9998,price,0.92
+450591603,location,great,POS,1.0,environment,1.00
+440771094,bed,clean,POS,0.9952,facility,0.89
+440771094,bed,quiet,POS,0.6797,facility,0.89
+440771094,surfer,lots,POS,0.9994,environment,0.71
+440771094,boat,every close,POS,0.9998,facility,0.71
+440771094,price,great,POS,1.0,price,1.00
+434515617,location,loved,POS,0.997,environment,1.00
+434515617,hotel,jewel in the rough,POS,0.9456,facility,0.93
+434515617,pool,lovely,POS,0.9963,facility,1.00
+434515617,garden,lovely,POS,0.9695,environment,0.75
+434515617,temple,interesting,POS,0.5773,facility,0.93
+434515617,temple ' s,interesting,POS,0.5869,facility,0.93
+434515617,tile floors,spotless,POS,0.9999,facility,0.92
+434515617,room,have been recently renovated,NEG,0.9289,facility,0.86
+434515617,shower,dislike,NEG,0.9959,facility,1.00
+434515617,bathroom,ice size,POS,0.996,facility,0.80
+434515617,shower area,shelf,NEG,0.5919,facility,1.00
+430439032,pool,ice,POS,0.9992,facility,1.00
+426871952,hotel,stayed,NEU,1.0,facility,0.93
+426871952,supermarket,ice,POS,0.5238,environment,0.82
+426871952,beach,close,POS,0.4667,environment,0.67
+426871952,pool,every ice,POS,0.4079,facility,1.00
+426871952,pool,big,POS,0.5333,facility,1.00
+426871952,bed,beautiful,POS,0.6438,facility,0.89
+426871952,air conditioner,worked,POS,0.5314,facility,0.67
+426871952,room,eat,POS,0.6825,facility,0.86
+338089033,room,not ready,NEG,1.0,facility,0.86
+338089033,towel,stained linen,NEG,0.8345,facility,0.71
+338089033,bed,grey,NEG,0.9997,facility,0.89
+338089033,bed,honey,NEG,0.9998,facility,0.89
+338089033,a / c,broken,NEG,0.9999,,
+338089033,pillow,wouldn ' t give extra blankets,NEG,0.8294,facility,0.71
+338089033,hot water,unreliable,NEG,1.0,environment,0.71
+338089033,hot water,hot,NEG,0.9958,environment,0.71
+338089033,tile,broken,NEG,1.0,facility,0.71
+338089033,shower,broken,NEG,0.9857,facility,1.00
+338089033,breakfast,ordinary,NEU,1.0,food,0.77
+338089033,restaurant staff,goods,POS,0.9956,food,1.00
+338089033,office staff,not every helpful,NEG,0.9999,service,0.93
+338089033,office staff,ice,POS,0.9975,service,0.93
+338089033,place,will every return,NEG,0.9931,environment,1.00
+338089033,place,recommend,POS,0.9998,environment,1.00
+315473991,brekky,goods value,POS,0.9997,,
+315473991,thing,need attention,NEG,1.0,facility,0.88
+315473991,ground,ice,POS,0.9984,environment,0.95
+315473991,pool,ice,POS,0.9981,facility,1.00
+315473991,restaurant,ice,POS,0.9965,food,1.00
+315473991,room,basic,NEU,1.0,facility,0.86
+315473991,staff,freindly,POS,0.9999,service,1.00
+315473991,position,central,POS,0.9949,environment,1.00
+315473991,beach,close,POS,0.8116,environment,0.67
+315473991,kuta square,close,POS,0.7316,facility,0.83
+315473991,night,quiet,POS,0.9996,experience,0.71
+315473991,airport,close,POS,1.0,environment,1.00
+315473991,pool,large,POS,1.0,facility,1.00
+315473991,main section,deep,NEG,0.9972,service,0.95
+315473991,towel,can bed scarce,NEG,1.0,facility,0.71
+315473991,bed,comfy,POS,1.0,facility,0.89
+315473991,air con,comfy,POS,0.9816,facility,0.83
+315473991,tv,comfy,POS,0.998,facility,0.67
+315473991,water,daily free,POS,0.9758,facility,0.92
+303035548,hotel,coming,POS,0.6783,facility,0.93
+303035548,location,great,POS,0.9997,environment,1.00
+303035548,beach,short walk,POS,0.948,environment,0.67
+303035548,kuta square,short walk,POS,0.9841,facility,0.83
+303035548,room,clean,POS,1.0,facility,0.86
+303035548,food,not bad,NEU,0.9731,food,1.00
+303035548,staff,fantastic,POS,1.0,service,1.00
+303035548,staff,helpful,POS,1.0,service,1.00
+303035548,garden surrounds,great,POS,1.0,environment,1.00
+260967838,room,simple,POS,0.9873,facility,0.86
+260967838,bed,fine,POS,1.0,facility,0.89
+260967838,bed,clean,POS,1.0,facility,0.89
+260967838,pool,ice,POS,1.0,facility,1.00
+260967838,pool,chlorine,NEG,0.991,facility,1.00
+260967838,breakfast,toast,POS,0.9971,food,0.77
+260967838,people,friendly,POS,1.0,service,0.55
+260967838,people,helpful,POS,1.0,service,0.55
+260967838,location,goods,POS,1.0,environment,1.00
+260967838,moll,next,POS,0.7791,environment,0.63
+260967838,moll,next tom,POS,0.5262,environment,0.63
+260967838,restaurant,walking distance,POS,1.0,food,1.00
+260967838,mini markets,walking distance,POS,1.0,environment,1.00
+260967838,airport,10 minutes,POS,0.5571,environment,1.00
+241044724,money,value,POS,0.9998,price,0.88
+241044724,room,ok,NEU,0.9994,facility,0.86
+241044724,air conditioner,works great,POS,0.9634,facility,0.67
+241044724,pool,great,POS,0.9999,facility,1.00
+241044724,pool,every big,NEG,0.9882,facility,1.00
+241044724,location,not the best,NEG,1.0,environment,1.00
+241044724,drink,well priced,POS,0.9979,food,0.91
+241044724,bar staff,friendly,POS,0.67,food,1.00
+241044724,staff,friendly,POS,0.9585,service,1.00
+240468031,beach,awesome,POS,0.9943,environment,0.67
+240468031,room,spacious,POS,0.9357,facility,0.86
+240468031,wifi,excellent,POS,0.9975,facility,0.63
+240468031,bed,hard,NEG,1.0,facility,0.89
+240468031,staff,excellent,POS,1.0,service,1.00
+240468031,staff,every happy,POS,0.9994,service,1.00
+240468031,staff,fun tom bed around,POS,0.9947,service,1.00
+233047764,room,basic,NEU,0.8894,facility,0.86
+233047764,room,spacious,POS,0.9241,facility,0.86
+233047764,room,cleaners,POS,0.9892,facility,0.86
+225589608,location,perfect,POS,1.0,environment,1.00
+225589608,nightclub scene,far,NEG,0.7925,environment,1.00
+225589608,nightclub scene,garden ' t disturbed,NEG,1.0,environment,1.00
+225589608,lippo mall,next door,POS,0.5971,environment,1.00
+225589608,room,basic,NEU,0.9999,facility,0.86
+225589608,room,have mall,POS,0.8594,facility,0.86
+225589608,balcony,ice,POS,0.9987,facility,0.92
+225589608,drink,ice,POS,0.9396,food,0.91
+225589608,breakfast,ok,NEU,0.9918,food,0.77
+225589608,breakfast,few choices,NEG,0.6989,food,0.77
+225589608,pool,relaxing,POS,0.9999,facility,1.00
+216138052,hotel,cheap,POS,0.9981,facility,0.93
+216138052,hotel,basic,NEU,0.9962,facility,0.93
+216138052,room,large,POS,0.9996,facility,0.86
+216138052,room,comfortable,POS,0.9994,facility,0.86
+216138052,room,dated,NEG,0.9998,facility,0.86
+216138052,breakfast,basic,NEU,1.0,food,0.77
+216138052,pool area,ice,POS,1.0,facility,1.00
+216138052,kuta reef,every close,POS,0.9951,facility,0.83
+216138052,airport,every close,POS,0.9973,environment,1.00
+216138052,sit,fine,NEU,0.9343,experience,0.50
+216138052,ritz,fine,NEG,0.6545,facility,0.88
+215449835,beach description,captured,POS,0.7797,facility,0.82
+215449835,beach,100 meters,POS,0.7459,environment,0.67
+215449835,shop,walking distance,POS,1.0,experience,1.00
+215449835,room,clean,POS,0.9999,facility,0.86
+215449835,brekky,price,POS,0.6113,,
+215449835,store keepers,harassed,NEG,0.9742,environment,0.90
+215449835,double six beach,google map,POS,0.9615,environment,0.80
+215449835,hard rock hotel,google map,POS,0.567,facility,0.93
+215449835,other,far,NEG,0.542,experience,0.50
+215449835,beach locations,best,POS,1.0,environment,1.00
+208646889,choice,short,NEG,0.6059,experience,0.77
+208646889,showers drain,awful,NEG,0.6266,facility,1.00
+208646889,spring,were broken,NEG,0.5044,environment,0.77
+206729556,this,rustic,POS,0.9658,,
+206729556,property,place,POS,0.7431,facility,0.93
+206729556,property,value for money,POS,0.5358,facility,0.93
+206729556,pool,small,NEG,1.0,facility,1.00
+206729556,pool,clean,POS,0.9996,facility,1.00
+206729556,seperate coffee bar,adjacent,POS,0.7483,food,1.00
+206729556,room,clean,POS,1.0,facility,0.86
+198975217,room,clean,POS,0.9979,facility,0.86
+198975217,air conditioner,worked,POS,0.8714,facility,0.67
+198975217,air conditioner,ice,POS,0.5155,facility,0.67
+198975217,balcony,ice,POS,0.6251,facility,0.92
+198975217,garden,maintained,POS,0.731,environment,0.75
+198975217,shopping center,new,POS,0.5277,environment,1.00
+198975217,beach,quick walk,POS,0.4964,environment,0.67
+189571380,money,value,POS,1.0,price,0.88
+189571380,air conditioner,goods,POS,1.0,facility,0.67
+189571380,hot water,goods,POS,1.0,environment,0.71
+189571380,bed,large,POS,1.0,facility,0.89
+189571380,room,large,POS,0.9952,facility,0.86
+189571380,room,spacious,POS,0.999,facility,0.86
+189571380,staff,friendly,POS,0.9986,service,1.00
+189571380,swimming pool,large,POS,0.9983,facility,0.86
+189571380,garden,large,POS,0.9893,environment,0.75
+189571380,location,goods,POS,0.9953,environment,1.00
+189571380,food,lot,NEG,0.9865,food,1.00
+186794465,staff,friendly,POS,1.0,service,1.00
+186794465,room,old,NEG,1.0,facility,0.86
+186794465,room,outdated,NEG,1.0,facility,0.86
+186794465,room,infested with mosquitos,NEG,1.0,facility,0.86
+186794465,bed,bed bugs,NEG,0.9996,facility,0.89
+186794465,room,noisy,NEG,0.9991,facility,0.86
+186794465,food,didnt looks goods,NEG,0.8739,food,1.00
+186794465,hotel,more of a hotel,NEG,0.9988,facility,0.93
+186794465,money,save,POS,0.9997,price,0.88
+186596097,hotel,simple,NEU,0.9949,facility,0.93
+186596097,location,goods,POS,1.0,environment,1.00
+186596097,room,basic,NEU,0.9998,facility,0.86
+186596097,bed,little too firm,NEG,0.9998,facility,0.89
+186596097,air conditioner,other is,NEU,1.0,facility,0.67
+186596097,fridge,other is,NEU,1.0,facility,0.53
+186596097,beach,close,POS,0.8362,environment,0.67
+186596097,food,basic,NEU,1.0,food,1.00
+183336044,bali,love,POS,1.0,environment,0.60
+183336044,culture,love,POS,0.9997,service,0.91
+183336044,lifestyle,love,POS,0.9998,environment,0.55
+183336044,traditional balinese hotel,wanted,NEU,0.4269,facility,0.93
+183336044,atmosphere,ice,POS,0.9999,environment,1.00
+183336044,garden,beautiful,POS,0.9996,environment,0.75
+183336044,pool,beautiful,POS,0.9211,facility,1.00
+183336044,restaurant,ice,POS,1.0,food,1.00
+183336044,new travellers,have a bit of advice,POS,0.7182,environment,0.80
+183336044,room,excellent,POS,1.0,facility,0.86
+183336044,staff,goods,POS,0.9789,service,1.00
+183336044,staff,helpful,POS,0.9999,service,1.00
+183336044,hotel,problems,NEG,1.0,facility,0.93
+183336044,problem,not difficult tom solve,POS,1.0,environment,0.77
+183336044,hotel,love,POS,1.0,facility,0.93
+183336044,time,great,POS,1.0,experience,0.92
+182172474,family budget hotel,ice,POS,0.9978,price,1.00
+182172474,garden,ice,POS,0.9999,environment,0.75
+182172474,wifi,free,POS,1.0,facility,0.63
+182172474,size swimming pool,goods,POS,0.5699,facility,1.00
+182172474,swimming pool,goods,POS,0.8766,facility,0.86
+182172474,swimming pool,carefull,POS,0.5463,facility,0.86
+182172474,child pool,no small,NEG,0.6155,facility,1.00
+182172474,breakfast,basic,NEU,1.0,food,0.77
+182172474,location,near tom airport,POS,0.9999,environment,1.00
+182172474,location,goods,POS,0.9998,environment,1.00
+181442748,price,outstanding,POS,0.9998,price,1.00
+181442748,room,tired,NEG,0.9937,facility,0.86
+181442748,room,dated,NEG,0.9981,facility,0.86
+181442748,room,clean,POS,0.6177,facility,0.86
+181442748,pool,large,POS,1.0,facility,1.00
+181442748,pool,clean,POS,0.9999,facility,1.00
+181442748,price,reasonable,POS,1.0,price,1.00
+181442748,stair,lot,POS,0.8269,facility,0.71
+181442748,overall,fussy,NEG,0.8724,facility,0.67
+172992949,beach,short walk,POS,0.9999,environment,0.67
+172992949,shopping complex,filling with tenants,NEG,0.4986,experience,1.00
+172992949,supermarket,great,POS,1.0,environment,0.82
+172992949,discovery plaza,short walk,POS,1.0,environment,1.00
+172992949,kuta square,short walk,POS,1.0,facility,0.83
+172992949,airport,close,POS,0.6131,environment,1.00
+166454674,lady in reception,pleasant,POS,0.9997,environment,0.71
+166454674,lady in reception,welcoming,POS,0.9995,environment,0.71
+166454674,room,clean,POS,0.9997,facility,0.86
+166454674,room,basic,NEU,1.0,facility,0.86
+166454674,room,comfortable,POS,0.9996,facility,0.86
+166454674,breakfast,goods,POS,1.0,food,0.77
+166454674,hotel,short walk,POS,0.989,facility,0.93
+166454674,tuban beach,short walk,POS,0.739,environment,0.67
+166454674,kuta shops,short walk,POS,0.9949,experience,1.00
+166454674,swimming pool,lovely,POS,1.0,facility,0.86
+166454674,bakung beach hotel,recommend,POS,0.923,facility,0.93
+165137046,reno ' d section,visit,NEG,0.4366,environment,0.71
+165137046,room,close,POS,0.488,facility,0.86
+165137046,pool,close,POS,0.9644,facility,1.00
+165137046,amenity,close,POS,0.933,facility,1.00
+165137046,work,every,NEG,0.7194,service,0.94
+165137046,bathroom,clean,POS,0.9996,facility,0.80
+165137046,bathroom,eat,POS,0.9995,facility,0.80
+165137046,bathroom,tidy,POS,0.9987,facility,0.80
+165137046,water,collected,NEG,0.3496,facility,0.92
+165137046,towel,more,NEG,0.9583,facility,0.71
+165137046,see,ice,POS,1.0,experience,1.00
+165137046,pool,goods,POS,1.0,facility,1.00
+165137046,pool,well kept,POS,0.9999,facility,1.00
+158568348,stay,fabulous,POS,1.0,experience,1.00
+158568348,location,best,POS,1.0,environment,1.00
+158568348,beach,close,POS,0.9993,environment,0.67
+158568348,restaurant,great,POS,0.9989,food,1.00
+158568348,meal,fantastic,POS,1.0,food,0.83
+158568348,price,fantastic,POS,0.9803,price,1.00
+158568348,facility,goods,POS,0.9987,facility,1.00
+158568348,facility,clean,POS,0.8737,facility,1.00
+158568348,towel,needed an update,NEG,0.9995,facility,0.71
+158568348,pool,great relaxing,POS,0.9998,facility,1.00
+158568348,staff,attentive,POS,1.0,service,1.00
+158568348,staff,obliging,POS,0.9999,service,1.00
+158568348,stay,enjoyable,POS,0.6856,experience,1.00
+158568348,bakung,above my expectations,POS,0.9989,,
+146055449,staff,pleasant,POS,1.0,service,1.00
+146055449,staff,ready tom help,POS,1.0,service,1.00
+146055449,staff,eager tom service,POS,0.9571,service,1.00
+146055449,facility,older,NEG,0.4524,facility,1.00
+146055449,little pool,lovely,POS,0.7054,facility,1.00
+129275190,motel,stayed,NEU,0.9939,facility,0.82
+129275190,time,ice,POS,1.0,experience,0.92
+129275190,motel,booking older,NEG,0.9992,facility,0.82
+129275190,motel,more rundown,NEG,0.9995,facility,0.82
+129275190,motel,noisy,NEG,0.9998,facility,0.82
+129275190,bathroom,not just old,NEG,0.7947,facility,0.80
+129275190,bathroom,mouldy,NEG,1.0,facility,0.80
+129275190,bathroom,cleaning,NEG,1.0,facility,0.80
+129275190,air conditioner,worked well,NEU,0.5779,facility,0.67
+129275190,bed,clean,POS,0.9568,facility,0.89
+129275190,swimming pool,old,NEG,0.9981,facility,0.86
+129275190,water quality,great,POS,0.9996,facility,0.92
+129275190,breakfast,no problems,NEU,0.9998,food,0.77
+129275190,laundry service,love,POS,1.0,service,1.00
+129275190,sit ' s,budget,POS,0.7575,experience,0.50
+129275190,sit ' s,away from the crowds,POS,0.3623,experience,0.50
+129275190,waterbom,10 minutes walk,POS,0.8328,,
+129275190,discovery plaza,10 minutes walk,POS,0.8616,environment,1.00
+129275190,discovery plaza,3 mine,POS,0.9024,environment,1.00
+129275190,beach,3 mine,POS,0.6815,environment,0.67
+128029559,room,disgusted,NEG,1.0,facility,0.86
+128029559,room,dirty,NEG,1.0,facility,0.86
+128029559,room,smell,NEG,1.0,facility,0.86
+128029559,bathroom,works,NEG,1.0,facility,0.80
+128029559,phone,didn ' t works,NEG,1.0,facility,0.71
+128029559,breakfast,didn ' t other,NEG,1.0,food,0.77
+128029559,plate,ants crawling,NEG,1.0,food,0.80
+128029559,towel,gray,NEG,0.9999,facility,0.71
+128029559,travel experience,works,NEG,1.0,experience,1.00
+127344013,hotel,budget,POS,0.8951,facility,0.93
+127344013,sit,budget,POS,0.8187,experience,0.50
+127344013,hotel,clean,POS,0.8551,facility,0.93
+127344013,sit,clean,POS,0.6616,experience,0.50
+127344013,time,tataly different,POS,0.8453,experience,0.92
+127344013,room,dirty,NEG,1.0,facility,0.86
+127344013,hospital,bitten by the flees,NEG,0.952,facility,0.88
+127344013,hospital,required attention,NEG,0.9999,facility,0.88
+127344013,roof,leaked,NEG,1.0,facility,0.71
+127344013,health insurance,goods,POS,1.0,price,0.50
+118840411,ground,lovely,POS,1.0,environment,0.95
+118840411,room,tired,NEG,1.0,facility,0.86
+118840411,staff,polite,POS,1.0,service,1.00
+118840411,staff,not friendly,NEG,1.0,service,1.00
+118840411,guest,really goods spot,POS,0.8313,environment,0.71
+118485329,hotel,stayed,NEU,1.0,facility,0.93
+118485329,experience,works,NEG,0.9938,experience,1.00
+118485329,room,dirty,NEG,0.9986,facility,0.86
+118485329,room,old,NEG,0.9987,facility,0.86
+118485329,door,big hole,NEG,0.9961,facility,0.92
+118485329,bathroom,big dead bugs,NEG,1.0,facility,0.80
+118485329,bathroom,dead bugs,NEG,1.0,facility,0.80
+118485329,bathroom,cockroaches,NEG,0.9909,facility,0.80
+118485329,this hotel,do not recommend,NEG,1.0,facility,0.93
+69159607,hotel,wanted,NEU,0.9977,facility,0.93
+69159607,hotel,close,POS,0.9997,facility,0.93
+69159607,room,works,NEG,0.9999,facility,0.86
+69159607,service,poor,NEG,1.0,service,1.00
+69159607,staff,rude,NEG,0.9999,service,1.00
+69159607,staff,unfriendly,NEG,1.0,service,1.00
+69159607,sir,no problems,NEG,0.4682,environment,0.71
+69159607,taxi,busy,NEG,1.0,facility,0.60
+54976396,street,not safety,NEG,0.9983,environment,0.92
+54976396,night,not safety,NEG,0.9926,experience,0.71
+54976396,beware,bandits,NEG,0.9789,experience,0.40
+54976396,motorbike,bandits,NEG,0.9979,facility,0.60
+54976396,airport,close,POS,0.4108,environment,1.00
+50018524,air con,goods,POS,0.9997,facility,0.83
+50018524,room,clean,POS,0.9953,facility,0.86
+50018524,staff,friendly,POS,0.9995,service,1.00
+50018524,breakfast,simple,POS,0.3511,food,0.77
+50018524,breakfast,adequate,POS,0.9941,food,0.77
+50018524,swimming pool,spacious,POS,0.9999,facility,0.86
+50018524,location,quiet,POS,0.9993,environment,1.00
+50018524,beach,close,POS,1.0,environment,0.67
+50018524,cafe,close,POS,1.0,food,0.94
+50018524,shop,close,POS,0.9998,experience,1.00
+50018524,mini bar,no,NEG,0.9971,food,1.00
+50018524,ice tray,no,NEG,0.9959,facility,0.88
+50018524,towel,things,NEG,0.9861,facility,0.71
+50018524,fluffy,things,NEG,0.7931,experience,0.50
+50018524,towel,always available,NEG,0.8996,facility,0.71
+43514855,hotel,love,POS,0.9885,facility,0.93
+43514855,room,clean,POS,0.9994,facility,0.86
+43514855,air conditioner,worked fine,POS,0.485,facility,0.67
+43514855,staff,impecable,POS,0.9986,service,1.00
+43514855,pool,need some works,NEG,0.9952,facility,1.00
+43514855,price,need some works,NEG,0.9733,price,1.00
+43514855,price,fantastic,POS,0.9991,price,1.00
+43514855,restaurant meals,cheap,POS,0.9963,food,1.00
+43514855,location,love,POS,0.9999,environment,1.00
+693014668,room,with children,POS,0.6804,facility,0.86
+693014668,room,with children .,POS,0.4425,facility,0.86
+693014668,location,goods,POS,0.9962,environment,1.00
+693014668,room,clean,POS,0.7129,facility,0.86
+693014668,staff,friendly,POS,0.9999,service,1.00
+693014668,buffet breakfast,goods,POS,1.0,food,0.96
+693014668,warungs,goods,POS,0.9989,,
+693014668,warungs,nearby,POS,0.9925,,
+693014668,room,quiet,POS,0.9989,facility,0.86
+693014668,room,noisy,NEG,1.0,facility,0.86
+693014668,air conditioners,loud,NEG,0.9962,facility,0.67
+693014668,air conditioners,not reliable,NEG,0.9972,facility,0.67
+666128702,location,great,POS,1.0,environment,1.00
+666128702,bed linen,filthy,NEG,0.9966,facility,0.62
+666128702,pathway,patchwork,NEG,0.9989,environment,0.80
+666128702,pathway,uneven concrete,NEG,0.9904,environment,0.80
+666128702,pool,chipped,NEG,0.9919,facility,1.00
+666128702,pool,broken tiles,NEG,0.6134,facility,1.00
+666128702,light,dim,NEG,0.9163,environment,0.83
+666128702,backpacker,more like,POS,0.9906,environment,0.67
+666128702,hotel,more like,POS,0.998,facility,0.93
+666128702,sit,dump,NEG,0.8823,experience,0.50
+666128702,sit,dump,NEG,0.9499,experience,0.50
+624327518,room,basic,NEU,1.0,facility,0.86
+624327518,bathroom,remodelling,NEG,0.9974,facility,0.80
+624327518,bed,hard,NEG,1.0,facility,0.89
+624327518,staff,wonderful,POS,1.0,service,1.00
+624327518,people,beautiful,POS,1.0,service,0.55
+624327518,breakfast,goods,POS,1.0,food,0.77
+624327518,price,goods,POS,0.9999,price,1.00
+624327518,location,goods,POS,0.9962,environment,1.00
+621524189,hotel,cheap,POS,0.7885,facility,0.93
+621524189,hotel,basic,NEU,0.7751,facility,0.93
+621524189,location,great,POS,0.6973,environment,1.00
+621524189,room,old tired,NEG,0.4962,facility,0.86
+621524189,room,tired,NEG,0.4527,facility,0.86
+581289845,staff,fantastic,POS,1.0,service,1.00
+581289845,breakfast,great,POS,1.0,food,0.77
+581289845,pool,ice,POS,1.0,facility,1.00
+562200271,staff,soaked under the drain,NEG,0.519,service,1.00
+562200271,staff,showers we,NEG,0.6288,service,1.00
+562200271,staff,we,NEG,0.6721,service,1.00
+562200271,room,ice,POS,0.9966,facility,0.86
+551890835,rate,best,POS,0.9997,price,0.82
+551890835,),ok,POS,0.5813,,
+551890835,bed,extra,POS,0.4395,facility,0.89
+551890835,room options,uninviting,POS,0.9891,facility,0.86
+551890835,discussion,nothing made scene,NEG,0.8508,experience,0.77
+551890835,the,poor,NEG,0.7978,,
+551890835,attitude,poor,NEG,0.942,service,1.00
+551890835,the,dismissive,NEG,0.9989,,
+544628325,staff,ice,POS,1.0,service,1.00
+544628325,room,cleaners,POS,0.9988,facility,0.86
+544628325,breakfast,same,NEU,0.9788,food,0.77
+540355254,shock,reception,POS,0.4382,experience,0.71
+540355254,tea,no,NEG,1.0,food,0.83
+540355254,coffee,no,NEG,1.0,food,0.83
+540355254,bathroom,no,NEG,0.7362,facility,0.80
+540355254,shampoo,no place,NEG,0.8269,service,0.78
+540355254,breakfast,coverage,NEU,1.0,food,0.77
+540355254,pool,one levels sink,NEG,0.7258,facility,1.00
+540355254,pool floor tiles,not happy,NEG,0.9988,facility,1.00
+527131040,room,different blocks,POS,0.6283,facility,0.86
+527131040,hotel,not a bad,NEU,0.956,facility,0.93
+527131040,hotel,needs some works,NEG,0.9458,facility,0.93
+527131040,room,cleaners,POS,0.9662,facility,0.86
+527131040,restaurant,goods,POS,0.9973,food,1.00
+527131040,food,goods,POS,0.9952,food,1.00
+527131040,staff,great,POS,1.0,service,1.00
+527131040,staff,helpful,POS,1.0,service,1.00
+527131040,staff,friendly,POS,1.0,service,1.00
+527131040,location,great,POS,1.0,environment,1.00
+527131040,breakfast,basic,NEU,1.0,food,0.77
+525038854,hotel,should have been a little gem,NEG,0.7484,facility,0.93
+525038854,hotel,little gem,NEG,0.7958,facility,0.93
+525038854,staff,lovely,POS,0.9988,service,1.00
+525038854,garden,lovely,POS,0.9873,environment,0.75
+525038854,location,deal,POS,0.9546,environment,1.00
+525038854,table,disgusting,NEG,1.0,facility,0.94
+525038854,milk,tastes of,NEG,1.0,food,0.83
+525038854,breakfast,no bacon,NEG,0.958,food,0.77
+525038854,breakfast,basic,NEU,0.5458,food,0.77
+525038854,breakfast,amazing,POS,0.9504,food,0.77
+525038854,café gala mor,out side,NEG,0.501,experience,0.82
+525038854,water,ran hot,NEG,0.6548,facility,0.92
+525038854,water,cold,NEG,0.983,facility,0.92
+525038854,power,mould,NEG,0.998,service,0.80
+510343720,drink,received,POS,0.3167,food,0.91
+510343720,staff,welcome,POS,1.0,service,1.00
+510343720,breakfast,no different tom 4years ago,NEG,0.749,food,0.77
+510343720,staff,rude,NEG,0.9998,service,1.00
+510343720,kuta,gone downhill,POS,0.9993,,
+510343720,money changers,ripped of,NEG,1.0,environment,0.75
+510343720,money changers,stolen,NEG,1.0,environment,0.75
+510343720,shopping centers,changes,NEG,0.83,environment,1.00
+510343720,good,changes,NEG,0.6412,facility,0.83
+510343720,good,high priced,POS,0.4066,facility,0.83
+510343720,shopping centers,no cheaper,NEG,0.8,environment,1.00
+510343720,good,no cheaper,NEG,0.8885,facility,0.83
+509702276,sit,basic,NEU,1.0,experience,0.50
+509702276,sit,clean,POS,1.0,experience,0.50
+509702276,room,renovated,POS,0.6186,facility,0.86
+509702276,room,okay,NEU,0.8945,facility,0.86
+509702276,pool,clean,POS,0.9998,facility,1.00
+509702276,food,goods,POS,1.0,food,1.00
+509702276,food,not expensive,POS,1.0,food,1.00
+509702276,breakfast buffet,not a bad,NEU,0.9106,food,0.96
+509702276,location,goods,POS,0.9606,environment,1.00
+509702276,location,central,POS,0.8622,environment,1.00
+509702276,beach,close,POS,0.9916,environment,0.67
+509702276,airport,close,POS,0.9787,environment,1.00
+509702276,shops lippo mall,close,POS,0.7447,experience,1.00
+509326663,pool,ice,POS,1.0,facility,1.00
+509326663,rest,terrible,NEG,0.9988,experience,0.86
+509326663,hotel,terrible,NEG,0.8029,facility,0.93
+509326663,room,ugly,NEG,1.0,facility,0.86
+509326663,in - room toilets,ugly,NEG,0.7486,,
+509326663,breakfast,not impressive,NEU,1.0,food,0.77
+501828042,room,ready,POS,1.0,facility,0.86
+501828042,room,not ready,NEG,0.9898,facility,0.86
+501828042,start,not a great,NEG,0.8866,experience,0.86
+501828042,room,ready,POS,0.7632,facility,0.86
+495611148,beach,every cose,POS,0.3472,environment,0.67
+495611148,small swimming pool,ice,POS,0.9985,facility,1.00
+495611148,small swimming pool,greenery,POS,0.878,facility,1.00
+495611148,place,quiet,POS,1.0,environment,1.00
+495611148,personnel,not professional,NEG,1.0,service,0.92
+495611148,service,minimal,NEG,0.9869,service,1.00
+495611148,price,phones,POS,0.996,price,1.00
+487800339,hotel,booked,NEU,1.0,facility,0.93
+487800339,reception,no one,NEG,0.5293,service,1.00
+487800339,picture,nothing like,NEG,0.4276,environment,0.83
+487800339,sit,terrible,NEG,0.9997,experience,0.50
+487800339,room,small,NEG,0.6452,facility,0.86
+487800339,air conditioner,didnt works,NEG,1.0,facility,0.67
+487800339,fridge,not cold,NEG,1.0,facility,0.53
+487800339,bed,squeaky,NEG,0.9982,facility,0.89
+487800339,bed,same,NEU,0.9999,facility,0.89
+487800339,air conditioner,didnt works,NEG,0.9989,facility,0.67
+487800339,door,didnt lock,NEG,1.0,facility,0.92
+487800339,money,didnt really car,NEG,0.7627,price,0.88
+487800339,their,wanted tom get out,POS,0.6066,,
+487800339,room,false advertising,NEG,0.9803,facility,0.86
+487800339,room,nothing like,NEG,0.5884,facility,0.86
+484045580,place,poor standard,NEG,0.9866,environment,1.00
+484045580,pool,near,POS,0.5761,facility,1.00
+484045580,room,cigarettes smell,NEG,1.0,facility,0.86
+484045580,anyone,doesn ' t smoke,NEG,0.7481,,
+484045580,anyone,smell,NEG,0.8798,,
+484045580,staff,smell,NEG,0.6884,service,1.00
+484045580,fridge,not cleaners,NEG,1.0,facility,0.53
+484045580,air conditioner,barely worked,NEG,0.9985,facility,0.67
+484045580,room,no brainier,NEG,0.8468,facility,0.86
+484045580,room,small,NEG,0.7944,facility,0.86
+484045580,family,can ' t up hand leave,NEG,1.0,environment,0.75
+469745566,position,great,POS,1.0,environment,1.00
+469745566,room,passable,POS,1.0,facility,0.86
+469745566,room,air conditioner,POS,0.9971,facility,0.86
+469745566,pool,great,POS,0.9997,facility,1.00
+469745566,trick,cheap,POS,0.5478,experience,0.88
+469745566,trick,cheerful,POS,0.5787,experience,0.88
+469737928,hotel,cheap,POS,1.0,facility,0.93
+469737928,bathroom,moldy,NEG,0.9938,facility,0.80
+469737928,room,great,POS,0.9996,facility,0.86
+469737928,pool,needs maintenance,NEG,0.9998,facility,1.00
+469737928,tile,broken,NEG,0.5821,facility,0.71
+469737928,hotel,not recommend,NEG,0.5943,facility,0.93
+469737928,pool,not recommend,NEG,0.394,facility,1.00
+469737928,pool,perfect,POS,0.9106,facility,1.00
+469737928,eat,cheap,POS,0.4839,food,1.00
+469737928,eat,cheap place,POS,0.4127,food,1.00
+469737928,juice bar,winner,POS,0.9994,food,1.00
+468427364,hotel,stay,NEU,0.2771,facility,0.93
+468427364,staff,ice,POS,1.0,service,1.00
+468427364,swimming pool,amazing,POS,0.9984,facility,0.86
+468427364,food,goods,POS,1.0,food,1.00
+468427364,room,smelling,NEG,0.9001,facility,0.86
+468427364,room,smelling bad,NEG,1.0,facility,0.86
+468427364,bathroom,not the best one,NEG,1.0,facility,0.80
+468427364,room,service,POS,0.958,facility,0.86
+468427364,room,service every day,POS,0.4391,facility,0.86
+468427364,room,service every day .,POS,0.4534,facility,0.86
+468427364,hotel,not so expensive,POS,0.9991,facility,0.93
+468427364,staff,perfect,POS,1.0,service,1.00
+449463370,place,has,POS,0.6442,environment,1.00
+449463370,breakfast,not that great,NEG,1.0,food,0.77
+449463370,room,clean,POS,1.0,facility,0.86
+440242532,hotel,works,NEG,1.0,facility,0.93
+440242532,room,clean,POS,0.9961,facility,0.86
+440242532,pool,bad luck,NEG,0.9544,facility,1.00
+440242532,bathroom,severe amount of mould,NEG,1.0,facility,0.80
+436490995,kuta beach,walking distance,POS,0.8251,environment,0.67
+436490995,lipoto mall,walking distance,POS,0.5803,environment,1.00
+436490995,property,renovations,NEG,0.9899,facility,0.93
+436490995,air conditioner,old,NEG,1.0,facility,0.67
+436490995,remote,didn ' t function well,NEG,0.9999,facility,0.75
+436490995,breakfast,wholesome,POS,0.9987,food,0.77
+436490995,value for money,goods,POS,0.9999,price,0.92
+436490995,location,great,POS,1.0,environment,1.00
+421666154,size pool,decent,NEU,1.0,facility,1.00
+421666154,staff,ice,POS,1.0,service,1.00
+421666154,room,clean,POS,1.0,facility,0.86
+400245105,hotel,booked,NEU,1.0,facility,0.93
+400245105,breakfast,minimum,NEG,0.9996,food,0.77
+400245105,room,booked,NEU,0.9999,facility,0.86
+400245105,bed,platter installed,POS,1.0,facility,0.89
+400245105,sheet,torn 9 out of 10 time,NEG,0.9083,facility,0.83
+400245105,phone,don ' t works,NEG,1.0,facility,0.71
+400245105,hotel,rates,NEG,0.9886,facility,0.93
+399009358,fridge,cold,NEG,0.7084,facility,0.53
+399009358,staff,friendly,POS,0.9813,service,1.00
+399009358,staff,spacious,POS,0.9993,service,1.00
+399009358,night,fine,POS,0.9993,experience,0.71
+378887527,room,big,POS,1.0,facility,0.86
+378887527,bed,comfortable,POS,1.0,facility,0.89
+378887527,shower area,fit 6 people,POS,0.6048,facility,1.00
+378887527,furniture,outdated,NEG,1.0,facility,1.00
+378887527,air conditioner,works,POS,1.0,facility,0.67
+378887527,breki,basic,NEU,1.0,,
+378887527,breakfast,goods,POS,1.0,food,0.77
+378887527,swimming pool,main gripe,POS,0.9938,facility,0.86
+378887527,tiles walls,green,NEG,0.9902,facility,0.86
+359207316,oasis,lovely,POS,0.5149,facility,0.86
+359207316,breakfast,ice,POS,0.9989,food,0.77
+359207316,swimming pool,ice,POS,0.988,facility,0.86
+359207316,wifi,not bad,POS,0.9971,facility,0.63
+359207316,bed,not enough,NEG,0.996,facility,0.89
+359207316,room,simple,POS,0.993,facility,0.86
+359207316,room,clean,POS,0.9996,facility,0.86
+359207316,airco,goods,POS,1.0,,
+356693973,hotel,every would advise,POS,0.6114,facility,0.93
+356693973,hotel,every would advise anyone,POS,0.9646,facility,0.93
+356693973,linen,tired,NEG,1.0,facility,0.77
+356693973,linen,grubby,NEG,0.9975,facility,0.77
+356693973,cup,no,NEG,0.9896,facility,0.75
+356693973,coffee,no,NEG,0.9878,food,0.83
+356693973,tea facilities,no,NEG,0.957,facility,1.00
+356693973,shower,we,NEG,0.978,facility,1.00
+356693973,toilet,keep lid,NEG,1.0,facility,0.88
+356693973,toilet,keep lid down,NEG,1.0,facility,0.88
+356693973,breakfast,poor,NEG,1.0,food,0.77
+356693973,breakfast,uninteresting,NEG,0.9999,food,0.77
+356693973,food,not coverage,NEG,0.9894,food,1.00
+356693973,food,flies walking,NEG,1.0,food,1.00
+356693973,staff,didn ' t see every helpful,NEG,1.0,service,1.00
+356693973,hotel,frequented,NEU,0.5378,facility,0.93
+356693973,price,low,NEG,0.975,price,1.00
+356693973,stay,would stay no,POS,0.3496,experience,1.00
+326172495,stay,not much has changes,NEG,0.9849,experience,1.00
+326172495,hotel,classic bali,POS,0.9923,facility,0.93
+326172495,location,great,POS,1.0,environment,1.00
+326172495,staff,friendly,POS,1.0,service,1.00
+326172495,large rooms,adequate,POS,1.0,facility,0.86
+326172495,linen,old,NEG,1.0,facility,0.77
+326172495,towel,cleaners,POS,0.9938,facility,0.71
+326172495,breakfast,small,NEG,0.9924,food,0.77
+326172495,breakfast,plentiful,POS,0.9993,food,0.77
+318779413,room deal,booked,NEU,0.9942,facility,0.86
+318779413,kid,enjoyed,POS,0.91,environment,0.75
+318779413,breakfast,included,NEU,0.646,food,0.77
+318779413,breakfast,limited in choices,NEG,0.9578,food,0.77
+318779413,staff,worked other forever,POS,0.9727,service,1.00
+318779413,staff,interupting the,POS,0.51,service,1.00
+318779413,pool,great,POS,0.9988,facility,1.00
+318779413,pool,chlorine,NEG,1.0,facility,1.00
+318779413,budget,couldn ' t fault the place,POS,0.9999,price,1.00
+310898974,staff,ignored us,NEG,0.9931,service,1.00
+310898974,room,available,NEU,0.9944,facility,0.86
+310898974,staff,carried our suite cafes,POS,0.9975,service,1.00
+310898974,reception,upset,NEG,1.0,service,1.00
+310898974,the,keep waiting,NEG,0.3561,,
+310898974,job,goods,POS,1.0,experience,0.92
+310898974,room,great,POS,1.0,facility,0.86
+310898974,breakfast,great,POS,1.0,food,0.77
+305795132,flight,came,POS,0.6791,environment,0.80
+305795132,price,air,POS,0.957,price,1.00
+305795132,ground,beautiful,POS,0.9977,environment,0.95
+305795132,swimming pool,ice,POS,0.9999,facility,0.86
+305795132,room,ice,POS,0.9959,facility,0.86
+305795132,atmosphere,relaxed,POS,0.9999,environment,1.00
+305795132,atmosphere,peaceful,POS,0.9997,environment,1.00
+305795132,place,great,POS,1.0,environment,1.00
+298476491,room,ice clean,POS,1.0,facility,0.86
+298476491,staff,friendly,POS,1.0,service,1.00
+298476491,wifi,ok,NEU,0.9999,facility,0.63
+298476491,pool,great,POS,0.9749,facility,1.00
+298476491,pool,large,POS,1.0,facility,1.00
+298476491,pool,every deep,POS,0.749,facility,1.00
+298476491,kutas main shops,10 mine walk,POS,0.9912,experience,1.00
+298476491,beach,10 mine walk,POS,1.0,environment,0.67
+298476491,shopping center,new,POS,0.9927,environment,1.00
+294579489,room,clean,POS,0.9976,facility,0.86
+294579489,room,comfortable,POS,0.9867,facility,0.86
+294579489,room,given,NEU,0.9946,facility,0.86
+294579489,bakung,recommended,POS,0.9998,,
+294579489,staff,friendliness,POS,0.9687,service,1.00
+294579489,friendliness,fantastic,POS,0.7307,environment,0.67
+294579489,staff,fantastic,POS,0.9998,service,1.00
+294579489,alot,long term,NEG,0.9363,,
+294579489,employee,long term,NEG,0.9844,service,1.00
+294579489,everything,short walk,POS,0.9999,,
+294579489,come back,more than happy,POS,0.9998,experience,0.33
+278503593,room,budget,POS,0.5522,facility,0.86
+278503593,room,deluxe,POS,0.9919,facility,0.86
+278503593,swimming pool,available,POS,0.5883,facility,0.86
+278503593,room,standard,NEU,1.0,facility,0.86
+278503593,service,excellent,POS,1.0,service,1.00
+278503593,staff,polite,POS,1.0,service,1.00
+277990684,review,crictical,NEG,0.9619,experience,0.80
+277990684,hotel,budget,POS,0.9156,facility,0.93
+277990684,room,large,POS,0.9953,facility,0.86
+277990684,room,clean,POS,0.9999,facility,0.86
+277990684,beds breakfast,comfy,POS,0.9928,facility,0.89
+277990684,meal,cheap,POS,1.0,food,0.83
+277990684,meal,toast,POS,1.0,food,0.83
+277990684,range,limited,NEG,1.0,facility,0.92
+277990684,bintangs,large,POS,0.9984,,
+274323166,budget hotel,pleasantly surprised,POS,0.9991,price,1.00
+274323166,people,lot,POS,0.452,service,0.55
+274323166,room,well used,POS,0.9644,facility,0.86
+274323166,bathroom,well used,POS,0.9999,facility,0.80
+274323166,room,clean,POS,0.9895,facility,0.86
+274323166,bathroom,clean,POS,1.0,facility,0.80
+274323166,furniture,rickety,NEG,1.0,facility,1.00
+274323166,entry door,gaps,NEG,0.9995,environment,0.93
+274323166,entry door,easily fixed,NEG,0.6283,environment,0.93
+274323166,mozzies,careful,NEG,0.9998,,
+274323166,staff,friendly,POS,1.0,service,1.00
+274323166,staff,helpful,POS,0.9997,service,1.00
+274323166,pool,beautifully kept,POS,1.0,facility,1.00
+274323166,meal,available,POS,0.3954,food,0.83
+274323166,drink,available,POS,0.8919,food,0.91
+274323166,location,central,POS,0.3813,environment,1.00
+268192369,staff,hard spoke any english,NEG,0.7512,service,1.00
+268192369,pool,chlorine,NEG,0.866,facility,1.00
+268192369,kitchen,need tom order bacon for eggs,NEG,0.498,facility,0.80
+268192369,kitchen,do not have sit,NEG,0.9261,facility,0.80
+268192369,hotel,next door,POS,0.5535,facility,0.93
+268192369,lippo mall,next door,POS,0.801,environment,1.00
+268192369,room,not that big for spacious,NEG,0.9383,facility,0.86
+268192369,shower,broken,NEG,0.9987,facility,1.00
+268192369,water,time cold,NEG,0.9814,facility,0.92
+268192369,tile,brown stairs,NEG,1.0,facility,0.71
+268192369,room,dirty cutlery,NEG,0.6204,facility,0.86
+264350300,staff,friendly,POS,1.0,service,1.00
+264350300,pool,ice,POS,0.9999,facility,1.00
+264350300,location,liked,POS,0.9993,environment,1.00
+264350300,bed,comfy,POS,1.0,facility,0.89
+251045762,hotel,old,NEG,0.9999,facility,0.93
+251045762,room,small,NEG,0.9981,facility,0.86
+251045762,room,dirty,NEG,0.9991,facility,0.86
+251045762,bathroom,smell,NEG,1.0,facility,0.80
+251045762,bathroom,table urine,NEG,1.0,facility,0.80
+251045762,breakfast,no goods,NEG,1.0,food,0.77
+251045762,staff,pleasant,POS,1.0,service,1.00
+251045762,location,excellent,POS,0.9495,environment,1.00
+251045762,shop,every close,POS,0.622,experience,1.00
+251045762,restaurant,every close,POS,0.6154,food,1.00
+251045762,shop,close,POS,0.9871,experience,1.00
+251045762,restaurant,close,POS,0.9443,food,1.00
+251045762,bar,night time .,POS,0.3372,food,1.00
+228938603,aspect,didn ' t like,NEG,0.9393,environment,1.00
+228938603,room,unclean,NEG,0.9983,facility,0.86
+228938603,pool,goods,POS,1.0,facility,1.00
+222500356,hotel,goods value for money,POS,0.9478,facility,0.93
+222500356,room,clean,POS,1.0,facility,0.86
+222500356,room,air conditioner,POS,1.0,facility,0.86
+222500356,staff,friendly,POS,1.0,service,1.00
+222500356,staff,not intrusive,NEG,1.0,service,1.00
+222500356,surf,close,POS,1.0,experience,0.71
+222500356,price,goods,POS,1.0,price,1.00
+222500356,sit ' s,not 5 start price,NEG,0.6448,experience,0.50
+222500356,value,goods,POS,1.0,price,0.92
+211469461,airport,close,POS,0.7753,environment,1.00
+211469461,locate,light behind the mall,POS,0.9998,environment,1.00
+211469461,facility,old,NEG,0.9082,facility,1.00
+211469461,facility,many mosquitos,NEG,0.6885,facility,1.00
+211469461,facility,mosquitos,NEG,0.7532,facility,1.00
+211469461,staff,ice,POS,1.0,service,1.00
+211469461,staff,friendly,POS,1.0,service,1.00
+211469461,price,cheap,POS,0.9999,price,1.00
+205598735,darwin,plate flight,NEG,0.6428,environment,0.67
+205598735,reception,awkward,NEG,1.0,service,1.00
+205598735,check,quickly,POS,0.9996,facility,0.88
+205598735,room,great,POS,1.0,facility,0.86
+205598735,bathroom,big,POS,0.9866,facility,0.80
+205598735,balcony,cute,POS,0.4821,facility,0.92
+205598735,breakfast,goods,POS,1.0,food,0.77
+205598735,breakfast,different,NEG,0.7526,food,0.77
+205598735,toast,basics,NEU,0.368,food,0.77
+205598735,tea,basics,NEU,0.8378,food,0.83
+205598735,coffee,basics,NEU,0.7469,food,0.83
+205598735,fruit,basics,NEU,0.2929,facility,0.71
+201973091,pool,no,NEG,0.7572,facility,1.00
+201973091,desk,rude,NEG,0.9951,facility,0.89
+201973091,door,things,NEG,0.9927,facility,0.92
+201973091,door,things slats,NEG,0.5143,facility,0.92
+201973091,door,things,NEG,1.0,facility,0.92
+201973091,kuta,expensive,NEG,0.5108,,
+201973091,bathroom,terrible,NEG,1.0,facility,0.80
+201973091,stay,dissapointment,NEG,1.0,experience,1.00
+183584869,room,spartan tom stay the least,POS,0.9995,facility,0.86
+183584869,bed,old,NEG,1.0,facility,0.89
+183584869,sheet,small,NEG,0.9999,facility,0.83
+183584869,blanket,old,NEG,1.0,facility,0.77
+183584869,blanket,scratchy,NEG,1.0,facility,0.77
+183584869,bathroom,dirty,NEG,1.0,facility,0.80
+183584869,restaurant,don ' t other,NEG,1.0,food,1.00
+183584869,quality,awful,NEG,1.0,facility,0.88
+183584869,meal,forever,POS,0.9512,food,0.83
+183584869,meal,inedible,POS,0.4836,food,0.83
+183584869,pool,ice,POS,1.0,facility,1.00
+183584869,garden,lovely,POS,1.0,environment,0.75
+183135102,hotel,booked,NEU,0.9853,facility,0.93
+183135102,breakfast,perfect,POS,0.9987,food,0.77
+183135102,photo,reasonable,NEU,0.9222,facility,0.71
+183135102,room,has their tv,NEG,0.3738,facility,0.86
+183135102,wall,paper things,NEG,0.9848,facility,0.86
+183135102,room,noise,NEG,0.7871,facility,0.86
+183135102,we,exhausted,POS,0.4882,,
+183135102,we,quiet,POS,0.5964,,
+181321664,price,250,POS,0.9872,price,1.00
+181321664,breakfast,included,POS,0.9797,food,0.77
+181321664,sit,more,POS,0.9898,experience,0.50
+181321664,room,large,POS,0.9996,facility,0.86
+181321664,room,clean,POS,0.9999,facility,0.86
+181321664,room,comfort,POS,0.9999,facility,0.86
+181321664,breakfast,delicious,POS,1.0,food,0.77
+181321664,location,near,POS,0.7237,environment,1.00
+181321664,kuta beach,near,POS,0.98,environment,0.67
+181321664,com,based con reality,POS,0.666,,
+179872006,room,spacious,POS,0.9988,facility,0.86
+179872006,everything,basic,NEU,0.9984,,
+179872006,air conditioner,basic,NEU,0.9988,facility,0.67
+179872006,hot water,basic,NEU,0.9078,environment,0.71
+179872006,breakfast,basic,NEU,1.0,food,0.77
+179872006,pool,ice,POS,0.9987,facility,1.00
+179872006,pool,needs some maintenance,NEG,0.9624,facility,1.00
+179872006,staff,friendly,POS,1.0,service,1.00
+179872006,staff,polite,POS,1.0,service,1.00
+179872006,staff,helped,POS,1.0,service,1.00
+179872006,hypermarket,amazing,POS,0.9997,environment,0.78
+179872006,breakfast,basic,NEU,0.9999,food,0.77
+179872006,breakfast,better,POS,0.9384,food,0.77
+178230231,staff,con hand,POS,1.0,service,1.00
+178230231,security guard,con hand,POS,0.9999,environment,0.67
+178230231,room,clean,POS,0.9994,facility,0.86
+178230231,bathroom,clean,POS,1.0,facility,0.80
+178230231,room,spacious,POS,0.9992,facility,0.86
+178230231,bathroom,spacious,POS,0.9997,facility,0.80
+178230231,room,convenient,POS,0.9994,facility,0.86
+178230231,bathroom,convenient,POS,0.9987,facility,0.80
+178230231,breakfast,adequate,POS,0.9993,food,0.77
+178230231,water,required getting used,NEG,0.9322,facility,0.92
+178230231,hotel,well known,POS,1.0,facility,0.93
+178230231,activity,lots,POS,1.0,experience,1.00
+176982732,excuse of a hotel,poor,NEG,0.7847,service,0.67
+176982732,room,basic,NEU,1.0,facility,0.86
+176982732,room,coverage,NEU,1.0,facility,0.86
+176982732,linen,gross,POS,1.0,facility,0.77
+176982732,breakfast,not fit for human consumption,NEG,1.0,food,0.77
+176982732,breakfast,looked disgusting,NEG,1.0,food,0.77
+176982732,staff,ice,POS,1.0,service,1.00
+176982732,spend,extra few bucks,NEG,0.3897,experience,0.50
+166118244,bar,excellent,POS,0.9999,food,1.00
+166118244,restaurant,excellent,POS,1.0,food,1.00
+166118244,pool,excellent,POS,1.0,facility,1.00
+166118244,location,downfall,NEG,0.9762,environment,1.00
+166118244,taxi,cheap,POS,1.0,facility,0.60
+166118244,legian rd,closer,POS,0.5583,,
+165654112,hotel,fantastic,POS,0.9999,facility,0.93
+165654112,value,great,POS,1.0,price,0.92
+165654112,staff,friendly,POS,0.9997,service,1.00
+165654112,pool,well kept,POS,0.9999,facility,1.00
+165654112,room,not renovated,NEG,1.0,facility,0.86
+165654112,room,clean,POS,0.9993,facility,0.86
+165654112,air conditioning,works great,POS,0.9999,facility,0.67
+165654112,holiday,affordable,POS,1.0,experience,1.00
+165654112,family,loves,POS,0.9968,environment,0.75
+161845077,wifi,free,POS,0.9995,facility,0.63
+161845077,tv ' s,new,POS,0.9885,,
+151541801,facade,great,POS,1.0,facility,0.67
+151541801,room,not even made up,NEG,0.9995,facility,0.86
+151541801,air conditioner,not working well,NEG,0.9463,facility,0.67
+151541801,breakfast,free,POS,0.9998,food,0.77
+151541801,breakfast,goods,POS,0.9999,food,0.77
+151541801,pool,inviting,POS,1.0,facility,1.00
+151541801,linen,not that clean,NEG,1.0,facility,0.77
+151541801,bathroom,not that clean,NEG,1.0,facility,0.80
+151541801,staff,ice,POS,1.0,service,1.00
+151347492,room,little nervous,NEG,0.4918,facility,0.86
+151347492,room,goods,POS,1.0,facility,0.86
+151347492,room,clean,POS,1.0,facility,0.86
+151347492,linen,not upto any standeds,NEG,1.0,facility,0.77
+151347492,linen,white,POS,0.9833,facility,0.77
+151347492,towel,white,POS,0.9784,facility,0.71
+151347492,room,clean,POS,1.0,facility,0.86
+151347492,everything,close,POS,1.0,,
+151347492,breakfast,ok,NEU,1.0,food,0.77
+151347492,money,worth,POS,0.9999,price,0.88
+151347492,build,stayed,NEU,1.0,facility,0.62
+151347492,build,old,NEG,0.9999,facility,0.62
+151347492,renovation,lots,POS,0.9999,service,0.86
+136254996,hotel,ice,POS,1.0,facility,0.93
+136254996,staff,ice,POS,1.0,service,1.00
+136254996,location,ice,POS,1.0,environment,1.00
+136254996,hotel,suitable,POS,0.9999,facility,0.93
+136254996,staff,suitable,POS,1.0,service,1.00
+136254996,location,suitable,POS,1.0,environment,1.00
+136254996,beach,taking a 10min stroll,POS,0.5406,environment,0.67
+136254996,beach,10min stroll,POS,0.5286,environment,0.67
+136254996,everything,fingertips,POS,1.0,,
+136254996,shop,quaint,POS,0.9463,experience,1.00
+136254996,shop,providing everything one would need,POS,0.9853,experience,1.00
+136254996,bathroom,need an update,NEG,1.0,facility,0.80
+136254996,bathroom,not a problems,POS,0.3311,facility,0.80
+136254996,deal,great,POS,0.5631,experience,0.77
+136254996,asia rooms,great,POS,0.9021,facility,0.86
+136254996,pool,ice,POS,1.0,facility,1.00
+136254996,hotel,helpful,POS,1.0,facility,0.93
+136254996,front desk,helpful,POS,0.9999,environment,0.92
+136254996,restaurant staff,helpful,POS,1.0,food,1.00
+136254996,value,great,POS,0.9999,price,0.92
+124128519,hotel,works,NEG,0.8527,facility,0.93
+124128519,room,old,NEG,0.4855,facility,0.86
+84019555,hotel,needs a new cat of paint,NEG,1.0,facility,0.93
+84019555,bedroom,standard,NEU,1.0,facility,0.80
+84019555,air conditioner,didnt works,NEG,1.0,facility,0.67
+84019555,phone,didnt works,NEG,1.0,facility,0.71
+84019555,reception,couldnt speak english,NEG,1.0,service,1.00
+84019555,pool,fab,POS,0.6335,facility,1.00
+84019555,staff,friendly,POS,1.0,service,1.00
+53615613,location,not bad,POS,0.9963,environment,1.00
+53615613,area,love,POS,0.9967,environment,0.92
+53615613,area,away from the noise of kuta,POS,0.5033,environment,0.92
+53615613,hotel,walking distance,POS,0.5523,facility,0.93
+53615613,waterbom park,walking distance,POS,0.7929,facility,0.86
+53615613,discovery mall,walking distance,POS,0.7542,environment,1.00
+53615613,restaurant,ice,POS,0.6278,food,1.00
+53615613,pool,kept up,POS,0.9179,facility,1.00
+53615613,pool,kept up quite well,POS,0.3745,facility,1.00
+53615613,room,problems,NEG,0.9993,facility,0.86
+53615613,room,old,NEG,1.0,facility,0.86
+53615613,room,in disrepair,NEG,0.9934,facility,0.86
+53615613,room,disrepair,NEG,0.9999,facility,0.86
+53615613,bathroom,mothballs over the drain,NEG,0.9993,facility,0.80
+53615613,room,smell,NEG,0.9992,facility,0.86
+53615613,room,smell,NEG,0.9979,facility,0.86
+53615613,price,low,NEG,0.9093,price,1.00
+35996426,pool bar,doesnt even works,NEG,0.9878,facility,1.00
+35996426,pool tiles,hasnt been up,NEG,0.6488,facility,1.00
+35996426,breakfast,lost out,NEG,0.9413,food,0.77
+35996426,shower,wasnt working,NEG,0.9875,facility,1.00
+35996426,room,damp smell,NEG,0.9018,facility,0.86
+35996426,hotel,moving,NEG,0.7782,facility,0.93
+30701612,shower,didn ' t have z beds,NEG,0.7741,facility,1.00
+30701612,sheet,didn ' t have z beds,NEG,0.4699,facility,0.83
+30701612,sheet,massive stairs,NEG,0.9856,facility,0.83
+30701612,sheet,washed out,NEG,0.5302,facility,0.83
+712505599,room,clean,POS,0.9999,facility,0.86
+712505599,bathroom,smell clean,NEG,0.4912,facility,0.80
+712505599,bathroom,clean,POS,0.5804,facility,0.80
+712505599,fridge,other was,NEG,0.3754,facility,0.53
+712505599,tea,no,NEG,0.9943,food,0.83
+712505599,coffee,no,NEG,0.9925,food,0.83
+712505599,tv remote,have,NEG,0.8368,,
+712505599,youtube,thank goodness,POS,1.0,,
+712505599,book,thank goodness,POS,1.0,facility,0.71
+712505599,ground,lovely,POS,0.6349,environment,0.95
+712505599,pool,attractive,POS,1.0,facility,1.00
+706151171,price,fantastic,POS,1.0,price,1.00
+706151171,location,fantastic,POS,1.0,environment,1.00
+684471197,hotel,cheapish,POS,0.9991,facility,0.93
+684471197,location,great,POS,0.9992,environment,1.00
+684471197,airport,near,POS,0.9973,environment,1.00
+684471197,lippo mall,near,POS,0.9528,environment,1.00
+684471197,beach,near,POS,0.8091,environment,0.67
+684471197,pool,ice,POS,0.9999,facility,1.00
+684471197,garden,ice,POS,0.9995,environment,0.75
+684471197,hotel,old style,NEU,0.8,facility,0.93
+684471197,bed,uncomfortable,POS,0.9882,facility,0.89
+684471197,sheet,dirty,NEG,0.9638,facility,0.83
+684471197,pillow,dirty,NEG,0.8463,facility,0.71
+684471197,sheet,smell,NEG,0.9838,facility,0.83
+684471197,pillow,smell,NEG,0.994,facility,0.71
+684471197,cleaner,friendly,POS,1.0,service,0.86
+684471197,staff,weren ' t that friendly,NEG,1.0,service,1.00
+684471197,air con,noise,NEG,1.0,facility,0.83
+684471197,air con,so / so,NEU,0.983,facility,0.83
+684471197,fridge,worked,POS,0.9842,facility,0.53
+684471197,lid,broken,NEG,0.5184,facility,0.71
+684471197,shower,worked,POS,0.9152,facility,1.00
+684471197,price,is mould,NEG,0.5342,price,1.00
+684471197,balcony,ice,POS,1.0,facility,0.92
+673476860,cleanliness,fine,NEU,1.0,environment,1.00
+673476860,air con,did not works,NEG,1.0,facility,0.83
+673476860,fridge,did not works,NEG,1.0,facility,0.53
+673476860,maintenance guy,check everything,NEG,0.647,service,1.00
+673476860,manager,didn ' t see tom thrilled,NEG,0.9877,environment,0.71
+673476860,room 605,far superior,NEG,0.5171,facility,0.86
+673476860,room,spacious,POS,0.9999,facility,0.86
+673476860,bed,comfy,POS,0.9983,facility,0.89
+673476860,linen,clean,POS,0.9932,facility,0.77
+673476860,bathroom,didn ' t have any mould,NEG,0.9802,facility,0.80
+673476860,check - in,meh,POS,0.9921,facility,0.88
+673476860,check - in,didn ' t really feel welcome,NEG,0.9988,facility,0.88
+673476860,breakfast,coverage,NEU,1.0,food,0.77
+673476860,garden,lovely,POS,1.0,environment,0.75
+673476860,pool,lovely,POS,1.0,facility,1.00
+669958751,hotel,wonderful,POS,0.5006,facility,0.93
+669958751,shopping mall,close,POS,0.6589,environment,1.00
+669958751,big street,close,POS,0.6182,environment,0.92
+669958751,souvenir shops,cute,POS,0.699,experience,1.00
+669958751,restaurant,cozy,POS,0.6128,food,1.00
+669958751,hotel,not expensive,POS,1.0,facility,0.93
+669958751,room,beautiful,POS,0.9999,facility,0.86
+669958751,room,lots of space,POS,1.0,facility,0.86
+669958751,bathroom,have,NEG,0.4064,facility,0.80
+669958751,mine,wasn ’ t every clean,NEG,1.0,facility,0.77
+669958751,service,in ’ t the every best,NEG,1.0,service,1.00
+669958751,service,didn ’ t have big problems,NEG,0.4533,service,1.00
+669958751,stay,loved,POS,1.0,experience,1.00
+669958751,stay,more than perfect,POS,0.9962,experience,1.00
+669958751,staff,friendly,POS,1.0,service,1.00
+669958751,staff,helpful,POS,0.9999,service,1.00
+669958751,felt,like home,POS,0.9969,experience,0.86
+669648489,place,crap,NEG,1.0,environment,1.00
+669648489,room,buggered,NEG,0.9397,facility,0.86
+669648489,food,disgusting,NEG,1.0,food,1.00
+669648489,service,no,NEG,1.0,service,1.00
+669648489,place,not stay,NEG,0.9984,environment,1.00
+669648489,pool,needed tom bed fixed up,NEG,0.9712,facility,1.00
+669648489,pool towels,not supplied,NEG,1.0,facility,1.00
+669648489,bed,not comfy,NEG,1.0,facility,0.89
+635037169,room,reasonable,POS,0.9925,facility,0.86
+635037169,terrace,ice,POS,1.0,facility,0.86
+635037169,people,friendly,POS,0.9998,service,0.55
+635037169,bed,goods,POS,0.9999,facility,0.89
+635037169,bed,clean,POS,0.997,facility,0.89
+635037169,breakfast,basic,NEU,1.0,food,0.77
+635037169,airport,near,POS,1.0,environment,1.00
+635037169,courtyard,green,POS,0.9942,facility,0.86
+635037169,mall,not super luxury,NEG,0.4756,environment,1.00
+635037169,price,goods girl,NEG,0.4283,price,1.00
+633372594,staff,not car,NEG,1.0,service,1.00
+633372594,hotel,did not maintain,NEG,1.0,facility,0.93
+633372594,room,ice,POS,1.0,facility,0.86
+633372594,bathroom,awful,NEG,1.0,facility,0.80
+633372594,drape,moldy,NEG,0.9999,facility,0.88
+633372594,pool,badly lit,NEG,0.9965,facility,1.00
+633372594,pool,no light,NEG,0.9993,facility,1.00
+633372594,pool,not every well cleaners,NEG,0.9998,facility,1.00
+633372594,pool bar,no staff,NEG,1.0,facility,1.00
+633372594,pool bar,no staff attending,NEG,0.9926,facility,1.00
+633372594,staff,tired,NEG,0.9981,service,1.00
+633372594,girl,taking orders,POS,0.4935,environment,0.75
+621611049,hotel,cheap,POS,0.9999,facility,0.93
+621611049,hotel,cheerful,POS,1.0,facility,0.93
+621611049,location,great,POS,0.9995,environment,1.00
+621611049,shop,great,POS,0.6327,experience,1.00
+621611049,breakfast,ok,NEU,1.0,food,0.77
+621611049,lippo mall,next tom,POS,0.9779,environment,1.00
+621611049,stair,little slippery,NEG,1.0,facility,0.71
+621611049,money,great value,POS,0.9999,price,0.88
+592847041,price,affordable,POS,0.9903,price,1.00
+592847041,room,basic,NEU,0.3596,facility,0.86
+592847041,pool,goods,POS,0.996,facility,1.00
+592847041,location,price,POS,1.0,environment,1.00
+586897331,hotel,goods,POS,0.9998,facility,0.93
+586897331,staff,ice,POS,0.9999,service,1.00
+586897331,room,confortable,POS,1.0,facility,0.86
+586897331,room,clean,POS,0.8126,facility,0.86
+586897331,location,goods,POS,0.5714,environment,1.00
+586897331,beach,next tom,POS,0.9793,environment,0.67
+586897331,place,advise,POS,0.5095,environment,1.00
+565250884,hotel,works,NEG,0.9999,facility,0.93
+565250884,hotel,filtiest,POS,0.9596,facility,0.93
+565250884,ceiling,fungus,NEG,0.9985,facility,0.67
+565250884,wall,fungus,NEG,0.9998,facility,0.86
+565250884,ceiling,mold,NEG,1.0,facility,0.67
+565250884,wall,mold,NEG,1.0,facility,0.86
+565250884,room,clean,POS,0.9998,facility,0.86
+565250884,sheet,clean,POS,0.9998,facility,0.83
+565250884,manager,friendly,POS,1.0,environment,0.71
+565250884,manager,apologised,POS,0.999,environment,0.71
+565250884,hygiene,lack,NEG,0.9998,environment,0.71
+513902760,room,not the best,NEG,1.0,facility,0.86
+513902760,shower,bad pressure,NEG,0.9965,facility,1.00
+513902760,breakfast,simple,NEU,0.6169,food,0.77
+513902760,room,little degraded,NEG,0.777,facility,0.86
+513902760,locate,dark,NEG,0.9988,environment,1.00
+510846660,room,terrible,NEG,0.9994,facility,0.86
+510846660,bath room,terrible,NEG,0.9829,facility,0.86
+510846660,water,no,NEG,0.9444,facility,0.92
+510846660,bath room,slow,NEG,0.9636,facility,0.86
+510846660,bath room,smell,NEG,0.9086,facility,0.86
+510846660,food,bad,NEG,0.9512,food,1.00
+506099272,ambience,goods,POS,1.0,environment,1.00
+506099272,pool,great,POS,1.0,facility,1.00
+506099272,beach,minutes walking distance,POS,0.9999,environment,0.67
+506099272,beach,close,POS,1.0,environment,0.67
+467123462,location,love,POS,1.0,environment,1.00
+467123462,food,ok,NEU,0.4655,food,1.00
+467123462,air conditioning,cleaning,NEG,1.0,facility,0.67
+467123462,the,didn ' t rectify,NEG,0.6814,,
+467123462,wifi,poor,NEG,1.0,facility,0.63
+467123462,wifi speed,improve,NEG,0.8409,service,0.70
+458419269,shower,no separate,NEG,0.3745,facility,1.00
+458419269,shower,one,NEG,0.3424,facility,1.00
+458419269,shower,one,NEG,0.7593,facility,1.00
+458419269,bathroom,we,NEG,0.9983,facility,0.80
+458419269,bed,rockhard,POS,0.999,facility,0.89
+458419269,breakfast,said,NEG,0.9998,food,0.77
+440243057,hotel,works,NEG,1.0,facility,0.93
+440243057,cleanliness,poor,NEG,1.0,environment,1.00
+440243057,staff,poor,NEG,1.0,service,1.00
+440243057,location,poor,NEG,1.0,environment,1.00
+426023116,locate,close,POS,0.3609,environment,1.00
+426023116,airport,close,POS,0.4252,environment,1.00
+426023116,room,clean,POS,0.9999,facility,0.86
+426023116,room,basic,NEU,1.0,facility,0.86
+426023116,wifi coverage,not extensive,NEG,0.9998,facility,0.63
+426023116,breakfast,basic,NEU,0.9998,food,0.77
+426023116,beer,cold,NEG,0.9979,food,0.71
+423382034,sit,basic,NEU,0.9901,experience,0.50
+423382034,price,basic,NEU,0.9996,price,1.00
+423382034,price,well worth a looks,POS,0.9957,price,1.00
+423382034,position,great,POS,1.0,environment,1.00
+416051387,time,crappy,NEG,0.6601,experience,0.92
+416051387,room,crappy,NEG,0.6889,facility,0.86
+416051387,air con,noisy,NEG,0.967,facility,0.83
+416051387,renovation,noisy,NEG,0.5276,service,0.86
+416051387,room,mouldy,NEG,0.9954,facility,0.86
+416051387,tv,didn ' t works,NEG,0.9872,facility,0.67
+415518511,staff,friendly,POS,1.0,service,1.00
+415518511,staff,helpful,POS,0.9999,service,1.00
+415518511,staff,happy,POS,1.0,service,1.00
+415518511,breakfast,reasonable value,POS,0.95,food,0.77
+415518511,pool,murky,NEG,0.9936,facility,1.00
+415518511,water,stinging,NEG,0.9989,facility,0.92
+415518511,water,clear,POS,0.9999,facility,0.92
+415518511,swim,few,NEG,0.6327,experience,0.78
+412963629,bakung,disappointed,NEG,0.8113,,
+412963629,linen,clean,POS,0.9999,facility,0.77
+412963629,bed,comfy,POS,1.0,facility,0.89
+412963629,price,comfy,POS,0.5032,price,1.00
+412963629,breakfast,limited choices,NEG,1.0,food,0.77
+412963629,pool,disappointment,NEG,1.0,facility,1.00
+412963629,diving pool,same colour,NEG,0.995,facility,1.00
+412963629,atmosphere,dull,NEG,1.0,environment,1.00
+412608777,staff,friendly,POS,0.9998,service,1.00
+412608777,staff,helpful,POS,0.9996,service,1.00
+412608777,beach,5 mine walk,POS,0.7495,environment,0.67
+412608777,beach,always quiet,POS,0.5081,environment,0.67
+412608777,lipo mall,2 mine walk,POS,0.7316,environment,1.00
+412608777,airport,10 - 15 mine,POS,1.0,environment,1.00
+412608777,lcd,hand,NEU,0.9981,facility,0.63
+412608777,air conditioner,worked well,NEU,1.0,facility,0.67
+412608777,balcony,big,POS,0.9981,facility,0.92
+412608777,minibar,big,POS,0.9871,facility,0.89
+412608777,room,cleaners,POS,0.9995,facility,0.86
+412608777,room,cleaners everyday,POS,0.9485,facility,0.86
+412608777,pub,20 mine walk,POS,0.8148,facility,0.88
+412608777,club,20 mine walk,POS,0.5147,facility,0.93
+412608777,legian street,20 mine walk,POS,0.5544,environment,0.92
+412510548,locate,close tom the airport,NEG,0.9959,environment,1.00
+412510548,pool,ice,POS,1.0,facility,1.00
+412510548,breakfast,goods variety,POS,0.9767,food,0.77
+412510548,staff,ice,POS,1.0,service,1.00
+412510548,staff,helpful,POS,0.9999,service,1.00
+412510548,room,meeting the expectations,POS,1.0,facility,0.86
+412510548,wifi,other is,NEG,0.4986,facility,0.63
+410826776,staff,amazing,POS,0.9993,service,1.00
+410826776,spa,great,POS,0.5936,facility,0.88
+409917693,night,not out of choices,NEG,0.9994,experience,0.71
+409917693,floor,sticky,POS,0.9999,facility,0.92
+409917693,door,big gap,NEG,0.5761,facility,0.92
+409917693,door,big gap,NEG,0.5218,facility,0.92
+409917693,wall,big gap,NEG,0.4711,facility,0.86
+409917693,bathroom,mouldy,NEG,1.0,facility,0.80
+409917693,bathroom,yuck,NEG,0.996,facility,0.80
+409917693,sit,did not even use,NEG,1.0,experience,0.50
+409917693,room dining,no,NEG,1.0,facility,0.86
+409917693,air conditioner,hit,NEG,0.9991,facility,0.67
+409917693,air conditioner,miss,NEG,0.9998,facility,0.67
+409917693,room,no internet,NEG,1.0,facility,0.86
+409917693,part,works,NEG,0.7628,facility,0.93
+409917693,room,no safety,NEG,1.0,facility,0.86
+409917693,second,hated,POS,0.9641,experience,0.80
+405943768,room,spacious,POS,1.0,facility,0.86
+405943768,staff,friendly,POS,0.9467,service,1.00
+405943768,pool,ice,POS,1.0,facility,1.00
+405943768,area,like,POS,1.0,environment,0.92
+405943768,lippomall,close,POS,0.9705,,
+405943768,omelet,goods,POS,0.9998,food,0.77
+405943768,happy,every,POS,0.8494,experience,0.50
+405943768,cable tv,works well,POS,0.8523,facility,0.71
+405943768,room,daily water,NEG,0.4225,facility,0.86
+400645716,place,sucked hard,NEG,0.9998,environment,1.00
+400645716,room,terrible,NEG,0.8425,facility,0.86
+400645716,staff,non existant,NEG,0.5944,service,1.00
+400645716,pool bar,non existant,NEG,0.4822,facility,1.00
+400645716,pool bar,not staff,NEG,0.9148,facility,1.00
+400645716,staff,friendly,POS,0.7623,service,1.00
+382843184,people,friendly,POS,1.0,service,0.55
+382843184,people,helpful,POS,0.9981,service,0.55
+382843184,room,large,POS,0.9999,facility,0.86
+382843184,room,clean,POS,1.0,facility,0.86
+382843184,shower,no space divider,NEG,0.9958,facility,1.00
+382843184,toilet,no space divider,NEG,0.9864,facility,0.88
+382843184,floor,we,NEG,0.734,facility,0.92
+382843184,toiletbrush,no shelf,NEG,1.0,,
+382843184,beach,5 minutes walk,POS,0.526,environment,0.67
+382843184,beach,minutes walk,POS,0.4961,environment,0.67
+382843184,kuta,15 minutes walk,POS,0.9755,,
+380189440,woman,rude,NEG,0.9177,service,0.82
+380189440,room,every give,NEG,0.5101,facility,0.86
+380189440,above,pounding,NEG,0.8295,experience,0.50
+380189440,above,noise,NEG,0.7571,experience,0.50
+380189440,hot water,scalding tom cold,NEG,0.9985,environment,0.71
+380189440,bed,bar stained,NEG,0.5333,facility,0.89
+380189440,pool,green from neglect,NEG,0.9998,facility,1.00
+380189440,look,ear infection,NEG,0.8796,environment,0.92
+380189440,sharp tiles,broken,NEG,1.0,facility,0.71
+380189440,staff,smile,POS,1.0,service,1.00
+380189440,staff,shrug their shoulders,POS,0.9981,service,1.00
+375447047,price,reasonable,POS,0.9997,price,1.00
+375447047,hotel,old style,NEG,0.6161,facility,0.93
+375447047,cleanness,unsatisfied,NEG,0.4402,environment,0.77
+375447047,hygiene,unsatisfied,NEG,0.5142,environment,0.71
+375447047,amenity,poor,NEG,0.9058,facility,1.00
+375447047,room,big,POS,1.0,facility,0.86
+375447047,hotel,wont bed disappointed,NEG,0.4963,facility,0.93
+375447047,price,goods,POS,0.9999,price,1.00
+375447047,price,something better,POS,0.4132,price,1.00
+375447047,staff,uninformative,POS,0.9513,service,1.00
+375447047,staff,unhelpful,POS,0.9966,service,1.00
+375447047,staff,warm smile,POS,0.7344,service,1.00
+373582848,room,large,POS,0.9865,facility,0.86
+373582848,air,cold,NEG,0.5648,facility,0.83
+373582848,staff,friendly,POS,1.0,service,1.00
+373582848,beach,quiet,POS,0.9996,environment,0.67
+373582848,beach,close,POS,1.0,environment,0.67
+373582848,breakfast,goods,POS,0.8355,food,0.77
+373582848,coffee,endless,NEG,0.8843,food,0.83
+373582848,tea,endless,NEG,0.856,food,0.83
+373582848,massage spas,every hand,POS,0.6382,facility,0.88
+373582848,shop,lots,POS,0.9998,experience,1.00
+372218158,room,dirty,NEG,1.0,facility,0.86
+372218158,place,outdated,NEG,0.9993,environment,1.00
+372218158,place,unkept,NEG,0.9997,environment,1.00
+371652288,room,large,POS,1.0,facility,0.86
+371652288,pool area,great,POS,0.9994,facility,1.00
+371652288,swim up bar,great,POS,0.9991,experience,0.78
+371652288,breakfast,ok,NEU,1.0,food,0.77
+371652288,restaurant,out of the way,NEG,0.9473,food,1.00
+371652288,bar,out of the way,NEG,0.8797,food,1.00
+371652288,restaurant,like,POS,0.8421,food,1.00
+371652288,bar,like,POS,0.9456,food,1.00
+371652288,restaurant,have choices,POS,0.8033,food,1.00
+371652288,bar,have choices,POS,0.8036,food,1.00
+365890115,holiday,pleasant,POS,1.0,experience,1.00
+365890115,sit,contracting dengue every,NEG,0.9959,experience,0.50
+365890115,staff,beautiful,POS,1.0,service,1.00
+365890115,breakfast,enjoyable,POS,1.0,food,0.77
+365890115,breakfast,ice section,POS,0.9998,food,0.77
+365890115,pool,sunny,POS,0.9997,facility,1.00
+365890115,pool,clean,POS,0.9997,facility,1.00
+365890115,pool,need tom clean,NEG,0.7941,facility,1.00
+365890115,room,aged,NEG,0.9766,facility,0.86
+365890115,linen,aged,NEG,0.5307,facility,0.77
+365890115,room,lovely,POS,0.9999,facility,0.86
+365890115,linen,lovely,POS,0.9973,facility,0.77
+365890115,room,clean,POS,0.9999,facility,0.86
+365890115,linen,clean,POS,0.9992,facility,0.77
+364504579,book,booked sit,POS,0.3338,facility,0.71
+364504579,com,couldn ' t find,NEG,0.5145,,
+364504579,room,couldn ' t find,NEG,0.6271,facility,0.86
+364504579,room,large,POS,0.9174,facility,0.86
+364504579,air conditioner,large,POS,0.596,facility,0.67
+364504579,tv,large,POS,0.6229,facility,0.67
+364504579,air conditioner,with,POS,0.3156,facility,0.67
+364504579,tv,with,POS,0.346,facility,0.67
+364504579,room,clean,POS,0.8702,facility,0.86
+364504579,offer,nothing,NEG,0.3893,experience,0.86
+364504579,cereal,no,NEG,0.9991,food,0.83
+364504579,bacon,no,NEG,0.9173,food,0.80
+364504579,tomato,no,NEG,0.5674,food,0.71
+364504579,pool,beautiful,POS,0.9991,facility,1.00
+364504579,pool,large,POS,0.9613,facility,1.00
+364504579,pool,clean,POS,0.971,facility,1.00
+364504579,pool bar,center,POS,0.9992,facility,1.00
+361731324,staff,rude,POS,0.995,service,1.00
+361731324,cat excrement,every,POS,0.9429,environment,0.71
+361731324,smell,overpowering,POS,0.9994,environment,0.92
+361731324,garden,overpowering,POS,0.6094,environment,0.75
+361731324,breakfast,poor,NEG,1.0,food,0.77
+361731324,tile,broken,NEG,1.0,facility,0.71
+361731324,tiles in pool,broken,NEG,0.8739,facility,0.71
+361731324,tile,sharp,NEG,0.8223,facility,0.71
+336333562,budget hotel,clean,POS,0.4413,price,1.00
+336333562,room,clean,POS,0.4965,facility,0.86
+336333562,staff,great,POS,0.9999,service,1.00
+336333562,location,great,POS,0.9962,environment,1.00
+336333562,breakfast,coverage,NEU,1.0,food,0.77
+336333562,bacon,ice,POS,0.8071,food,0.80
+336333562,garden,ice,POS,0.9059,environment,0.75
+336333562,air conditioner,clean,POS,0.7203,facility,0.67
+336333562,room,no cafes,NEG,0.9984,facility,0.86
+336333562,safety deposit boxes,no cafes,NEG,0.8202,facility,0.67
+336333562,safety deposit boxes,works goods,POS,0.8206,facility,0.67
+336333562,hotel,will use,POS,0.9817,facility,0.93
+336333562,staff,great,POS,0.9999,service,1.00
+336333562,staff,great time,POS,0.9604,service,1.00
+334514834,hotel,goods,POS,0.9998,facility,0.93
+334514834,breakfast,ice,POS,0.5908,food,0.77
+334514834,airco,ice,POS,0.9221,,
+334514834,bed,goods,POS,0.9998,facility,0.89
+334514834,reasonable,clean,POS,0.4775,experience,0.50
+334514834,bathroom,smell,NEG,0.9993,facility,0.80
+334514834,staff,friendly,POS,1.0,service,1.00
+334514834,pool,has tom much chlorine,NEG,1.0,facility,1.00
+334514834,pool,much chlorine,NEG,0.9996,facility,1.00
+334514834,room,abit dark,NEG,1.0,facility,0.86
+334514834,view,ice,POS,1.0,environment,1.00
+304902620,hotel,clean,POS,1.0,facility,0.93
+304902620,park,ice,POS,0.9999,facility,0.86
+304902620,pool,great,POS,1.0,facility,1.00
+304902620,ngurah rai airport,near,POS,0.664,environment,1.00
+297686579,hotel,stayed,NEU,1.0,facility,0.93
+297686579,pool,not so goods,NEG,1.0,facility,1.00
+297686579,pool,chlorine,NEG,1.0,facility,1.00
+297686579,food,below standard,NEG,1.0,food,1.00
+297686579,staff,slow,NEG,1.0,service,1.00
+297686579,staff front office,slow,NEG,0.9895,service,1.00
+297686579,staff,great,POS,0.9634,service,1.00
+297686579,room,clean,POS,1.0,facility,0.86
+295880012,staff,friendly,POS,1.0,service,1.00
+295880012,location,perfect,POS,1.0,environment,1.00
+295880012,wifi,free,POS,0.9635,facility,0.63
+295880012,air con,free,POS,0.6537,facility,0.83
+295880012,atmosphere,relaxing,POS,0.9191,environment,1.00
+295880012,dewai,friends,POS,0.5291,,
+293166032,hotel,exceed mall expectations,POS,1.0,facility,0.93
+293166032,staff,friendly,POS,0.9998,service,1.00
+293166032,room,spacious,POS,0.9969,facility,0.86
+293166032,bathroom,clean,POS,0.9791,facility,0.80
+293166032,pool,ice,POS,0.9998,facility,1.00
+293166032,chlorine,tad,NEG,0.6808,food,0.55
+293166032,room,given,NEU,0.9937,facility,0.86
+293166032,room,quiet,POS,0.7924,facility,0.86
+293166032,beach,100 meters walk,POS,0.793,environment,0.67
+293166032,beach,ice,POS,0.9976,environment,0.67
+293166032,000,will,POS,0.6369,,
+293166032,000,will .,POS,0.5859,,
+274932870,hotel,disappointment,NEG,1.0,facility,0.93
+274932870,service,ok,NEU,1.0,service,1.00
+274932870,breakfast,coverage,NEU,1.0,food,0.77
+274932870,pool,ok,NEU,0.9999,facility,1.00
+274923658,location,perfect,POS,1.0,environment,1.00
+274923658,price,goods,POS,1.0,price,1.00
+274923658,facility,goods,POS,0.9999,facility,1.00
+269825412,hotel,stayed,NEU,0.9999,facility,0.93
+269825412,airport,close distance,POS,0.9737,environment,1.00
+269825412,bali traffic,nightmare,NEG,1.0,experience,0.77
+269825412,airport,long will sit take,POS,0.6748,environment,1.00
+269825412,bakung,short drive,NEG,0.8929,,
+269825412,hotel,quiete,POS,0.9995,facility,0.93
+269825412,room,basic,NEU,0.9974,facility,0.86
+269825412,bed,comfortable,POS,0.9969,facility,0.89
+269825412,pool,too deep,NEG,1.0,facility,1.00
+269825412,pool,chlorine,NEG,1.0,facility,1.00
+269825412,breakfast,oasis,NEU,0.9315,food,0.77
+269825412,meal,oasis,NEU,0.899,food,0.83
+269825412,cocktail,reasonable,NEU,0.3089,food,0.71
+269825412,price,reasonable,POS,0.4668,price,1.00
+269825412,shopping center,large,POS,0.9999,environment,1.00
+269825412,shopping center,overpriced,NEG,1.0,environment,1.00
+269825412,beach,walk,POS,0.733,environment,0.67
+266732643,sit,clean,POS,0.9999,experience,0.50
+266732643,sit,friendly,POS,0.9999,experience,0.50
+266732643,sit,affordable,POS,1.0,experience,0.50
+266732643,wifi,free,POS,1.0,facility,0.63
+266732643,breakfast,ok,NEU,1.0,food,0.77
+266732643,fruit platter,same papaya,NEG,0.4748,facility,0.71
+266732643,watermelon,same papaya,NEG,0.5051,food,0.71
+266732643,stay,enjoyed,POS,1.0,experience,1.00
+266732643,front office,have a safety,NEG,0.8281,service,0.93
+266732643,exchange rate,better,POS,0.9819,price,0.78
+258190268,hotel,cheap,POS,0.9999,facility,0.93
+258190268,hotel,ice,POS,0.9998,facility,0.93
+258190268,hotel,tidy,POS,0.9995,facility,0.93
+258190268,hair dryer,no,NEG,1.0,facility,0.71
+258190268,tooth brush,no,NEG,0.9239,facility,0.86
+258190268,build,not bad,POS,0.925,facility,0.62
+258190268,internet,not worked,NEG,1.0,facility,0.67
+258190268,bali connection,down,NEG,0.9245,facility,0.80
+258190268,every things,coverage,NEU,0.6946,facility,0.88
+258190268,every things,air,POS,0.4334,facility,0.88
+257576654,stay,loved,POS,0.9984,experience,1.00
+257576654,shopping center,walking distance,POS,0.9087,environment,1.00
+257576654,beach,walking distance,POS,1.0,environment,0.67
+257576654,wifi,reasonable,POS,0.9999,facility,0.63
+257576654,bathroom water,smell,NEG,0.9995,facility,0.92
+257576654,room,basic,NEU,1.0,facility,0.86
+257576654,hotel,not the hotels fault,POS,0.8805,facility,0.93
+257576654,bar,awesome,POS,0.9998,food,1.00
+257576654,kitchen,awesome,POS,0.9999,facility,0.80
+257576654,cleaning staff,awesome,POS,0.9988,service,1.00
+257576654,reception,easy tom deal with,POS,0.9995,service,1.00
+257576654,stay,enjoyed,POS,1.0,experience,1.00
+254001906,wait,well organized,POS,0.4368,experience,0.77
+254001906,waitress,well organized,POS,0.9941,service,0.86
+254001906,service,"were "" double standard",NEG,0.7193,service,1.00
+254001906,name,didnt have names bagdes,NEG,0.7165,environment,0.71
+254001906,the,didnt recognized me hand my names,NEG,0.9518,,
+254001906,pool,love,POS,1.0,facility,1.00
+241168338,hotel,cheap,POS,0.9999,facility,0.93
+241168338,cost,less,NEG,0.9951,price,1.00
+241168338,sit ' s,ice,POS,0.9987,experience,0.50
+241168338,pool,other is,NEU,0.9962,facility,1.00
+241168338,bathroom drain,bad smell,NEG,0.9999,facility,0.80
+241168338,hotel,great,POS,1.0,facility,0.93
+241168338,budget,wasn ' t really an issue,NEG,0.7503,price,1.00
+239873433,hotel,quite ok,NEU,1.0,facility,0.93
+239873433,beach,hidden,NEG,0.9877,environment,0.67
+239873433,room,clean,POS,1.0,facility,0.86
+239873433,room,spacious,POS,1.0,facility,0.86
+239873433,breakfast,fine,POS,0.6616,food,0.77
+239873433,the,could improve,NEG,0.3855,,
+239873433,door,were shut,NEG,0.759,facility,0.92
+239873433,window,were shut,NEG,0.7884,facility,0.80
+239873433,water pressure,could also bed improved,NEG,1.0,facility,0.92
+239873433,stay,goods,POS,1.0,experience,1.00
+239453375,pool,ice,POS,0.926,facility,1.00
+239453375,pool,ice,POS,0.5367,facility,1.00
+239453375,place,quiet,POS,0.6236,environment,1.00
+239453375,people,mixed,POS,0.5071,service,0.55
+239453375,breakfast,goods,POS,0.9345,food,0.77
+239453375,people,easy,POS,0.7596,service,0.55
+239453375,kuta center,easy,POS,0.7302,environment,1.00
+238581625,pool,too warm,NEG,1.0,facility,1.00
+238581625,pool,green,POS,1.0,facility,1.00
+238581625,swim,no,NEG,1.0,experience,0.78
+238581625,towel,forgot tom give,NEG,0.8622,facility,0.71
+238581625,breakfast,simple,NEU,0.9896,food,0.77
+238581625,breakfast,goods,POS,0.9999,food,0.77
+238581625,this hotel,wouldn ' t recommend,NEG,1.0,facility,0.93
+238581625,sit,cheap,NEG,0.8106,experience,0.50
+237035056,hotel,typical older style bali hotel,NEU,0.2744,facility,0.93
+237035056,room,large,POS,0.996,facility,0.86
+237035056,room,comfortable,POS,0.9928,facility,0.86
+237035056,cost,adequate,POS,1.0,price,1.00
+237035056,pay,more,NEG,0.6015,price,0.78
+237035056,shop,reasonable walking distance,POS,0.5957,experience,1.00
+237035056,restaurant,walking distance,POS,0.984,food,1.00
+237035056,shop,walking distance,POS,0.9941,experience,1.00
+237035056,restaurant,charming local term,POS,0.6255,food,1.00
+237035056,shop,charming local term,POS,0.6805,experience,1.00
+237035056,beach,short stroll,POS,0.9999,environment,0.67
+237035056,pool,pleasant,POS,0.9996,facility,1.00
+235337008,bathroom,dirty,NEG,0.9738,facility,0.80
+235337008,staff,lovely,POS,1.0,service,1.00
+235337008,pool,brilliant,POS,0.9998,facility,1.00
+230512202,money,well spend,POS,0.9998,price,0.88
+230512202,room,cleaners,POS,1.0,facility,0.86
+230512202,wifi,ok,NEU,1.0,facility,0.63
+230512202,wifi,slow,NEG,0.9995,facility,0.63
+230512202,pool,great,POS,0.9999,facility,1.00
+230512202,hair,dirty,NEG,0.9999,facility,0.77
+230512202,hair,not every clean,NEG,0.9882,facility,0.77
+230512202,bed,wasn ' t every soft,NEG,0.999,facility,0.89
+230512202,bed,comfy,POS,0.9919,facility,0.89
+230512202,stay,great,POS,0.9969,experience,1.00
+230512202,money,more than we expected,POS,0.9993,price,0.88
+230495019,hotel,enjoyed,POS,1.0,facility,0.93
+230495019,staff,excellent,POS,1.0,service,1.00
+230495019,location,great,POS,0.9999,environment,1.00
+230495019,airport,close,POS,0.999,environment,1.00
+230495019,everywhere,safety,POS,0.5433,experience,0.50
+230495019,hotel,recommend,POS,1.0,facility,0.93
+230495019,staff,friendly,POS,0.9993,service,1.00
+230495019,price,cheap,POS,0.9947,price,1.00
+230495019,hotel,reccommend,POS,0.9995,facility,0.93
+229131301,hotel,simple,POS,0.8489,facility,0.93
+229131301,breakfast,basic,NEU,1.0,food,0.77
+229131301,staff,friendly,POS,1.0,service,1.00
+229131301,room,clean,POS,0.9645,facility,0.86
+229131301,room,tidy,POS,0.9965,facility,0.86
+228548847,room,hand,NEU,1.0,facility,0.86
+228548847,value,great,POS,1.0,price,0.92
+228548847,beach,close,POS,0.9996,environment,0.67
+228548847,shop,close,POS,0.9996,experience,1.00
+228548847,pool area,ice,POS,0.9887,facility,1.00
+228548847,room,ok,NEU,1.0,facility,0.86
+228548847,airport taxis,getting,NEG,0.2888,environment,1.00
+200182150,room,clean,POS,0.9961,facility,0.86
+200182150,room,hand ac,NEG,0.5198,facility,0.86
+200182150,offering,meager,NEG,0.5905,experience,0.77
+200182150,pool,under construction,NEG,1.0,facility,1.00
+200182150,room,no cafes,NEG,1.0,facility,0.86
+196928042,hotel,stayed,NEU,1.0,facility,0.93
+196928042,booking review,not too bad,POS,0.9994,service,0.89
+196928042,room,terrible,NEG,0.5601,facility,0.86
+196928042,sink,clogged,NEG,1.0,facility,0.88
+196928042,shower,no curtains,NEG,0.9989,facility,1.00
+196928042,room,no room available,NEG,1.0,facility,0.86
+196928042,everything else,not recommend,NEG,0.9121,,
+191697636,standard room,stayed,NEU,0.3667,price,0.86
+191697636,budget hotel,choose,POS,0.895,price,1.00
+191697636,hotel,old,NEU,0.9998,facility,0.93
+191697636,hotel,old style,NEU,0.9892,facility,0.93
+191697636,garden,ice,POS,0.5431,environment,0.75
+191697636,staff,friendly,POS,0.9994,service,1.00
+191697636,standard rooms,that,NEU,0.9939,price,0.86
+191697636,breakfast,shocking,POS,1.0,food,0.77
+191697636,breakfast,hand stomach aches,NEG,0.9564,food,0.77
+191697636,hotel,not central,NEG,0.9974,facility,0.93
+190934414,room,fine,NEU,0.9999,facility,0.86
+190934414,staff,friendly,POS,0.9997,service,1.00
+190934414,staff,welcoming,POS,0.9813,service,1.00
+190934414,staff,would always stay hello,POS,0.9845,service,1.00
+190934414,room,little like the management pictures,NEG,0.5725,facility,0.86
+190934414,blanket,hand hair stuck,NEG,0.9884,facility,0.77
+190934414,blanket,hair stuck,NEG,0.7606,facility,0.77
+190934414,rest of the room,okay,NEU,0.7088,experience,0.86
+190934414,bathroom,large,POS,0.9991,facility,0.80
+190934414,terrace,ice,POS,1.0,facility,0.86
+190934414,pool,refreshing,POS,0.9997,facility,1.00
+190934414,tile,looks,NEG,0.9983,facility,0.71
+180038621,staff,friendly,POS,1.0,service,1.00
+180038621,staff,poor english,NEG,0.9957,service,1.00
+180038621,lobby,great first impression,POS,0.9601,facility,0.80
+180038621,lobby,well presented,POS,0.5158,facility,0.80
+180038621,hotel exterior,dated,NEG,0.9999,facility,0.93
+180038621,hotel exterior,little run down,NEG,0.9999,facility,0.93
+180038621,hotel exterior,run down,NEG,0.9965,facility,0.93
+180038621,garden,looked maintained,NEG,0.999,environment,0.75
+180038621,garden,looked maintained enough,NEG,0.9989,environment,0.75
+180038621,pool,clean,POS,1.0,facility,1.00
+180038621,standard room,far from pleasing,NEG,0.9908,price,0.86
+180038621,towel,worn,NEG,0.9998,facility,0.71
+180038621,sheet,small tears,NEG,0.9999,facility,0.83
+180038621,sheet,stairs,NEG,1.0,facility,0.83
+180038621,room,cleaners,POS,0.5847,facility,0.86
+180038621,room,fresher linen,POS,0.4526,facility,0.86
+176442126,room,basic,POS,0.9994,facility,0.86
+176442126,room,clean,POS,1.0,facility,0.86
+176442126,linen,clean,POS,0.9987,facility,0.77
+176442126,fridge,clean,POS,0.9997,facility,0.53
+176442126,staff,friendly,POS,1.0,service,1.00
+176442126,staff,helpful,POS,1.0,service,1.00
+176442126,breakfast,continental,POS,0.9936,food,0.77
+176442126,bali coffee,best,POS,0.8604,food,0.83
+176442126,restaurant,easy walking distance,POS,0.5773,food,1.00
+176442126,beach,close,POS,0.536,environment,0.67
+176442126,tuban hypermarket,2 mine walk,POS,0.9997,environment,0.78
+176442126,pool tiles,broken,NEG,1.0,facility,1.00
+176442126,pool,large,POS,0.9992,facility,1.00
+164990291,stay,second time in june .,POS,0.7163,experience,1.00
+164990291,see,happy,POS,0.7647,experience,1.00
+164990291,see,renovations,POS,0.3603,experience,1.00
+164990291,hotel,love,POS,0.9967,facility,0.93
+164990291,service,gret,POS,0.9859,service,1.00
+164990291,people,gorgeous,POS,0.508,service,0.55
+164990291,agung,entertaining,POS,0.4983,,
+149541511,hotel,needs an upgrade,NEG,0.7793,facility,0.93
+149541511,staff,memorable,POS,0.9992,service,1.00
+149541511,shop,enjoy,POS,1.0,experience,1.00
+149541511,location,enjoy,POS,0.9998,environment,1.00
+138376431,hotel,cheap,POS,0.9996,facility,0.93
+138376431,phone,didn ' t works,NEG,1.0,facility,0.71
+138376431,shower,awful,NEG,1.0,facility,1.00
+138376431,holiday,cheap,POS,1.0,experience,1.00
+138376431,pay,get what,POS,0.693,price,0.78
+138376431,pay,what,POS,0.5582,price,0.78
+138376431,pool,ice,POS,0.9993,facility,1.00
+138376431,garden,pretty,POS,0.7427,environment,0.75
+138376431,room,comfortable,POS,0.4938,facility,0.86
+138376431,room,ice,POS,0.6415,facility,0.86
+138376431,bathroom,ice,POS,0.8204,facility,0.80
+138376431,bathroom,needs works,NEG,0.4464,facility,0.80
+138376431,staff,friendly,POS,0.9999,service,1.00
+138376431,alley,dark,NEG,0.9956,environment,0.75
+138376431,alley,daunting,NEG,0.958,environment,0.75
+129278205,hotel,old,NEG,1.0,facility,0.93
+129278205,hotel,dirty,NEG,1.0,facility,0.93
+127394269,room,old,NEG,0.9999,facility,0.86
+127394269,bathroom,older,NEG,0.9275,facility,0.80
+127394269,room,older,NEG,0.5479,facility,0.86
+127394269,price,non - negotiable,NEG,0.9999,price,1.00
+127394269,price,high,NEG,1.0,price,1.00
+127394269,location,not goods,NEG,0.9855,environment,1.00
+127394269,pool,old,NEG,0.9998,facility,1.00
+127394269,water,goods,POS,0.9992,facility,0.92
+127394269,breakfast,ok,NEU,1.0,food,0.77
+127394269,hotel,works,NEG,0.5192,facility,0.93
+117058975,towel,grey,NEG,0.9997,facility,0.71
+117058975,sheet,grey,NEG,0.9995,facility,0.83
+117058975,room account,no,NEG,0.7644,facility,0.86
+117058975,rooms conditioner,leaked,NEG,0.9125,facility,0.86
